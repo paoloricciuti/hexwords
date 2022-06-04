@@ -11,7 +11,6 @@
 
 <main style:--selected-color={selectedColor}>
     <Search bind:search={query} />
-    {query}
     <HexWords {words} {query} on:select={(e) => (selectedColor = e.detail)} />
 </main>
 
@@ -20,8 +19,11 @@
         margin: 0;
         padding: 0;
     }
+    :global(*) {
+        box-sizing: border-box;
+    }
     main {
-        width: 100vw;
+        width: 100%;
         min-height: 100vh;
         background-color: var(--selected-color, white);
     }
