@@ -12,6 +12,9 @@ const config = {
         prerender: {
             enabled: true,
         },
+        files: {
+            lib: "./src/lib"
+        }
     }
 };
 

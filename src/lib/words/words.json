@@ -1,0 +1,4477 @@
+[
+    {
+        "word": "BABIES",
+        "hex": "#BAB1E5",
+        "score": 1.802857142857143
+    },
+    {
+        "word": "BOSSES",
+        "hex": "#B055E5",
+        "score": 1.7528571428571427
+    },
+    {
+        "word": "OFFICE",
+        "hex": "#0FF1CE",
+        "score": 1.7442857142857142
+    },
+    {
+        "word": "COFFEE",
+        "hex": "#C0FFEE",
+        "score": 1.7342857142857142
+    },
+    {
+        "word": "DECIDE",
+        "hex": "#DEC1DE",
+        "score": 1.6842857142857142
+    },
+    {
+        "word": "BODIES",
+        "hex": "#B0D1E5",
+        "score": 1.6585714285714286
+    },
+    {
+        "word": "DISEASES",
+        "hex": "#D15EA5E5",
+        "score": 1.6400000000000001
+    },
+    {
+        "word": "ASIDES",
+        "hex": "#A51DE5",
+        "score": 1.63
+    },
+    {
+        "word": "ACCESSES",
+        "hex": "#ACCE55E5",
+        "score": 1.6285714285714286
+    },
+    {
+        "word": "ACCESS",
+        "hex": "#ACCE55",
+        "score": 1.6285714285714286
+    },
+    {
+        "word": "BESIDE",
+        "hex": "#BE51DE",
+        "score": 1.6057142857142859
+    },
+    {
+        "word": "OBSESSED",
+        "hex": "#0B5E55ED",
+        "score": 1.5814285714285714
+    },
+    {
+        "word": "DISCOS",
+        "hex": "#D15C05",
+        "score": 1.5657142857142858
+    },
+    {
+        "word": "DECEASED",
+        "hex": "#DECEA5ED",
+        "score": 1.5542857142857143
+    },
+    {
+        "word": "CEASES",
+        "hex": "#CEA5E5",
+        "score": 1.552857142857143
+    },
+    {
+        "word": "DECADE",
+        "hex": "#DECADE",
+        "score": 1.5371428571428571
+    },
+    {
+        "word": "COCOAS",
+        "hex": "#C0C0A5",
+        "score": 1.497142857142857
+    },
+    {
+        "word": "BASICS",
+        "hex": "#BA51C5",
+        "score": 1.4957142857142858
+    },
+    {
+        "word": "EDDIES",
+        "hex": "#EDD1E5",
+        "score": 1.4928571428571429
+    },
+    {
+        "word": "DEFIES",
+        "hex": "#DEF1E5",
+        "score": 1.49
+    },
+    {
+        "word": "SEAFOODS",
+        "hex": "#5EAF00D5",
+        "score": 1.4828571428571429
+    },
+    {
+        "word": "SEASIDES",
+        "hex": "#5EA51DE5",
+        "score": 1.4828571428571429
+    },
+    {
+        "word": "ABIDES",
+        "hex": "#AB1DE5",
+        "score": 1.4814285714285713
+    },
+    {
+        "word": "ASSESSES",
+        "hex": "#A55E55E5",
+        "score": 1.477142857142857
+    },
+    {
+        "word": "ASSESS",
+        "hex": "#A55E55",
+        "score": 1.477142857142857
+    },
+    {
+        "word": "COSIES",
+        "hex": "#C051E5",
+        "score": 1.4714285714285715
+    },
+    {
+        "word": "BEDSIDES",
+        "hex": "#BED51DE5",
+        "score": 1.4557142857142857
+    },
+    {
+        "word": "ABODES",
+        "hex": "#AB0DE5",
+        "score": 1.4557142857142857
+    },
+    {
+        "word": "DECAFS",
+        "hex": "#DECAF5",
+        "score": 1.4442857142857144
+    },
+    {
+        "word": "FACADE",
+        "hex": "#FACADE",
+        "score": 1.4414285714285713
+    },
+    {
+        "word": "BIASED",
+        "hex": "#B1A5ED",
+        "score": 1.4385714285714286
+    },
+    {
+        "word": "CABBIE",
+        "hex": "#CABB1E",
+        "score": 1.4342857142857142
+    },
+    {
+        "word": "FESSES",
+        "hex": "#FE55E5",
+        "score": 1.427142857142857
+    },
+    {
+        "word": "FIASCO",
+        "hex": "#F1A5C0",
+        "score": 1.4257142857142857
+    },
+    {
+        "word": "BODIED",
+        "hex": "#B0D1ED",
+        "score": 1.4242857142857144
+    },
+    {
+        "word": "CISCOS",
+        "hex": "#C15C05",
+        "score": 1.4242857142857144
+    },
+    {
+        "word": "DISEASED",
+        "hex": "#D15EA5ED",
+        "score": 1.4171428571428573
+    },
+    {
+        "word": "SASSES",
+        "hex": "#5A55E5",
+        "score": 1.4142857142857141
+    },
+    {
+        "word": "DIOCESES",
+        "hex": "#D10CE5E5",
+        "score": 1.4128571428571428
+    },
+    {
+        "word": "DECODE",
+        "hex": "#DEC0DE",
+        "score": 1.4128571428571428
+    },
+    {
+        "word": "FOSSES",
+        "hex": "#F055E5",
+        "score": 1.4057142857142857
+    },
+    {
+        "word": "IDIOCIES",
+        "hex": "#1D10C1E5",
+        "score": 1.3942857142857141
+    },
+    {
+        "word": "SEABED",
+        "hex": "#5EABED",
+        "score": 1.3942857142857141
+    },
+    {
+        "word": "ACIDIC",
+        "hex": "#AC1D1C",
+        "score": 1.3885714285714286
+    },
+    {
+        "word": "DISSES",
+        "hex": "#D155E5",
+        "score": 1.3842857142857143
+    },
+    {
+        "word": "OBSESSES",
+        "hex": "#0B5E55E5",
+        "score": 1.3814285714285715
+    },
+    {
+        "word": "OBSESS",
+        "hex": "#0B5E55",
+        "score": 1.3814285714285715
+    },
+    {
+        "word": "CADDIE",
+        "hex": "#CADD1E",
+        "score": 1.3771428571428572
+    },
+    {
+        "word": "CABOOSES",
+        "hex": "#CAB005E5",
+        "score": 1.37
+    },
+    {
+        "word": "ABBESSES",
+        "hex": "#ABBE55E5",
+        "score": 1.3528571428571428
+    },
+    {
+        "word": "EDIFICES",
+        "hex": "#ED1F1CE5",
+        "score": 1.3528571428571428
+    },
+    {
+        "word": "ABBESS",
+        "hex": "#ABBE55",
+        "score": 1.3528571428571428
+    },
+    {
+        "word": "BEADED",
+        "hex": "#BEADED",
+        "score": 1.3528571428571428
+    },
+    {
+        "word": "SCOFFS",
+        "hex": "#5C0FF5",
+        "score": 1.3528571428571428
+    },
+    {
+        "word": "SEEDED",
+        "hex": "#5EEDED",
+        "score": 1.3528571428571428
+    },
+    {
+        "word": "CICADA",
+        "hex": "#C1CADA",
+        "score": 1.3471428571428572
+    },
+    {
+        "word": "BOOBOO",
+        "hex": "#B00B00",
+        "score": 1.342857142857143
+    },
+    {
+        "word": "FAECES",
+        "hex": "#FAECE5",
+        "score": 1.3399999999999999
+    },
+    {
+        "word": "ACACIA",
+        "hex": "#ACAC1A",
+        "score": 1.3371428571428572
+    },
+    {
+        "word": "BASSES",
+        "hex": "#BA55E5",
+        "score": 1.3371428571428572
+    },
+    {
+        "word": "BEDDED",
+        "hex": "#BEDDED",
+        "score": 1.3328571428571427
+    },
+    {
+        "word": "SECEDE",
+        "hex": "#5ECEDE",
+        "score": 1.3328571428571427
+    },
+    {
+        "word": "DEFACE",
+        "hex": "#DEFACE",
+        "score": 1.3285714285714285
+    },
+    {
+        "word": "CASCADES",
+        "hex": "#CA5CADE5",
+        "score": 1.3242857142857143
+    },
+    {
+        "word": "DECEASES",
+        "hex": "#DECEA5E5",
+        "score": 1.32
+    },
+    {
+        "word": "BODICE",
+        "hex": "#B0D1CE",
+        "score": 1.32
+    },
+    {
+        "word": "ADOBES",
+        "hex": "#AD0BE5",
+        "score": 1.3142857142857143
+    },
+    {
+        "word": "BAOBAB",
+        "hex": "#BA0BAB",
+        "score": 1.3142857142857143
+    },
+    {
+        "word": "COOEES",
+        "hex": "#C00EE5",
+        "score": 1.302857142857143
+    },
+    {
+        "word": "OFFSIDES",
+        "hex": "#0FF51DE5",
+        "score": 1.2971428571428572
+    },
+    {
+        "word": "CODIFIED",
+        "hex": "#C0D1F1ED",
+        "score": 1.2971428571428572
+    },
+    {
+        "word": "ACCEDE",
+        "hex": "#ACCEDE",
+        "score": 1.2971428571428572
+    },
+    {
+        "word": "DEBASE",
+        "hex": "#DEBA5E",
+        "score": 1.2971428571428572
+    },
+    {
+        "word": "DOSSES",
+        "hex": "#D055E5",
+        "score": 1.2971428571428572
+    },
+    {
+        "word": "IODIDE",
+        "hex": "#10D1DE",
+        "score": 1.29
+    },
+    {
+        "word": "CASCADED",
+        "hex": "#CA5CADED",
+        "score": 1.2814285714285714
+    },
+    {
+        "word": "CASSIS",
+        "hex": "#CA5515",
+        "score": 1.2814285714285714
+    },
+    {
+        "word": "DOODAD",
+        "hex": "#D00DAD",
+        "score": 1.2814285714285714
+    },
+    {
+        "word": "ADOBOS",
+        "hex": "#AD0B05",
+        "score": 1.2714285714285714
+    },
+    {
+        "word": "BOCCES",
+        "hex": "#B0CCE5",
+        "score": 1.2714285714285714
+    },
+    {
+        "word": "CASSIA",
+        "hex": "#CA551A",
+        "score": 1.2714285714285714
+    },
+    {
+        "word": "DIODES",
+        "hex": "#D10DE5",
+        "score": 1.2714285714285714
+    },
+    {
+        "word": "FASCIA",
+        "hex": "#FA5C1A",
+        "score": 1.2714285714285714
+    },
+    {
+        "word": "OSSIFIES",
+        "hex": "#0551F1E5",
+        "score": 1.26
+    },
+    {
+        "word": "ACIDOSIS",
+        "hex": "#AC1D0515",
+        "score": 1.26
+    },
+    {
+        "word": "BABIED",
+        "hex": "#BAB1ED",
+        "score": 1.26
+    },
+    {
+        "word": "BADDIE",
+        "hex": "#BADD1E",
+        "score": 1.26
+    },
+    {
+        "word": "CASABA",
+        "hex": "#CA5ABA",
+        "score": 1.26
+    },
+    {
+        "word": "CESSES",
+        "hex": "#CE55E5",
+        "score": 1.26
+    },
+    {
+        "word": "FOSSAS",
+        "hex": "#F055A5",
+        "score": 1.26
+    },
+    {
+        "word": "ABIDED",
+        "hex": "#AB1DED",
+        "score": 1.247142857142857
+    },
+    {
+        "word": "BASSOS",
+        "hex": "#BA5505",
+        "score": 1.247142857142857
+    },
+    {
+        "word": "ISSEIS",
+        "hex": "#155E15",
+        "score": 1.247142857142857
+    },
+    {
+        "word": "SAFETIES",
+        "hex": "#5AFE71E5",
+        "score": 1.232421875
+    },
+    {
+        "word": "OSSIFIED",
+        "hex": "#0551F1ED",
+        "score": 1.2285714285714286
+    },
+    {
+        "word": "CODIFIES",
+        "hex": "#C0D1F1E5",
+        "score": 1.2285714285714286
+    },
+    {
+        "word": "BOFFOS",
+        "hex": "#B0FF05",
+        "score": 1.2285714285714286
+    },
+    {
+        "word": "FOODIE",
+        "hex": "#F00D1E",
+        "score": 1.2285714285714286
+    },
+    {
+        "word": "IDIOTS",
+        "hex": "#1D1075",
+        "score": 1.1810846560846562
+    },
+    {
+        "word": "DEFEATED",
+        "hex": "#DEFEA7ED",
+        "score": 1.169921875
+    },
+    {
+        "word": "AFFECTED",
+        "hex": "#AFFEC7ED",
+        "score": 1.163671875
+    },
+    {
+        "word": "FASCISTS",
+        "hex": "#FA5C1575",
+        "score": 1.147421875
+    },
+    {
+        "word": "TOBACCOS",
+        "hex": "#70BACC05",
+        "score": 1.146171875
+    },
+    {
+        "word": "ADDICTED",
+        "hex": "#ADD1C7ED",
+        "score": 1.1449218749999999
+    },
+    {
+        "word": "DATABASE",
+        "hex": "#DA7ABA5E",
+        "score": 1.124921875
+    },
+    {
+        "word": "DEDICATE",
+        "hex": "#DED1CA7E",
+        "score": 1.124921875
+    },
+    {
+        "word": "CABBAGES",
+        "hex": "#CABBA6E5",
+        "score": 1.122421875
+    },
+    {
+        "word": "DIABETES",
+        "hex": "#D1ABE7E5",
+        "score": 1.106171875
+    },
+    {
+        "word": "EFFECT",
+        "hex": "#EFFEC7",
+        "score": 1.10489417989418
+    },
+    {
+        "word": "BEASTS",
+        "hex": "#BEA575",
+        "score": 1.1037037037037039
+    },
+    {
+        "word": "COASTS",
+        "hex": "#C0A575",
+        "score": 1.098941798941799
+    },
+    {
+        "word": "DEFEAT",
+        "hex": "#DEFEA7",
+        "score": 1.085846560846561
+    },
+    {
+        "word": "DIABETIC",
+        "hex": "#D1ABE71C",
+        "score": 1.0736718749999998
+    },
+    {
+        "word": "SADISTIC",
+        "hex": "#5AD1571C",
+        "score": 1.0699218750000001
+    },
+    {
+        "word": "ASSISTED",
+        "hex": "#A55157ED",
+        "score": 1.068671875
+    },
+    {
+        "word": "BOOZES",
+        "hex": "#B002E5",
+        "score": 1.0667989417989419
+    },
+    {
+        "word": "CITIES",
+        "hex": "#C171E5",
+        "score": 1.0667989417989419
+    },
+    {
+        "word": "AFFECT",
+        "hex": "#AFFEC7",
+        "score": 1.0644179894179895
+    },
+    {
+        "word": "DEFICITS",
+        "hex": "#DEF1C175",
+        "score": 1.0611718749999999
+    },
+    {
+        "word": "FEASTS",
+        "hex": "#FEA575",
+        "score": 1.0596560846560847
+    },
+    {
+        "word": "BADGES",
+        "hex": "#BAD6E5",
+        "score": 1.05489417989418
+    },
+    {
+        "word": "STIFFS",
+        "hex": "#571FF5",
+        "score": 1.0537037037037038
+    },
+    {
+        "word": "DEADBEAT",
+        "hex": "#DEADBEA7",
+        "score": 1.052421875
+    },
+    {
+        "word": "TOBIES",
+        "hex": "#70B1E5",
+        "score": 1.048941798941799
+    },
+    {
+        "word": "TOSSES",
+        "hex": "#7055E5",
+        "score": 1.048941798941799
+    },
+    {
+        "word": "SEATED",
+        "hex": "#5EA7ED",
+        "score": 1.0477513227513229
+    },
+    {
+        "word": "DEBATE",
+        "hex": "#DEBA7E",
+        "score": 1.0465608465608467
+    },
+    {
+        "word": "ASBESTOS",
+        "hex": "#A5BE5705",
+        "score": 1.046171875
+    },
+    {
+        "word": "TEASES",
+        "hex": "#7EA5E5",
+        "score": 1.0406084656084658
+    },
+    {
+        "word": "ASSIST",
+        "hex": "#A55157",
+        "score": 1.035846560846561
+    },
+    {
+        "word": "ADDICT",
+        "hex": "#ADD1C7",
+        "score": 1.0334656084656086
+    },
+    {
+        "word": "TIDIES",
+        "hex": "#71D1E5",
+        "score": 1.0322751322751322
+    },
+    {
+        "word": "SEIZES",
+        "hex": "#5E12E5",
+        "score": 1.0287037037037037
+    },
+    {
+        "word": "DISSECTS",
+        "hex": "#D155EC75",
+        "score": 1.027421875
+    },
+    {
+        "word": "FATSOS",
+        "hex": "#FA7505",
+        "score": 1.0251322751322753
+    },
+    {
+        "word": "BOOGIE",
+        "hex": "#B0061E",
+        "score": 1.0239417989417992
+    },
+    {
+        "word": "ASSETS",
+        "hex": "#A55E75",
+        "score": 1.0227513227513227
+    },
+    {
+        "word": "BESIEGED",
+        "hex": "#BE51E6ED",
+        "score": 1.0174218750000001
+    },
+    {
+        "word": "DODGES",
+        "hex": "#D0D6E5",
+        "score": 1.0167989417989418
+    },
+    {
+        "word": "COZIES",
+        "hex": "#C021E5",
+        "score": 1.0084656084656085
+    },
+    {
+        "word": "BASSISTS",
+        "hex": "#BA551575",
+        "score": 1.0061718750000002
+    },
+    {
+        "word": "GABIES",
+        "hex": "#6AB1E5",
+        "score": 1.0060846560846561
+    },
+    {
+        "word": "BOOSTS",
+        "hex": "#B00575",
+        "score": 1.0037037037037038
+    },
+    {
+        "word": "EDITED",
+        "hex": "#ED17ED",
+        "score": 1.0037037037037038
+    },
+    {
+        "word": "ACCESSED",
+        "hex": "#ACCE55ED",
+        "score": 1
+    },
+    {
+        "word": "ASSESSED",
+        "hex": "#A55E55ED",
+        "score": 1
+    },
+    {
+        "word": "FEOFFEES",
+        "hex": "#FE0FFEE5",
+        "score": 1
+    },
+    {
+        "word": "ABBACIES",
+        "hex": "#ABBAC1E5",
+        "score": 1
+    },
+    {
+        "word": "ABSCISSA",
+        "hex": "#AB5C155A",
+        "score": 1
+    },
+    {
+        "word": "ACCIDIAS",
+        "hex": "#ACC1D1A5",
+        "score": 1
+    },
+    {
+        "word": "ACCIDIES",
+        "hex": "#ACC1D1E5",
+        "score": 1
+    },
+    {
+        "word": "BADASSED",
+        "hex": "#BADA55ED",
+        "score": 1
+    },
+    {
+        "word": "BADASSES",
+        "hex": "#BADA55E5",
+        "score": 1
+    },
+    {
+        "word": "BOCACCIO",
+        "hex": "#B0CACC10",
+        "score": 1
+    },
+    {
+        "word": "CADDICES",
+        "hex": "#CADD1CE5",
+        "score": 1
+    },
+    {
+        "word": "CADDISED",
+        "hex": "#CADD15ED",
+        "score": 1
+    },
+    {
+        "word": "CADDISES",
+        "hex": "#CADD15E5",
+        "score": 1
+    },
+    {
+        "word": "CASSABAS",
+        "hex": "#CA55ABA5",
+        "score": 1
+    },
+    {
+        "word": "CASSISES",
+        "hex": "#CA5515E5",
+        "score": 1
+    },
+    {
+        "word": "CISSOIDS",
+        "hex": "#C15501D5",
+        "score": 1
+    },
+    {
+        "word": "COCCIDIA",
+        "hex": "#C0CC1D1A",
+        "score": 1
+    },
+    {
+        "word": "COCCOIDS",
+        "hex": "#C0CC01D5",
+        "score": 1
+    },
+    {
+        "word": "DISSEISE",
+        "hex": "#D155E15E",
+        "score": 1
+    },
+    {
+        "word": "FOCACCIA",
+        "hex": "#F0CACC1A",
+        "score": 1
+    },
+    {
+        "word": "SACCADES",
+        "hex": "#5ACCADE5",
+        "score": 1
+    },
+    {
+        "word": "SACCADIC",
+        "hex": "#5ACCAD1C",
+        "score": 1
+    },
+    {
+        "word": "SEEDBEDS",
+        "hex": "#5EEDBED5",
+        "score": 1
+    },
+    {
+        "word": "SEEDCASE",
+        "hex": "#5EEDCA5E",
+        "score": 1
+    },
+    {
+        "word": "ABSCISED",
+        "hex": "#AB5C15ED",
+        "score": 1
+    },
+    {
+        "word": "ABSCISES",
+        "hex": "#AB5C15E5",
+        "score": 1
+    },
+    {
+        "word": "ACIDOSES",
+        "hex": "#AC1D05E5",
+        "score": 1
+    },
+    {
+        "word": "BABESIAS",
+        "hex": "#BABE51A5",
+        "score": 1
+    },
+    {
+        "word": "BASIFIED",
+        "hex": "#BA51F1ED",
+        "score": 1
+    },
+    {
+        "word": "BASIFIES",
+        "hex": "#BA51F1E5",
+        "score": 1
+    },
+    {
+        "word": "BIOCIDES",
+        "hex": "#B10C1DE5",
+        "score": 1
+    },
+    {
+        "word": "CASEASES",
+        "hex": "#CA5EA5E5",
+        "score": 1
+    },
+    {
+        "word": "CASEFIED",
+        "hex": "#CA5EF1ED",
+        "score": 1
+    },
+    {
+        "word": "CASEFIES",
+        "hex": "#CA5EF1E5",
+        "score": 1
+    },
+    {
+        "word": "CASEOSES",
+        "hex": "#CA5E05E5",
+        "score": 1
+    },
+    {
+        "word": "CICISBEI",
+        "hex": "#C1C15BE1",
+        "score": 1
+    },
+    {
+        "word": "CICISBEO",
+        "hex": "#C1C15BE0",
+        "score": 1
+    },
+    {
+        "word": "DEICIDES",
+        "hex": "#DE1C1DE5",
+        "score": 1
+    },
+    {
+        "word": "DIABASES",
+        "hex": "#D1ABA5E5",
+        "score": 1
+    },
+    {
+        "word": "DIABASIC",
+        "hex": "#D1ABA51C",
+        "score": 1
+    },
+    {
+        "word": "DIACIDIC",
+        "hex": "#D1AC1D1C",
+        "score": 1
+    },
+    {
+        "word": "DIOECIES",
+        "hex": "#D10EC1E5",
+        "score": 1
+    },
+    {
+        "word": "DISCASED",
+        "hex": "#D15CA5ED",
+        "score": 1
+    },
+    {
+        "word": "DISCASES",
+        "hex": "#D15CA5E5",
+        "score": 1
+    },
+    {
+        "word": "DISCOIDS",
+        "hex": "#D15C01D5",
+        "score": 1
+    },
+    {
+        "word": "ECESISES",
+        "hex": "#ECE515E5",
+        "score": 1
+    },
+    {
+        "word": "ECOCIDES",
+        "hex": "#EC0C1DE5",
+        "score": 1
+    },
+    {
+        "word": "FIASCOES",
+        "hex": "#F1A5C0E5",
+        "score": 1
+    },
+    {
+        "word": "SCABIOSA",
+        "hex": "#5CAB105A",
+        "score": 1
+    },
+    {
+        "word": "SOFABEDS",
+        "hex": "#50FABED5",
+        "score": 1
+    },
+    {
+        "word": "ABACAS",
+        "hex": "#ABACA5",
+        "score": 1
+    },
+    {
+        "word": "ABASED",
+        "hex": "#ABA5ED",
+        "score": 1
+    },
+    {
+        "word": "ABASES",
+        "hex": "#ABA5E5",
+        "score": 1
+    },
+    {
+        "word": "ABASIA",
+        "hex": "#ABA51A",
+        "score": 1
+    },
+    {
+        "word": "ABODED",
+        "hex": "#AB0DED",
+        "score": 1
+    },
+    {
+        "word": "ACEDIA",
+        "hex": "#ACED1A",
+        "score": 1
+    },
+    {
+        "word": "ASDICS",
+        "hex": "#A5D1C5",
+        "score": 1
+    },
+    {
+        "word": "ASSAIS",
+        "hex": "#A55A15",
+        "score": 1
+    },
+    {
+        "word": "BAASES",
+        "hex": "#BAA5E5",
+        "score": 1
+    },
+    {
+        "word": "BABOOS",
+        "hex": "#BAB005",
+        "score": 1
+    },
+    {
+        "word": "BACCAE",
+        "hex": "#BACCAE",
+        "score": 1
+    },
+    {
+        "word": "BADASS",
+        "hex": "#BADA55",
+        "score": 1
+    },
+    {
+        "word": "BAFFED",
+        "hex": "#BAFFED",
+        "score": 1
+    },
+    {
+        "word": "BEEBEE",
+        "hex": "#BEEBEE",
+        "score": 1
+    },
+    {
+        "word": "BEEFED",
+        "hex": "#BEEFED",
+        "score": 1
+    },
+    {
+        "word": "BIASES",
+        "hex": "#B1A5E5",
+        "score": 1
+    },
+    {
+        "word": "BIBBED",
+        "hex": "#B1BBED",
+        "score": 1
+    },
+    {
+        "word": "BIFACE",
+        "hex": "#B1FACE",
+        "score": 1
+    },
+    {
+        "word": "BIFFED",
+        "hex": "#B1FFED",
+        "score": 1
+    },
+    {
+        "word": "BOBBED",
+        "hex": "#B0BBED",
+        "score": 1
+    },
+    {
+        "word": "BOCCIA",
+        "hex": "#B0CC1A",
+        "score": 1
+    },
+    {
+        "word": "BOCCIE",
+        "hex": "#B0CC1E",
+        "score": 1
+    },
+    {
+        "word": "BOCCIS",
+        "hex": "#B0CC15",
+        "score": 1
+    },
+    {
+        "word": "BOFFED",
+        "hex": "#B0FFED",
+        "score": 1
+    },
+    {
+        "word": "BOOBED",
+        "hex": "#B00BED",
+        "score": 1
+    },
+    {
+        "word": "BOOBIE",
+        "hex": "#B00B1E",
+        "score": 1
+    },
+    {
+        "word": "BOOCOO",
+        "hex": "#B00C00",
+        "score": 1
+    },
+    {
+        "word": "BOSSED",
+        "hex": "#B055ED",
+        "score": 1
+    },
+    {
+        "word": "CABBED",
+        "hex": "#CABBED",
+        "score": 1
+    },
+    {
+        "word": "CABOBS",
+        "hex": "#CAB0B5",
+        "score": 1
+    },
+    {
+        "word": "CACAOS",
+        "hex": "#CACA05",
+        "score": 1
+    },
+    {
+        "word": "CADDIS",
+        "hex": "#CADD15",
+        "score": 1
+    },
+    {
+        "word": "CASEIC",
+        "hex": "#CA5E1C",
+        "score": 1
+    },
+    {
+        "word": "CEASED",
+        "hex": "#CEA5ED",
+        "score": 1
+    },
+    {
+        "word": "CEBIDS",
+        "hex": "#CEB1D5",
+        "score": 1
+    },
+    {
+        "word": "CEBOID",
+        "hex": "#CEB01D",
+        "score": 1
+    },
+    {
+        "word": "CEIBAS",
+        "hex": "#CE1BA5",
+        "score": 1
+    },
+    {
+        "word": "CESSED",
+        "hex": "#CE55ED",
+        "score": 1
+    },
+    {
+        "word": "COBIAS",
+        "hex": "#C0B1A5",
+        "score": 1
+    },
+    {
+        "word": "COCCIC",
+        "hex": "#C0CC1C",
+        "score": 1
+    },
+    {
+        "word": "COCCID",
+        "hex": "#C0CC1D",
+        "score": 1
+    },
+    {
+        "word": "CODDED",
+        "hex": "#C0DDED",
+        "score": 1
+    },
+    {
+        "word": "CODECS",
+        "hex": "#C0DEC5",
+        "score": 1
+    },
+    {
+        "word": "CODEIA",
+        "hex": "#C0DE1A",
+        "score": 1
+    },
+    {
+        "word": "COIFED",
+        "hex": "#C01FED",
+        "score": 1
+    },
+    {
+        "word": "COIFFE",
+        "hex": "#C01FFE",
+        "score": 1
+    },
+    {
+        "word": "COOCOO",
+        "hex": "#C00C00",
+        "score": 1
+    },
+    {
+        "word": "COOEED",
+        "hex": "#C00EED",
+        "score": 1
+    },
+    {
+        "word": "COSECS",
+        "hex": "#C05EC5",
+        "score": 1
+    },
+    {
+        "word": "COSIED",
+        "hex": "#C051ED",
+        "score": 1
+    },
+    {
+        "word": "DABBED",
+        "hex": "#DABBED",
+        "score": 1
+    },
+    {
+        "word": "DADOED",
+        "hex": "#DAD0ED",
+        "score": 1
+    },
+    {
+        "word": "DADOES",
+        "hex": "#DAD0E5",
+        "score": 1
+    },
+    {
+        "word": "DAFFED",
+        "hex": "#DAFFED",
+        "score": 1
+    },
+    {
+        "word": "DAISES",
+        "hex": "#DA15E5",
+        "score": 1
+    },
+    {
+        "word": "DASSIE",
+        "hex": "#DA551E",
+        "score": 1
+    },
+    {
+        "word": "DEEDED",
+        "hex": "#DEEDED",
+        "score": 1
+    },
+    {
+        "word": "DEFIED",
+        "hex": "#DEF1ED",
+        "score": 1
+    },
+    {
+        "word": "DEICED",
+        "hex": "#DE1CED",
+        "score": 1
+    },
+    {
+        "word": "DEICES",
+        "hex": "#DE1CE5",
+        "score": 1
+    },
+    {
+        "word": "DEIFIC",
+        "hex": "#DE1F1C",
+        "score": 1
+    },
+    {
+        "word": "DIACID",
+        "hex": "#D1AC1D",
+        "score": 1
+    },
+    {
+        "word": "DIBBED",
+        "hex": "#D1BBED",
+        "score": 1
+    },
+    {
+        "word": "DIDIES",
+        "hex": "#D1D1E5",
+        "score": 1
+    },
+    {
+        "word": "DIDOES",
+        "hex": "#D1D0E5",
+        "score": 1
+    },
+    {
+        "word": "DIEOFF",
+        "hex": "#D1E0FF",
+        "score": 1
+    },
+    {
+        "word": "DIESES",
+        "hex": "#D1E5E5",
+        "score": 1
+    },
+    {
+        "word": "DIESIS",
+        "hex": "#D1E515",
+        "score": 1
+    },
+    {
+        "word": "DISCED",
+        "hex": "#D15CED",
+        "score": 1
+    },
+    {
+        "word": "DISSED",
+        "hex": "#D155ED",
+        "score": 1
+    },
+    {
+        "word": "DOBIES",
+        "hex": "#D0B1E5",
+        "score": 1
+    },
+    {
+        "word": "DODOES",
+        "hex": "#D0D0E5",
+        "score": 1
+    },
+    {
+        "word": "DOFFED",
+        "hex": "#D0FFED",
+        "score": 1
+    },
+    {
+        "word": "DOOBIE",
+        "hex": "#D00B1E",
+        "score": 1
+    },
+    {
+        "word": "DOODOO",
+        "hex": "#D00D00",
+        "score": 1
+    },
+    {
+        "word": "DOSSED",
+        "hex": "#D055ED",
+        "score": 1
+    },
+    {
+        "word": "EASIES",
+        "hex": "#EA51E5",
+        "score": 1
+    },
+    {
+        "word": "ECESIC",
+        "hex": "#ECE51C",
+        "score": 1
+    },
+    {
+        "word": "ECESIS",
+        "hex": "#ECE515",
+        "score": 1
+    },
+    {
+        "word": "EDDIED",
+        "hex": "#EDD1ED",
+        "score": 1
+    },
+    {
+        "word": "EDDOES",
+        "hex": "#EDD0E5",
+        "score": 1
+    },
+    {
+        "word": "EFFACE",
+        "hex": "#EFFACE",
+        "score": 1
+    },
+    {
+        "word": "FACIAE",
+        "hex": "#FAC1AE",
+        "score": 1
+    },
+    {
+        "word": "FACIAS",
+        "hex": "#FAC1A5",
+        "score": 1
+    },
+    {
+        "word": "FACIES",
+        "hex": "#FAC1E5",
+        "score": 1
+    },
+    {
+        "word": "FASCES",
+        "hex": "#FA5CE5",
+        "score": 1
+    },
+    {
+        "word": "FEASED",
+        "hex": "#FEA5ED",
+        "score": 1
+    },
+    {
+        "word": "FEASES",
+        "hex": "#FEA5E5",
+        "score": 1
+    },
+    {
+        "word": "FEOFFS",
+        "hex": "#FE0FF5",
+        "score": 1
+    },
+    {
+        "word": "FESSED",
+        "hex": "#FE55ED",
+        "score": 1
+    },
+    {
+        "word": "FIBBED",
+        "hex": "#F1BBED",
+        "score": 1
+    },
+    {
+        "word": "FICOES",
+        "hex": "#F1C0E5",
+        "score": 1
+    },
+    {
+        "word": "FOBBED",
+        "hex": "#F0BBED",
+        "score": 1
+    },
+    {
+        "word": "FOSSAE",
+        "hex": "#F055AE",
+        "score": 1
+    },
+    {
+        "word": "IBICES",
+        "hex": "#1B1CE5",
+        "score": 1
+    },
+    {
+        "word": "IBISES",
+        "hex": "#1B15E5",
+        "score": 1
+    },
+    {
+        "word": "IODIDS",
+        "hex": "#10D1D5",
+        "score": 1
+    },
+    {
+        "word": "IODISE",
+        "hex": "#10D15E",
+        "score": 1
+    },
+    {
+        "word": "SABBED",
+        "hex": "#5ABBED",
+        "score": 1
+    },
+    {
+        "word": "SAICES",
+        "hex": "#5A1CE5",
+        "score": 1
+    },
+    {
+        "word": "SASSED",
+        "hex": "#5A55ED",
+        "score": 1
+    },
+    {
+        "word": "SECCOS",
+        "hex": "#5ECC05",
+        "score": 1
+    },
+    {
+        "word": "SEISED",
+        "hex": "#5E15ED",
+        "score": 1
+    },
+    {
+        "word": "SEISES",
+        "hex": "#5E15E5",
+        "score": 1
+    },
+    {
+        "word": "SICCED",
+        "hex": "#51CCED",
+        "score": 1
+    },
+    {
+        "word": "SISSES",
+        "hex": "#5155E5",
+        "score": 1
+    },
+    {
+        "word": "SOBBED",
+        "hex": "#50BBED",
+        "score": 1
+    },
+    {
+        "word": "SODDED",
+        "hex": "#50DDED",
+        "score": 1
+    },
+    {
+        "word": "ASCETICS",
+        "hex": "#A5CE71C5",
+        "score": 0.997421875
+    },
+    {
+        "word": "DEFECATE",
+        "hex": "#DEFECA7E",
+        "score": 0.989921875
+    },
+    {
+        "word": "BESIEGES",
+        "hex": "#BE51E6E5",
+        "score": 0.984921875
+    },
+    {
+        "word": "DEFECT",
+        "hex": "#DEFEC7",
+        "score": 0.9846560846560848
+    },
+    {
+        "word": "SIEGES",
+        "hex": "#51E6E5",
+        "score": 0.9846560846560848
+    },
+    {
+        "word": "ACCOSTED",
+        "hex": "#ACC057ED",
+        "score": 0.982421875
+    },
+    {
+        "word": "SCIATICA",
+        "hex": "#5C1A71CA",
+        "score": 0.982421875
+    },
+    {
+        "word": "SCOOTS",
+        "hex": "#5C0075",
+        "score": 0.9822751322751324
+    },
+    {
+        "word": "CASTES",
+        "hex": "#CA57E5",
+        "score": 0.97989417989418
+    },
+    {
+        "word": "EFFECTED",
+        "hex": "#EFFEC7ED",
+        "score": 0.9786718749999999
+    },
+    {
+        "word": "SCIATICS",
+        "hex": "#5C1A71C5",
+        "score": 0.9736718750000001
+    },
+    {
+        "word": "DECEIT",
+        "hex": "#DECE17",
+        "score": 0.9727513227513229
+    },
+    {
+        "word": "CADETS",
+        "hex": "#CADE75",
+        "score": 0.9691798941798943
+    },
+    {
+        "word": "ZODIAC",
+        "hex": "#20D1AC",
+        "score": 0.9679894179894182
+    },
+    {
+        "word": "OFFBEATS",
+        "hex": "#0FFBEA75",
+        "score": 0.9674218749999999
+    },
+    {
+        "word": "ABDICATE",
+        "hex": "#ABD1CA7E",
+        "score": 0.9674218749999999
+    },
+    {
+        "word": "ODDITIES",
+        "hex": "#0DD171E5",
+        "score": 0.964921875
+    },
+    {
+        "word": "TABOOS",
+        "hex": "#7AB005",
+        "score": 0.9632275132275133
+    },
+    {
+        "word": "STEEDS",
+        "hex": "#57EED5",
+        "score": 0.9620370370370372
+    },
+    {
+        "word": "TEASED",
+        "hex": "#7EA5ED",
+        "score": 0.9620370370370372
+    },
+    {
+        "word": "BEIGES",
+        "hex": "#BE16E5",
+        "score": 0.960846560846561
+    },
+    {
+        "word": "DOSAGE",
+        "hex": "#D05A6E",
+        "score": 0.9596560846560848
+    },
+    {
+        "word": "BOASTS",
+        "hex": "#B0A575",
+        "score": 0.9572751322751324
+    },
+    {
+        "word": "ABBOTS",
+        "hex": "#ABB075",
+        "score": 0.9477513227513229
+    },
+    {
+        "word": "FIESTA",
+        "hex": "#F1E57A",
+        "score": 0.9441798941798942
+    },
+    {
+        "word": "SADIST",
+        "hex": "#5AD157",
+        "score": 0.9429894179894182
+    },
+    {
+        "word": "COATED",
+        "hex": "#C0A7ED",
+        "score": 0.9346560846560847
+    },
+    {
+        "word": "CASTOFFS",
+        "hex": "#CA570FF5",
+        "score": 0.929921875
+    },
+    {
+        "word": "BODEGA",
+        "hex": "#B0DE6A",
+        "score": 0.9287037037037038
+    },
+    {
+        "word": "TIDIED",
+        "hex": "#71D1ED",
+        "score": 0.9287037037037038
+    },
+    {
+        "word": "BASTES",
+        "hex": "#BA57E5",
+        "score": 0.9275132275132277
+    },
+    {
+        "word": "STEADS",
+        "hex": "#57EAD5",
+        "score": 0.9275132275132277
+    },
+    {
+        "word": "FOOTED",
+        "hex": "#F007ED",
+        "score": 0.9239417989417991
+    },
+    {
+        "word": "FEEDBAGS",
+        "hex": "#FEEDBA65",
+        "score": 0.923671875
+    },
+    {
+        "word": "DOGFACES",
+        "hex": "#D06FACE5",
+        "score": 0.923671875
+    },
+    {
+        "word": "OFFSET",
+        "hex": "#0FF5E7",
+        "score": 0.9215608465608466
+    },
+    {
+        "word": "SEDATE",
+        "hex": "#5EDA7E",
+        "score": 0.9215608465608466
+    },
+    {
+        "word": "TOFFEE",
+        "hex": "#70FFEE",
+        "score": 0.9179894179894181
+    },
+    {
+        "word": "DISTAFFS",
+        "hex": "#D157AFF5",
+        "score": 0.916171875
+    },
+    {
+        "word": "BEDSTEAD",
+        "hex": "#BED57EAD",
+        "score": 0.916171875
+    },
+    {
+        "word": "BOOTED",
+        "hex": "#B007ED",
+        "score": 0.9120370370370372
+    },
+    {
+        "word": "TIBIAS",
+        "hex": "#71B1A5",
+        "score": 0.9120370370370372
+    },
+    {
+        "word": "SIESTA",
+        "hex": "#51E57A",
+        "score": 0.9096560846560847
+    },
+    {
+        "word": "DESIST",
+        "hex": "#DE5157",
+        "score": 0.9084656084656086
+    },
+    {
+        "word": "BEATIFIC",
+        "hex": "#BEA71F1C",
+        "score": 0.9074218749999999
+    },
+    {
+        "word": "DIDACTIC",
+        "hex": "#D1DAC71C",
+        "score": 0.9074218749999999
+    },
+    {
+        "word": "FACTOIDS",
+        "hex": "#FAC701D5",
+        "score": 0.9074218749999999
+    },
+    {
+        "word": "DEBITS",
+        "hex": "#DEB175",
+        "score": 0.9037037037037038
+    },
+    {
+        "word": "BIDETS",
+        "hex": "#B1DE75",
+        "score": 0.898941798941799
+    },
+    {
+        "word": "EDICTS",
+        "hex": "#ED1C75",
+        "score": 0.898941798941799
+    },
+    {
+        "word": "SOFTIE",
+        "hex": "#50F71E",
+        "score": 0.898941798941799
+    },
+    {
+        "word": "DAGOES",
+        "hex": "#DA60E5",
+        "score": 0.8870370370370372
+    },
+    {
+        "word": "FACETS",
+        "hex": "#FACE75",
+        "score": 0.8870370370370372
+    },
+    {
+        "word": "EFFIGIES",
+        "hex": "#EFF161E5",
+        "score": 0.8861718749999999
+    },
+    {
+        "word": "DADAISTS",
+        "hex": "#DADA1575",
+        "score": 0.8861718749999999
+    },
+    {
+        "word": "GEODESIC",
+        "hex": "#6E0DE51C",
+        "score": 0.8861718749999999
+    },
+    {
+        "word": "STAFFS",
+        "hex": "#57AFF5",
+        "score": 0.8834656084656086
+    },
+    {
+        "word": "STASIS",
+        "hex": "#57A515",
+        "score": 0.8834656084656086
+    },
+    {
+        "word": "STOICS",
+        "hex": "#5701C5",
+        "score": 0.8834656084656086
+    },
+    {
+        "word": "ADAGES",
+        "hex": "#ADA6E5",
+        "score": 0.8810846560846562
+    },
+    {
+        "word": "BESETS",
+        "hex": "#BE5E75",
+        "score": 0.8703703703703705
+    },
+    {
+        "word": "CAITIFFS",
+        "hex": "#CA171FF5",
+        "score": 0.8699218750000001
+    },
+    {
+        "word": "STEADIED",
+        "hex": "#57EAD1ED",
+        "score": 0.8699218750000001
+    },
+    {
+        "word": "COOTIE",
+        "hex": "#C0071E",
+        "score": 0.8644179894179895
+    },
+    {
+        "word": "DACOIT",
+        "hex": "#DAC017",
+        "score": 0.8644179894179895
+    },
+    {
+        "word": "ABATES",
+        "hex": "#ABA7E5",
+        "score": 0.8620370370370372
+    },
+    {
+        "word": "BOBCAT",
+        "hex": "#B0BCA7",
+        "score": 0.8620370370370372
+    },
+    {
+        "word": "ASCOTS",
+        "hex": "#A5C075",
+        "score": 0.8596560846560847
+    },
+    {
+        "word": "BASEST",
+        "hex": "#BA5E57",
+        "score": 0.8596560846560847
+    },
+    {
+        "word": "SCOTIA",
+        "hex": "#5C071A",
+        "score": 0.8596560846560847
+    },
+    {
+        "word": "BASSET",
+        "hex": "#BA55E7",
+        "score": 0.8525132275132277
+    },
+    {
+        "word": "BETIDE",
+        "hex": "#BE71DE",
+        "score": 0.8525132275132277
+    },
+    {
+        "word": "BOOTIE",
+        "hex": "#B0071E",
+        "score": 0.8525132275132277
+    },
+    {
+        "word": "FOOTAGES",
+        "hex": "#F007A6E5",
+        "score": 0.8483035714285714
+    },
+    {
+        "word": "ADAGIO",
+        "hex": "#ADA610",
+        "score": 0.8453703703703704
+    },
+    {
+        "word": "SCOTTIES",
+        "hex": "#5C0771E5",
+        "score": 0.8429464285714285
+    },
+    {
+        "word": "SEDGES",
+        "hex": "#5ED6E5",
+        "score": 0.8406084656084658
+    },
+    {
+        "word": "GAFFES",
+        "hex": "#6AFFE5",
+        "score": 0.8370370370370371
+    },
+    {
+        "word": "ABATED",
+        "hex": "#ABA7ED",
+        "score": 0.8310846560846562
+    },
+    {
+        "word": "BASTED",
+        "hex": "#BA57ED",
+        "score": 0.8310846560846562
+    },
+    {
+        "word": "BESTED",
+        "hex": "#BE57ED",
+        "score": 0.8310846560846562
+    },
+    {
+        "word": "TODIES",
+        "hex": "#70D1E5",
+        "score": 0.8310846560846562
+    },
+    {
+        "word": "BEFITS",
+        "hex": "#BEF175",
+        "score": 0.8263227513227515
+    },
+    {
+        "word": "SABOTS",
+        "hex": "#5AB075",
+        "score": 0.8263227513227515
+    },
+    {
+        "word": "FOISTS",
+        "hex": "#F01575",
+        "score": 0.8203703703703704
+    },
+    {
+        "word": "BIOTIC",
+        "hex": "#B1071C",
+        "score": 0.8132275132275134
+    },
+    {
+        "word": "FOOTIE",
+        "hex": "#F0071E",
+        "score": 0.8132275132275134
+    },
+    {
+        "word": "GOBIES",
+        "hex": "#60B1E5",
+        "score": 0.8132275132275134
+    },
+    {
+        "word": "FOGIES",
+        "hex": "#F061E5",
+        "score": 0.80489417989418
+    },
+    {
+        "word": "GOADED",
+        "hex": "#60ADED",
+        "score": 0.80489417989418
+    },
+    {
+        "word": "ZEBECS",
+        "hex": "#2EBEC5",
+        "score": 0.80489417989418
+    },
+    {
+        "word": "DETECTED",
+        "hex": "#DE7EC7ED",
+        "score": 0.8033035714285713
+    },
+    {
+        "word": "ACCOST",
+        "hex": "#ACC057",
+        "score": 0.7953703703703705
+    },
+    {
+        "word": "BISECT",
+        "hex": "#B15EC7",
+        "score": 0.7953703703703705
+    },
+    {
+        "word": "CADGES",
+        "hex": "#CAD6E5",
+        "score": 0.7953703703703705
+    },
+    {
+        "word": "EFFETE",
+        "hex": "#EFFE7E",
+        "score": 0.7953703703703705
+    },
+    {
+        "word": "CASSETTE",
+        "hex": "#CA55E77E",
+        "score": 0.7947321428571428
+    },
+    {
+        "word": "SABOTAGE",
+        "hex": "#5AB07A6E",
+        "score": 0.7915178571428572
+    },
+    {
+        "word": "BEDSIT",
+        "hex": "#BED517",
+        "score": 0.7846560846560847
+    },
+    {
+        "word": "STADES",
+        "hex": "#57ADE5",
+        "score": 0.7846560846560847
+    },
+    {
+        "word": "DICTATES",
+        "hex": "#D1C7A7E5",
+        "score": 0.7765178571428571
+    },
+    {
+        "word": "BAIZES",
+        "hex": "#BA12E5",
+        "score": 0.7691798941798943
+    },
+    {
+        "word": "GEODES",
+        "hex": "#6E0DE5",
+        "score": 0.7691798941798943
+    },
+    {
+        "word": "GOOSES",
+        "hex": "#6005E5",
+        "score": 0.7691798941798943
+    },
+    {
+        "word": "STADIA",
+        "hex": "#57AD1A",
+        "score": 0.7691798941798943
+    },
+    {
+        "word": "TASSES",
+        "hex": "#7A55E5",
+        "score": 0.7691798941798943
+    },
+    {
+        "word": "ECSTATIC",
+        "hex": "#EC57A71C",
+        "score": 0.7679464285714285
+    },
+    {
+        "word": "BIGFOOTS",
+        "hex": "#B16F0075",
+        "score": 0.7636607142857144
+    },
+    {
+        "word": "DICTATED",
+        "hex": "#D1C7A7ED",
+        "score": 0.7540178571428571
+    },
+    {
+        "word": "TASTES",
+        "hex": "#7A57E5",
+        "score": 0.7524867724867726
+    },
+    {
+        "word": "STAGES",
+        "hex": "#57A6E5",
+        "score": 0.7496296296296296
+    },
+    {
+        "word": "STATES",
+        "hex": "#57A7E5",
+        "score": 0.7429629629629632
+    },
+    {
+        "word": "TOASTS",
+        "hex": "#70A575",
+        "score": 0.7162962962962964
+    },
+    {
+        "word": "ESTATE",
+        "hex": "#E57A7E",
+        "score": 0.7029629629629631
+    },
+    {
+        "word": "BABBITTS",
+        "hex": "#BABB1775",
+        "score": 0.7025892857142857
+    },
+    {
+        "word": "BESOTTED",
+        "hex": "#BE5077ED",
+        "score": 0.6972321428571429
+    },
+    {
+        "word": "OFFSTAGE",
+        "hex": "#0FF57A6E",
+        "score": 0.6961607142857142
+    },
+    {
+        "word": "EGOISTIC",
+        "hex": "#E601571C",
+        "score": 0.682232142857143
+    },
+    {
+        "word": "GAIETIES",
+        "hex": "#6A1E71E5",
+        "score": 0.682232142857143
+    },
+    {
+        "word": "TAFFETAS",
+        "hex": "#7AFFE7A5",
+        "score": 0.6790178571428571
+    },
+    {
+        "word": "TESTED",
+        "hex": "#7E57ED",
+        "score": 0.6772486772486773
+    },
+    {
+        "word": "DETESTED",
+        "hex": "#DE7E57ED",
+        "score": 0.6747321428571429
+    },
+    {
+        "word": "DISTASTE",
+        "hex": "#D157A57E",
+        "score": 0.6747321428571429
+    },
+    {
+        "word": "ASSAGAIS",
+        "hex": "#A55A6A15",
+        "score": 0.669921875
+    },
+    {
+        "word": "ASSEGAIS",
+        "hex": "#A55E6A15",
+        "score": 0.669921875
+    },
+    {
+        "word": "BACCATED",
+        "hex": "#BACCA7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "BAGASSES",
+        "hex": "#BA6A55E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "BASSETED",
+        "hex": "#BA55E7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "BEEFIEST",
+        "hex": "#BEEF1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "BOSSIEST",
+        "hex": "#B0551E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "CABBAGED",
+        "hex": "#CABBA6ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "CASSATAS",
+        "hex": "#CA55A7A5",
+        "score": 0.669921875
+    },
+    {
+        "word": "COASSIST",
+        "hex": "#C0A55157",
+        "score": 0.669921875
+    },
+    {
+        "word": "COBBIEST",
+        "hex": "#C0BB1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "COEFFECT",
+        "hex": "#C0EFFEC7",
+        "score": 0.669921875
+    },
+    {
+        "word": "COSSETED",
+        "hex": "#C055E7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "DAFFIEST",
+        "hex": "#DAFF1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "DEEDIEST",
+        "hex": "#DEED1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "DEGASSED",
+        "hex": "#DE6A55ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "DEGASSES",
+        "hex": "#DE6A55E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "DISSEATS",
+        "hex": "#D155EA75",
+        "score": 0.669921875
+    },
+    {
+        "word": "DISSEIZE",
+        "hex": "#D155E12E",
+        "score": 0.669921875
+    },
+    {
+        "word": "FADDIEST",
+        "hex": "#FADD1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "FADDISTS",
+        "hex": "#FADD1575",
+        "score": 0.669921875
+    },
+    {
+        "word": "FOOTSIES",
+        "hex": "#F00751E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "OFFCASTS",
+        "hex": "#0FFCA575",
+        "score": 0.669921875
+    },
+    {
+        "word": "SABBATIC",
+        "hex": "#5ABBA71C",
+        "score": 0.669921875
+    },
+    {
+        "word": "SASSIEST",
+        "hex": "#5A551E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "SEABOOTS",
+        "hex": "#5EAB0075",
+        "score": 0.669921875
+    },
+    {
+        "word": "SEEDIEST",
+        "hex": "#5EED1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "SISSIEST",
+        "hex": "#51551E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "SOCCAGES",
+        "hex": "#50CCA6E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "STIFFIES",
+        "hex": "#571FF1E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "STOCCADO",
+        "hex": "#570CCAD0",
+        "score": 0.669921875
+    },
+    {
+        "word": "TABBISES",
+        "hex": "#7ABB15E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "ABATISES",
+        "hex": "#ABA715E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "ACIDOTIC",
+        "hex": "#AC1D071C",
+        "score": 0.669921875
+    },
+    {
+        "word": "ASBESTIC",
+        "hex": "#A5BE571C",
+        "score": 0.669921875
+    },
+    {
+        "word": "ASTASIAS",
+        "hex": "#A57A51A5",
+        "score": 0.669921875
+    },
+    {
+        "word": "BEADIEST",
+        "hex": "#BEAD1E57",
+        "score": 0.669921875
+    },
+    {
+        "word": "BEASTIES",
+        "hex": "#BEA571E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "BESTEADS",
+        "hex": "#BE57EAD5",
+        "score": 0.669921875
+    },
+    {
+        "word": "BIOGASES",
+        "hex": "#B106A5E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "BISECTED",
+        "hex": "#B15EC7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "BOSCAGES",
+        "hex": "#B05CA6E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "CASEATED",
+        "hex": "#CA5EA7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "CASEATES",
+        "hex": "#CA5EA7E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "CATFACES",
+        "hex": "#CA7FACE5",
+        "score": 0.669921875
+    },
+    {
+        "word": "CECITIES",
+        "hex": "#CEC171E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "CESTODES",
+        "hex": "#CE570DE5",
+        "score": 0.669921875
+    },
+    {
+        "word": "CESTOIDS",
+        "hex": "#CE5701D5",
+        "score": 0.669921875
+    },
+    {
+        "word": "CITIFIED",
+        "hex": "#C171F1ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "CITIFIES",
+        "hex": "#C171F1E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "COEDITED",
+        "hex": "#C0ED17ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "COESITES",
+        "hex": "#C0E517E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "DECOCTED",
+        "hex": "#DEC0C7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "DEFECTED",
+        "hex": "#DEFEC7ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "DEICTICS",
+        "hex": "#DE1C71C5",
+        "score": 0.669921875
+    },
+    {
+        "word": "DESISTED",
+        "hex": "#DE5157ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "DIASTASE",
+        "hex": "#D1A57A5E",
+        "score": 0.669921875
+    },
+    {
+        "word": "DICASTIC",
+        "hex": "#D1CA571C",
+        "score": 0.669921875
+    },
+    {
+        "word": "FACETIAE",
+        "hex": "#FACE71AE",
+        "score": 0.669921875
+    },
+    {
+        "word": "FASCIATE",
+        "hex": "#FA5C1A7E",
+        "score": 0.669921875
+    },
+    {
+        "word": "FASCITIS",
+        "hex": "#FA5C1715",
+        "score": 0.669921875
+    },
+    {
+        "word": "FETICIDE",
+        "hex": "#FE71C1DE",
+        "score": 0.669921875
+    },
+    {
+        "word": "FIDEISTS",
+        "hex": "#F1DE1575",
+        "score": 0.669921875
+    },
+    {
+        "word": "GASIFIED",
+        "hex": "#6A51F1ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "GASIFIES",
+        "hex": "#6A51F1E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "GOBIOIDS",
+        "hex": "#60B101D5",
+        "score": 0.669921875
+    },
+    {
+        "word": "ICEBOATS",
+        "hex": "#1CEB0A75",
+        "score": 0.669921875
+    },
+    {
+        "word": "OITICICA",
+        "hex": "#0171C1CA",
+        "score": 0.669921875
+    },
+    {
+        "word": "OSTEOIDS",
+        "hex": "#057E01D5",
+        "score": 0.669921875
+    },
+    {
+        "word": "OSTEOSES",
+        "hex": "#057E05E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "OSTEOSIS",
+        "hex": "#057E0515",
+        "score": 0.669921875
+    },
+    {
+        "word": "SAFETIED",
+        "hex": "#5AFE71ED",
+        "score": 0.669921875
+    },
+    {
+        "word": "SEACOAST",
+        "hex": "#5EAC0A57",
+        "score": 0.669921875
+    },
+    {
+        "word": "STEADIES",
+        "hex": "#57EAD1E5",
+        "score": 0.669921875
+    },
+    {
+        "word": "STACCATO",
+        "hex": "#57ACCA70",
+        "score": 0.6650892857142857
+    },
+    {
+        "word": "STATIC",
+        "hex": "#57A71C",
+        "score": 0.6582010582010582
+    },
+    {
+        "word": "TASTED",
+        "hex": "#7A57ED",
+        "score": 0.6582010582010582
+    },
+    {
+        "word": "GIFTED",
+        "hex": "#61F7ED",
+        "score": 0.6543915343915344
+    },
+    {
+        "word": "ATTICS",
+        "hex": "#A771C5",
+        "score": 0.6505820105820107
+    },
+    {
+        "word": "SATIATED",
+        "hex": "#5A71A7ED",
+        "score": 0.6447321428571429
+    },
+    {
+        "word": "DETECT",
+        "hex": "#DE7EC7",
+        "score": 0.643915343915344
+    },
+    {
+        "word": "STATED",
+        "hex": "#57A7ED",
+        "score": 0.6391534391534393
+    },
+    {
+        "word": "DOGGIE",
+        "hex": "#D0661E",
+        "score": 0.6324867724867725
+    },
+    {
+        "word": "STAGED",
+        "hex": "#57A6ED",
+        "score": 0.6258201058201058
+    },
+    {
+        "word": "TOOTSIES",
+        "hex": "#700751E5",
+        "score": 0.6254464285714285
+    },
+    {
+        "word": "ACETATES",
+        "hex": "#ACE7A7E5",
+        "score": 0.6254464285714285
+    },
+    {
+        "word": "SATIATES",
+        "hex": "#5A71A7E5",
+        "score": 0.6254464285714285
+    },
+    {
+        "word": "BIGGIE",
+        "hex": "#B1661E",
+        "score": 0.6201058201058202
+    },
+    {
+        "word": "TOCCATAS",
+        "hex": "#70CCA7A5",
+        "score": 0.6168750000000001
+    },
+    {
+        "word": "DIGEST",
+        "hex": "#D16E57",
+        "score": 0.6143915343915344
+    },
+    {
+        "word": "FITTED",
+        "hex": "#F177ED",
+        "score": 0.6143915343915344
+    },
+    {
+        "word": "TACTIC",
+        "hex": "#7AC71C",
+        "score": 0.6143915343915344
+    },
+    {
+        "word": "BEFITTED",
+        "hex": "#BEF177ED",
+        "score": 0.5933035714285715
+    },
+    {
+        "word": "COCOTTES",
+        "hex": "#C0C077E5",
+        "score": 0.5933035714285715
+    },
+    {
+        "word": "GOOFIEST",
+        "hex": "#600F1E57",
+        "score": 0.5933035714285715
+    },
+    {
+        "word": "BIOTITES",
+        "hex": "#B10717E5",
+        "score": 0.5933035714285715
+    },
+    {
+        "word": "DIETETIC",
+        "hex": "#D1E7E71C",
+        "score": 0.5933035714285715
+    },
+    {
+        "word": "DIGITS",
+        "hex": "#D16175",
+        "score": 0.5915343915343916
+    },
+    {
+        "word": "DETEST",
+        "hex": "#DE7E57",
+        "score": 0.582962962962963
+    },
+    {
+        "word": "ABATIS",
+        "hex": "#ABA715",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ACETIC",
+        "hex": "#ACE71C",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "AFTOSA",
+        "hex": "#AF705A",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ASSIZE",
+        "hex": "#A5512E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "AZIDES",
+        "hex": "#A21DE5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BADGED",
+        "hex": "#BAD6ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BAGASS",
+        "hex": "#BA6A55",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BAITED",
+        "hex": "#BA17ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BAIZAS",
+        "hex": "#BA12A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BAZOOS",
+        "hex": "#BA2005",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BEFOGS",
+        "hex": "#BEF065",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BESOTS",
+        "hex": "#BE5075",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BETISE",
+        "hex": "#BE715E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BIOGAS",
+        "hex": "#B106A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BIOTAS",
+        "hex": "#B107A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BOATED",
+        "hex": "#B0A7ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BOGIES",
+        "hex": "#B061E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BOITES",
+        "hex": "#B017E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BOOTEE",
+        "hex": "#B007EE",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "BOOZED",
+        "hex": "#B002ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CADGED",
+        "hex": "#CAD6ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CASITA",
+        "hex": "#CA517A",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CESTAS",
+        "hex": "#CE57A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CESTOI",
+        "hex": "#CE5701",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CESTOS",
+        "hex": "#CE5705",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CISTED",
+        "hex": "#C157ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "CITIED",
+        "hex": "#C171ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COACTS",
+        "hex": "#C0AC75",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COATEE",
+        "hex": "#C0A7EE",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COATIS",
+        "hex": "#C0A715",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COEDIT",
+        "hex": "#C0ED17",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COSETS",
+        "hex": "#C05E75",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COSSET",
+        "hex": "#C055E7",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COSTAE",
+        "hex": "#C057AE",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COSTED",
+        "hex": "#C057ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COZIED",
+        "hex": "#C021ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DACITE",
+        "hex": "#DAC17E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DAGOBA",
+        "hex": "#DA60BA",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DEBAGS",
+        "hex": "#DEBA65",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DECOCT",
+        "hex": "#DEC0C7",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DEFATS",
+        "hex": "#DEFA75",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DEFOGS",
+        "hex": "#DEF065",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DEISTS",
+        "hex": "#DE1575",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DICAST",
+        "hex": "#D1CA57",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DICOTS",
+        "hex": "#D1C075",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DIDACT",
+        "hex": "#D1DAC7",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DIETED",
+        "hex": "#D1E7ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DOATED",
+        "hex": "#D0A7ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DODGED",
+        "hex": "#D0D6ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DOGIES",
+        "hex": "#D061E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DOITED",
+        "hex": "#D017ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "DOOZIE",
+        "hex": "#D0021E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "EBBETS",
+        "hex": "#EBBE75",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "EGISES",
+        "hex": "#E615E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ESCOTS",
+        "hex": "#E5C075",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FACETE",
+        "hex": "#FACE7E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FADGED",
+        "hex": "#FAD6ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FADGES",
+        "hex": "#FAD6E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FASTED",
+        "hex": "#FA57ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FEAZED",
+        "hex": "#FEA2ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FEAZES",
+        "hex": "#FEA2E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FEEZED",
+        "hex": "#FEE2ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FEEZES",
+        "hex": "#FEE2E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FEISTS",
+        "hex": "#FE1575",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FIDGED",
+        "hex": "#F1D6ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FIDGES",
+        "hex": "#F1D6E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FISTED",
+        "hex": "#F157ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FISTIC",
+        "hex": "#F1571C",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "FOETID",
+        "hex": "#F0E71D",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GABBED",
+        "hex": "#6ABBED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GADDED",
+        "hex": "#6ADDED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GADDIS",
+        "hex": "#6ADD15",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GADIDS",
+        "hex": "#6AD1D5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GADOID",
+        "hex": "#6AD01D",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GAFFED",
+        "hex": "#6AFFED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GASSED",
+        "hex": "#6A55ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GASSES",
+        "hex": "#6A55E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GEODIC",
+        "hex": "#6E0D1C",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GEOIDS",
+        "hex": "#6E01D5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GIBBED",
+        "hex": "#61BBED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GOBBED",
+        "hex": "#60BBED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GOBOES",
+        "hex": "#60B0E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GODDED",
+        "hex": "#60DDED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GOODIE",
+        "hex": "#600D1E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GOOFED",
+        "hex": "#600FED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "GOOSED",
+        "hex": "#6005ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ICIEST",
+        "hex": "#1C1E57",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "IDEATE",
+        "hex": "#1DEA7E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "IODATE",
+        "hex": "#10DA7E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "IODIZE",
+        "hex": "#10D12E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "OBOIST",
+        "hex": "#0B0157",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "OCICAT",
+        "hex": "#0C1CA7",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "OCTADS",
+        "hex": "#0C7AD5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ODDEST",
+        "hex": "#0DDE57",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ODISTS",
+        "hex": "#0D1575",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "OGDOAD",
+        "hex": "#06D0AD",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "OOTIDS",
+        "hex": "#0071D5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "OTIOSE",
+        "hex": "#07105E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SABBAT",
+        "hex": "#5ABBA7",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SAFEST",
+        "hex": "#5AFE57",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SAIGAS",
+        "hex": "#5A16A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SEABAG",
+        "hex": "#5EABA6",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SEADOG",
+        "hex": "#5EAD06",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SEIZED",
+        "hex": "#5E12ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SETOFF",
+        "hex": "#5E70FF",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SETOSE",
+        "hex": "#5E705E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SIEGED",
+        "hex": "#51E6ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SIFTED",
+        "hex": "#51F7ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SOBEIT",
+        "hex": "#50BE17",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SOCAGE",
+        "hex": "#50CA6E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SOFFIT",
+        "hex": "#50FF17",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SOFTAS",
+        "hex": "#50F7A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "SOOTED",
+        "hex": "#5007ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "STASES",
+        "hex": "#57A5E5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TABBED",
+        "hex": "#7ABBED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TABBIS",
+        "hex": "#7ABB15",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TAFFIA",
+        "hex": "#7AFF1A",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TAFIAS",
+        "hex": "#7AF1A5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TASSIE",
+        "hex": "#7A551E",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TEDDED",
+        "hex": "#7EDDED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TEIIDS",
+        "hex": "#7E11D5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TIBIAE",
+        "hex": "#71B1AE",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TICCED",
+        "hex": "#71CCED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TIFFED",
+        "hex": "#71FFED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TOSSED",
+        "hex": "#7055ED",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TSADES",
+        "hex": "#75ADE5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "TSADIS",
+        "hex": "#75AD15",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ZOECIA",
+        "hex": "#20EC1A",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "ZOOIDS",
+        "hex": "#2001D5",
+        "score": 0.5787037037037038
+    },
+    {
+        "word": "COTTAGES",
+        "hex": "#C077A6E5",
+        "score": 0.5771763392857142
+    },
+    {
+        "word": "BIGOTS",
+        "hex": "#B16075",
+        "score": 0.5734391534391535
+    },
+    {
+        "word": "DITTOS",
+        "hex": "#D17705",
+        "score": 0.5734391534391535
+    },
+    {
+        "word": "FIZZES",
+        "hex": "#F122E5",
+        "score": 0.5724867724867725
+    },
+    {
+        "word": "DOTTED",
+        "hex": "#D077ED",
+        "score": 0.5715343915343916
+    },
+    {
+        "word": "BAGGAGES",
+        "hex": "#BA66A6E5",
+        "score": 0.5682477678571428
+    },
+    {
+        "word": "GOATEE",
+        "hex": "#60A7EE",
+        "score": 0.5677248677248677
+    },
+    {
+        "word": "STOOGE",
+        "hex": "#57006E",
+        "score": 0.5610582010582011
+    },
+    {
+        "word": "BEGETS",
+        "hex": "#BE6E75",
+        "score": 0.5534391534391535
+    },
+    {
+        "word": "TESTES",
+        "hex": "#7E57E5",
+        "score": 0.5524867724867726
+    },
+    {
+        "word": "TATTOOED",
+        "hex": "#7A7700ED",
+        "score": 0.5486049107142856
+    },
+    {
+        "word": "AGITATED",
+        "hex": "#A617A7ED",
+        "score": 0.5468191964285715
+    },
+    {
+        "word": "EGOIST",
+        "hex": "#E60157",
+        "score": 0.5458201058201059
+    },
+    {
+        "word": "DOGGED",
+        "hex": "#D066ED",
+        "score": 0.543915343915344
+    },
+    {
+        "word": "FAGOTS",
+        "hex": "#FA6075",
+        "score": 0.5382010582010582
+    },
+    {
+        "word": "GAZEBO",
+        "hex": "#6A2EB0",
+        "score": 0.5382010582010582
+    },
+    {
+        "word": "BETTAS",
+        "hex": "#BE77A5",
+        "score": 0.5296296296296298
+    },
+    {
+        "word": "TSETSE",
+        "hex": "#75E75E",
+        "score": 0.5210582010582011
+    },
+    {
+        "word": "COTTAS",
+        "hex": "#C077A5",
+        "score": 0.5153439153439153
+    },
+    {
+        "word": "SETTEE",
+        "hex": "#5E77EE",
+        "score": 0.5153439153439153
+    },
+    {
+        "word": "BATTED",
+        "hex": "#BA77ED",
+        "score": 0.5124867724867725
+    },
+    {
+        "word": "BETTED",
+        "hex": "#BE77ED",
+        "score": 0.5124867724867725
+    },
+    {
+        "word": "DIGGED",
+        "hex": "#D166ED",
+        "score": 0.5124867724867725
+    },
+    {
+        "word": "TIDBIT",
+        "hex": "#71DB17",
+        "score": 0.5096296296296298
+    },
+    {
+        "word": "FATTED",
+        "hex": "#FA77ED",
+        "score": 0.5058201058201058
+    },
+    {
+        "word": "FIDGET",
+        "hex": "#F1D6E7",
+        "score": 0.5058201058201058
+    },
+    {
+        "word": "FOGGED",
+        "hex": "#F066ED",
+        "score": 0.5058201058201058
+    },
+    {
+        "word": "FAGGED",
+        "hex": "#FA66ED",
+        "score": 0.5029629629629631
+    },
+    {
+        "word": "DOTAGE",
+        "hex": "#D07A6E",
+        "score": 0.4896296296296297
+    },
+    {
+        "word": "GIBBET",
+        "hex": "#61BBE7",
+        "score": 0.4896296296296297
+    },
+    {
+        "word": "AGITATES",
+        "hex": "#A617A7E5",
+        "score": 0.48431919642857146
+    },
+    {
+        "word": "AGATES",
+        "hex": "#A6A7E5",
+        "score": 0.4839153439153439
+    },
+    {
+        "word": "STOATS",
+        "hex": "#570A75",
+        "score": 0.47724867724867726
+    },
+    {
+        "word": "STOGIE",
+        "hex": "#57061E",
+        "score": 0.47724867724867726
+    },
+    {
+        "word": "FOGGIEST",
+        "hex": "#F0661E57",
+        "score": 0.4664620535714286
+    },
+    {
+        "word": "COGITO",
+        "hex": "#C06170",
+        "score": 0.4486772486772488
+    },
+    {
+        "word": "OCTETS",
+        "hex": "#0C7E75",
+        "score": 0.4486772486772488
+    },
+    {
+        "word": "TICTAC",
+        "hex": "#71C7AC",
+        "score": 0.4486772486772488
+    },
+    {
+        "word": "BASSETTS",
+        "hex": "#BA55E775",
+        "score": 0.421875
+    },
+    {
+        "word": "FOSSETTE",
+        "hex": "#F055E77E",
+        "score": 0.421875
+    },
+    {
+        "word": "BEDOTTED",
+        "hex": "#BED077ED",
+        "score": 0.421875
+    },
+    {
+        "word": "BEFOGGED",
+        "hex": "#BEF066ED",
+        "score": 0.421875
+    },
+    {
+        "word": "BISCOTTI",
+        "hex": "#B15C0771",
+        "score": 0.421875
+    },
+    {
+        "word": "BISCOTTO",
+        "hex": "#B15C0770",
+        "score": 0.421875
+    },
+    {
+        "word": "BOOZIEST",
+        "hex": "#B0021E57",
+        "score": 0.421875
+    },
+    {
+        "word": "CASETTES",
+        "hex": "#CA5E77E5",
+        "score": 0.421875
+    },
+    {
+        "word": "DEBAGGED",
+        "hex": "#DEBA66ED",
+        "score": 0.421875
+    },
+    {
+        "word": "DEFATTED",
+        "hex": "#DEFA77ED",
+        "score": 0.421875
+    },
+    {
+        "word": "DEFOGGED",
+        "hex": "#DEF066ED",
+        "score": 0.421875
+    },
+    {
+        "word": "FACETTED",
+        "hex": "#FACE77ED",
+        "score": 0.421875
+    },
+    {
+        "word": "FOOTBAGS",
+        "hex": "#F007BA65",
+        "score": 0.421875
+    },
+    {
+        "word": "FOOTIEST",
+        "hex": "#F0071E57",
+        "score": 0.421875
+    },
+    {
+        "word": "GABBIEST",
+        "hex": "#6ABB1E57",
+        "score": 0.421875
+    },
+    {
+        "word": "GASSIEST",
+        "hex": "#6A551E57",
+        "score": 0.421875
+    },
+    {
+        "word": "GIBBETED",
+        "hex": "#61BBE7ED",
+        "score": 0.421875
+    },
+    {
+        "word": "GIBBSITE",
+        "hex": "#61BB517E",
+        "score": 0.421875
+    },
+    {
+        "word": "GIDDIEST",
+        "hex": "#61DD1E57",
+        "score": 0.421875
+    },
+    {
+        "word": "GOOSIEST",
+        "hex": "#60051E57",
+        "score": 0.421875
+    },
+    {
+        "word": "SOOTIEST",
+        "hex": "#50071E57",
+        "score": 0.421875
+    },
+    {
+        "word": "STACCATI",
+        "hex": "#57ACCA71",
+        "score": 0.421875
+    },
+    {
+        "word": "STIFFEST",
+        "hex": "#571FFE57",
+        "score": 0.421875
+    },
+    {
+        "word": "STOCCATA",
+        "hex": "#570CCA7A",
+        "score": 0.421875
+    },
+    {
+        "word": "ACETATED",
+        "hex": "#ACE7A7ED",
+        "score": 0.421875
+    },
+    {
+        "word": "AZOTISED",
+        "hex": "#A20715ED",
+        "score": 0.421875
+    },
+    {
+        "word": "AZOTISES",
+        "hex": "#A20715E5",
+        "score": 0.421875
+    },
+    {
+        "word": "BATISTES",
+        "hex": "#BA7157E5",
+        "score": 0.421875
+    },
+    {
+        "word": "BIOTITIC",
+        "hex": "#B107171C",
+        "score": 0.421875
+    },
+    {
+        "word": "BITSIEST",
+        "hex": "#B1751E57",
+        "score": 0.421875
+    },
+    {
+        "word": "CABOTAGE",
+        "hex": "#CAB07A6E",
+        "score": 0.421875
+    },
+    {
+        "word": "CATBOATS",
+        "hex": "#CA7B0A75",
+        "score": 0.421875
+    },
+    {
+        "word": "DICTIEST",
+        "hex": "#D1C71E57",
+        "score": 0.421875
+    },
+    {
+        "word": "DIGESTED",
+        "hex": "#D16E57ED",
+        "score": 0.421875
+    },
+    {
+        "word": "DIGESTIF",
+        "hex": "#D16E571F",
+        "score": 0.421875
+    },
+    {
+        "word": "DITSIEST",
+        "hex": "#D1751E57",
+        "score": 0.421875
+    },
+    {
+        "word": "DODGIEST",
+        "hex": "#D0D61E57",
+        "score": 0.421875
+    },
+    {
+        "word": "ECOTAGES",
+        "hex": "#EC07A6E5",
+        "score": 0.421875
+    },
+    {
+        "word": "FIDGETED",
+        "hex": "#F1D6E7ED",
+        "score": 0.421875
+    },
+    {
+        "word": "GABFESTS",
+        "hex": "#6ABFE575",
+        "score": 0.421875
+    },
+    {
+        "word": "GAZABOES",
+        "hex": "#6A2AB0E5",
+        "score": 0.421875
+    },
+    {
+        "word": "GAZEBOES",
+        "hex": "#6A2EB0E5",
+        "score": 0.421875
+    },
+    {
+        "word": "GEODETIC",
+        "hex": "#6E0DE71C",
+        "score": 0.421875
+    },
+    {
+        "word": "GODETIAS",
+        "hex": "#60DE71A5",
+        "score": 0.421875
+    },
+    {
+        "word": "ISAGOGES",
+        "hex": "#15A606E5",
+        "score": 0.421875
+    },
+    {
+        "word": "ISAGOGIC",
+        "hex": "#15A6061C",
+        "score": 0.421875
+    },
+    {
+        "word": "OBTECTED",
+        "hex": "#0B7EC7ED",
+        "score": 0.421875
+    },
+    {
+        "word": "OBTESTED",
+        "hex": "#0B7E57ED",
+        "score": 0.421875
+    },
+    {
+        "word": "OSTEITIC",
+        "hex": "#057E171C",
+        "score": 0.421875
+    },
+    {
+        "word": "OSTEITIS",
+        "hex": "#057E1715",
+        "score": 0.421875
+    },
+    {
+        "word": "OTITIDES",
+        "hex": "#07171DE5",
+        "score": 0.421875
+    },
+    {
+        "word": "OTITISES",
+        "hex": "#071715E5",
+        "score": 0.421875
+    },
+    {
+        "word": "SEDATEST",
+        "hex": "#5EDA7E57",
+        "score": 0.421875
+    },
+    {
+        "word": "SEDGIEST",
+        "hex": "#5ED61E57",
+        "score": 0.421875
+    },
+    {
+        "word": "STAIDEST",
+        "hex": "#57A1DE57",
+        "score": 0.421875
+    },
+    {
+        "word": "STATICES",
+        "hex": "#57A71CE5",
+        "score": 0.421875
+    },
+    {
+        "word": "STEDFAST",
+        "hex": "#57EDFA57",
+        "score": 0.421875
+    },
+    {
+        "word": "TABETICS",
+        "hex": "#7ABE71C5",
+        "score": 0.421875
+    },
+    {
+        "word": "TOSTADAS",
+        "hex": "#7057ADA5",
+        "score": 0.421875
+    },
+    {
+        "word": "TOSTADOS",
+        "hex": "#7057AD05",
+        "score": 0.421875
+    },
+    {
+        "word": "ZOISITES",
+        "hex": "#201517E5",
+        "score": 0.421875
+    },
+    {
+        "word": "TATTOO",
+        "hex": "#7A7700",
+        "score": 0.4207142857142857
+    },
+    {
+        "word": "ATTESTED",
+        "hex": "#A77E57ED",
+        "score": 0.4200334821428571
+    },
+    {
+        "word": "DIGITIZE",
+        "hex": "#D161712E",
+        "score": 0.4200334821428571
+    },
+    {
+        "word": "FAGGOT",
+        "hex": "#FA6607",
+        "score": 0.41714285714285715
+    },
+    {
+        "word": "EGOTISTS",
+        "hex": "#E6071575",
+        "score": 0.4137834821428571
+    },
+    {
+        "word": "COGITATE",
+        "hex": "#C0617A7E",
+        "score": 0.3986049107142857
+    },
+    {
+        "word": "GESTATES",
+        "hex": "#6E57A7E5",
+        "score": 0.3869977678571429
+    },
+    {
+        "word": "GADGET",
+        "hex": "#6AD6E7",
+        "score": 0.375
+    },
+    {
+        "word": "TAGGED",
+        "hex": "#7A66ED",
+        "score": 0.35714285714285715
+    },
+    {
+        "word": "GAZETTES",
+        "hex": "#6A2E77E5",
+        "score": 0.3214285714285714
+    },
+    {
+        "word": "ATTEST",
+        "hex": "#A77E57",
+        "score": 0.30785714285714283
+    },
+    {
+        "word": "AGEIST",
+        "hex": "#A6E157",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AGGADA",
+        "hex": "#A66ADA",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AGGIES",
+        "hex": "#A661E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AGISTS",
+        "hex": "#A61575",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AGITAS",
+        "hex": "#A617A5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AZOTED",
+        "hex": "#A207ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AZOTES",
+        "hex": "#A207E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "AZOTIC",
+        "hex": "#A2071C",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BAGGED",
+        "hex": "#BA66ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BAGGIE",
+        "hex": "#BA661E",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BEGAZE",
+        "hex": "#BE6A2E",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BEGGED",
+        "hex": "#BE66ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BITTED",
+        "hex": "#B177ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BIZZES",
+        "hex": "#B122E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "BOGGED",
+        "hex": "#B066ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "CATTED",
+        "hex": "#CA77ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "CATTIE",
+        "hex": "#CA771E",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "COGGED",
+        "hex": "#C066ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "COTTAE",
+        "hex": "#C077AE",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "COZZES",
+        "hex": "#C022E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "DAGGAS",
+        "hex": "#DA66A5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "DATTOS",
+        "hex": "#DA7705",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "DEGAGE",
+        "hex": "#DE6A6E",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "DITZES",
+        "hex": "#D172E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "EGESTA",
+        "hex": "#E6E57A",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "EGESTS",
+        "hex": "#E6E575",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "FETTED",
+        "hex": "#FE77ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "FEZZED",
+        "hex": "#FE22ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "FEZZES",
+        "hex": "#FE22E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "FIGGED",
+        "hex": "#F166ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "FIZZED",
+        "hex": "#F122ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "FOGDOG",
+        "hex": "#F06D06",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GAITED",
+        "hex": "#6A17ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GASBAG",
+        "hex": "#6A5BA6",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GASTED",
+        "hex": "#6A57ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GAZABO",
+        "hex": "#6A2AB0",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GAZOOS",
+        "hex": "#6A2005",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GEESTS",
+        "hex": "#6EE575",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GESTES",
+        "hex": "#6E57E5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GESTIC",
+        "hex": "#6E571C",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GIFTEE",
+        "hex": "#61F7EE",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GOBBET",
+        "hex": "#60BBE7",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "GODETS",
+        "hex": "#60DE75",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "OBTECT",
+        "hex": "#0B7EC7",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "OBTEST",
+        "hex": "#0B7E57",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "OFTEST",
+        "hex": "#0F7E57",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "OTITIC",
+        "hex": "#07171C",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "OTITIS",
+        "hex": "#071715",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "SAGEST",
+        "hex": "#5A6E57",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "SAGGED",
+        "hex": "#5A66ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "SCATTS",
+        "hex": "#5CA775",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "SESTET",
+        "hex": "#5E57E7",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "SOGGED",
+        "hex": "#5066ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "SOTTED",
+        "hex": "#5077ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "STACTE",
+        "hex": "#57AC7E",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "STAIGS",
+        "hex": "#57A165",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "STODGE",
+        "hex": "#570D6E",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TAIGAS",
+        "hex": "#7A16A5",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TASSET",
+        "hex": "#7A55E7",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TATSOI",
+        "hex": "#7A7501",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TEATED",
+        "hex": "#7EA7ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TESTAE",
+        "hex": "#7E57AE",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TESTEE",
+        "hex": "#7E57EE",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TESTIS",
+        "hex": "#7E5715",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TICTOC",
+        "hex": "#71C70C",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TOGAED",
+        "hex": "#706AED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TOITED",
+        "hex": "#7017ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TOOTED",
+        "hex": "#7007ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "ZESTED",
+        "hex": "#2E57ED",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "ZIBETS",
+        "hex": "#21BE75",
+        "score": 0.29629629629629634
+    },
+    {
+        "word": "TITBIT",
+        "hex": "#717B17",
+        "score": 0.27
+    },
+    {
+        "word": "TATTED",
+        "hex": "#7A77ED",
+        "score": 0.255
+    },
+    {
+        "word": "ZAFTIG",
+        "hex": "#2AF716",
+        "score": 0.255
+    },
+    {
+        "word": "ATTICIST",
+        "hex": "#A771C157",
+        "score": 0.244140625
+    },
+    {
+        "word": "ATTICIZE",
+        "hex": "#A771C12E",
+        "score": 0.244140625
+    },
+    {
+        "word": "BAGGIEST",
+        "hex": "#BA661E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "BATTIEST",
+        "hex": "#BA771E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "BEZAZZES",
+        "hex": "#BE2A22E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "BITTIEST",
+        "hex": "#B1771E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "BOGGIEST",
+        "hex": "#B0661E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "CATTIEST",
+        "hex": "#CA771E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "COATTEST",
+        "hex": "#C0A77E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "DIZZIEST",
+        "hex": "#D1221E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "DOGGIEST",
+        "hex": "#D0661E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "DOTTIEST",
+        "hex": "#D0771E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "FAGGIEST",
+        "hex": "#FA661E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "FAGGOTED",
+        "hex": "#FA6607ED",
+        "score": 0.244140625
+    },
+    {
+        "word": "FATTIEST",
+        "hex": "#FA771E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "FIZZIEST",
+        "hex": "#F1221E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "FOGGAGES",
+        "hex": "#F066A6E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "OCTETTES",
+        "hex": "#0C7E77E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "SAGGIEST",
+        "hex": "#5A661E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "SOGGIEST",
+        "hex": "#50661E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "STAGGIES",
+        "hex": "#57A661E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "ZOOTIEST",
+        "hex": "#20071E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "AGATIZED",
+        "hex": "#A6A712ED",
+        "score": 0.244140625
+    },
+    {
+        "word": "AGATIZES",
+        "hex": "#A6A712E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "AGIOTAGE",
+        "hex": "#A6107A6E",
+        "score": 0.244140625
+    },
+    {
+        "word": "AZOTIZED",
+        "hex": "#A20712ED",
+        "score": 0.244140625
+    },
+    {
+        "word": "AZOTIZES",
+        "hex": "#A20712E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "DIGITATE",
+        "hex": "#D1617A7E",
+        "score": 0.244140625
+    },
+    {
+        "word": "DITZIEST",
+        "hex": "#D1721E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "GESTATED",
+        "hex": "#6E57A7ED",
+        "score": 0.244140625
+    },
+    {
+        "word": "GIGABITS",
+        "hex": "#616AB175",
+        "score": 0.244140625
+    },
+    {
+        "word": "STAGIEST",
+        "hex": "#57A61E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "STATISTS",
+        "hex": "#57A71575",
+        "score": 0.244140625
+    },
+    {
+        "word": "STEATITE",
+        "hex": "#57EA717E",
+        "score": 0.244140625
+    },
+    {
+        "word": "TASTIEST",
+        "hex": "#7A571E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "TECTITES",
+        "hex": "#7EC717E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "TESTATES",
+        "hex": "#7E57A7E5",
+        "score": 0.244140625
+    },
+    {
+        "word": "TESTIEST",
+        "hex": "#7E571E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "ZESTIEST",
+        "hex": "#2E571E57",
+        "score": 0.244140625
+    },
+    {
+        "word": "TOTTED",
+        "hex": "#7077ED",
+        "score": 0.2392857142857143
+    },
+    {
+        "word": "ZIGZAG",
+        "hex": "#2162A6",
+        "score": 0.16084656084656088
+    },
+    {
+        "word": "GAZETTED",
+        "hex": "#6A2E77ED",
+        "score": 0.125
+    },
+    {
+        "word": "TATTIEST",
+        "hex": "#7A771E57",
+        "score": 0.125
+    },
+    {
+        "word": "BEZAZZ",
+        "hex": "#BE2A22",
+        "score": 0.125
+    },
+    {
+        "word": "FIZGIG",
+        "hex": "#F12616",
+        "score": 0.125
+    },
+    {
+        "word": "GAGGED",
+        "hex": "#6A66ED",
+        "score": 0.125
+    },
+    {
+        "word": "GIGGED",
+        "hex": "#6166ED",
+        "score": 0.125
+    },
+    {
+        "word": "GIGOTS",
+        "hex": "#616075",
+        "score": 0.125
+    },
+    {
+        "word": "GITTED",
+        "hex": "#6177ED",
+        "score": 0.125
+    },
+    {
+        "word": "STOTTS",
+        "hex": "#570775",
+        "score": 0.125
+    },
+    {
+        "word": "TATTIE",
+        "hex": "#7A771E",
+        "score": 0.125
+    },
+    {
+        "word": "TAZZAS",
+        "hex": "#7A22A5",
+        "score": 0.125
+    },
+    {
+        "word": "TITTIE",
+        "hex": "#71771E",
+        "score": 0.125
+    },
+    {
+        "word": "TOGATE",
+        "hex": "#706A7E",
+        "score": 0.125
+    },
+    {
+        "word": "TOGGED",
+        "hex": "#7066ED",
+        "score": 0.125
+    },
+    {
+        "word": "ZAGGED",
+        "hex": "#2A66ED",
+        "score": 0.125
+    },
+    {
+        "word": "ZIGGED",
+        "hex": "#2166ED",
+        "score": 0.125
+    },
+    {
+        "word": "ZOFTIG",
+        "hex": "#20F716",
+        "score": 0.125
+    },
+    {
+        "word": "TZETZE",
+        "hex": "#72E72E",
+        "score": 0.03703703703703704
+    }
+]
