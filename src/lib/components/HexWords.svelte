@@ -1,20 +1,28 @@
 <script lang="ts">
     import { createEventDispatcher } from "svelte";
     import type { IHexWord } from "../types";
+    import { contrast, hexToRgb } from "../utils";
     export let words: IHexWord[];
     export let query: string = "";
+    export let alpha: boolean;
 
     const dispatch = createEventDispatcher();
 
-    $: filteredWords = words.map((word) =>
-        word.word.toLowerCase().includes(query.toLowerCase())
+    $: filteredWords = words.map(
+        (word) =>
+            (word.word.length !== 8 || alpha) &&
+            word.word.toLowerCase().includes(query.toLowerCase())
     );
 </script>
 
 <ul>
     {#each words as word, index (word.word)}
+        {@const changeColor = contrast(hexToRgb(word.hex), [0, 0, 0]) < 3.5}
         <li style:--color={word.hex} class:hidden={!filteredWords[index]}>
-            <button on:click={() => dispatch("select", word.hex)}>
+            <button
+                style:color={changeColor ? "white" : "black"}
+                on:click={() => dispatch("select", word.hex)}
+            >
                 {word.hex}
                 <br />
                 <small>({word.word})</small>

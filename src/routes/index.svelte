@@ -4,14 +4,25 @@
     import HexWords from "../lib/components/HexWords.svelte";
     import type { IHexWord } from "../lib/types";
     import wordsJson from "../lib/words/words.json";
+    import { contrast, hexToRgb } from "../lib/utils";
     let words: IHexWord[] = wordsJson;
     let query: string = "";
+    let alpha: boolean = false;
     let selectedColor: string = "";
+    $: contrastColor = contrast(hexToRgb(selectedColor), [0, 0, 0]) < 3.5;
 </script>
 
-<main style:--selected-color={selectedColor}>
-    <Search bind:search={query} />
-    <HexWords {words} {query} on:select={(e) => (selectedColor = e.detail)} />
+<main
+    style:color={contrastColor ? "white" : "black"}
+    style:--selected-color={selectedColor}
+>
+    <Search bind:search={query} bind:alpha />
+    <HexWords
+        {words}
+        {query}
+        on:select={(e) => (selectedColor = e.detail)}
+        {alpha}
+    />
 </main>
 
 <style>
