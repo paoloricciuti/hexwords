@@ -18,12 +18,42 @@ const contrast = (rgb1: number[], rgb2: number[]) => {
 };
 
 const hexToRgb = (hex: string) => {
-    const [pound, r, rr, g, gg, b, bb] = hex;
-    return [parseInt(`${r}${rr}`, 16), parseInt(`${g}${gg}`, 16), parseInt(`${b}${bb}`, 16)];
+    const [pound, r, rr, g, gg, b, bb, a, aa] = hex;
+    const retval = [parseInt(`${r}${rr}`, 16), parseInt(`${g}${gg}`, 16), parseInt(`${b}${bb}`, 16)];
+    if (a && aa) {
+        retval.push(parseInt(`${a}${aa}`, 16));
+    }
+    return retval;
+};
+
+const rgbToHex = (r: number, g: number, b: number, a?: number) => {
+    return `#${r.toString(16)}${b.toString(16)}${g.toString(16)}${a !== undefined ? a.toString(16) : ''}`;
+};
+
+const mixAlpha = ([rr, gg, bb, aa]: number[], [r, g, b] = [255, 255, 255]) => {
+    debugger;
+    const factor = aa / 255;
+    const retR = r * (1 - factor) + rr * factor;
+    const retG = g * (1 - factor) + gg * factor;
+    const retB = b * (1 - factor) + bb * factor;
+
+    return [retR, retG, retB];
+};
+
+const distance = (color: string, color2: string) => {
+    const rgbs = [color, color2].map(color => hexToRgb(color));
+    let sum = 0;
+    for (let i = 0; i < 3; i++) {
+        sum += (rgbs[0][i] - rgbs[1][i]) ** 2;
+    }
+    return Math.sqrt(sum);
 };
 
 export {
     luminance,
     contrast,
     hexToRgb,
+    rgbToHex,
+    mixAlpha,
+    distance,
 };

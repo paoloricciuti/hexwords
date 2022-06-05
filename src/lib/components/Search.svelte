@@ -1,12 +1,23 @@
 <script lang="ts">
+    import { hexToRgb, mixAlpha } from "../utils";
+
+    import ColorPicker from "./ColorPicker.svelte";
     import Switch from "./Switch.svelte";
 
     export let search: string;
     export let alpha: boolean;
+    export let color: string;
+    export let selectedColor: string;
+    $: searchColor = (() => {
+        if (selectedColor.length === 7) return selectedColor;
+        const mix = mixAlpha(hexToRgb(selectedColor));
+        const hex = `rgb(${mix[0]}, ${mix[1]}, ${mix[2]})`;
+        return hex;
+    })();
 </script>
 
 <h1><pre>#HEXWORDS</pre></h1>
-<div>
+<div style:--selected-color={searchColor}>
     <input type="search" bind:value={search} placeholder="search..." />
     <Switch
         bind:checked={alpha}
@@ -14,6 +25,7 @@
         trackSize="2rem"
         label="Alpha"
     />
+    <ColorPicker bind:color />
 </div>
 
 <style>
@@ -28,13 +40,14 @@
     div {
         position: sticky;
         top: 0;
-        background-color: inherit;
+        background-color: var(--selected-color);
         padding-block: 1rem;
-        display: flex;
+        display: grid;
         font-family: system-ui;
         justify-content: center;
         align-items: center;
         gap: 1rem;
+        grid-template-columns: max-content max-content max-content;
     }
     input:not([type="checkbox"]) {
         width: min(30rem, 50vw);
@@ -47,8 +60,5 @@
     }
     input:not([type="checkbox"]):focus {
         box-shadow: 0 0 0.5rem 0 rgba(0 0 0 / 0.7);
-    }
-    input[type="checkbox"] {
-        accent-color: var(--selected-color);
     }
 </style>

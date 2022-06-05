@@ -9,6 +9,7 @@
     let query: string = "";
     let alpha: boolean = false;
     let selectedColor: string = "";
+    let queryColor: string = "";
     $: contrastColor = contrast(hexToRgb(selectedColor), [0, 0, 0]) < 3.5;
 </script>
 
@@ -16,12 +17,18 @@
     style:color={contrastColor ? "white" : "black"}
     style:--selected-color={selectedColor}
 >
-    <Search bind:search={query} bind:alpha />
+    <Search
+        bind:search={query}
+        bind:color={queryColor}
+        bind:alpha
+        bind:selectedColor
+    />
     <HexWords
         {words}
         {query}
         on:select={(e) => (selectedColor = e.detail)}
         {alpha}
+        {queryColor}
     />
 </main>
 
