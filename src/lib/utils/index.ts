@@ -17,6 +17,8 @@ const contrast = (rgb1: number[], rgb2: number[]) => {
         / (darkest + 0.05);
 };
 
+const isHex = (hex: string) => /^#[0-9a-f]{6}([0-9a-f]{2})?$/gi.test(hex);
+
 const hexToRgb = (hex: string) => {
     const [pound, r, rr, g, gg, b, bb, a, aa] = hex;
     const retval = [parseInt(`${r}${rr}`, 16), parseInt(`${g}${gg}`, 16), parseInt(`${b}${bb}`, 16)];
@@ -31,7 +33,6 @@ const rgbToHex = (r: number, g: number, b: number, a?: number) => {
 };
 
 const mixAlpha = ([rr, gg, bb, aa]: number[], [r, g, b] = [255, 255, 255]) => {
-    debugger;
     const factor = aa / 255;
     const retR = r * (1 - factor) + rr * factor;
     const retG = g * (1 - factor) + gg * factor;
@@ -41,10 +42,17 @@ const mixAlpha = ([rr, gg, bb, aa]: number[], [r, g, b] = [255, 255, 255]) => {
 };
 
 const distance = (color: string, color2: string) => {
-    const rgbs = [color, color2].map(color => hexToRgb(color));
+    const colorRgb = hexToRgb(color);
+    const color2Rgb = hexToRgb(color2);
+    if (colorRgb.length === 3) {
+        colorRgb.push(255);
+    }
+    if (color2Rgb.length === 3) {
+        color2Rgb.push(255);
+    }
     let sum = 0;
-    for (let i = 0; i < 3; i++) {
-        sum += (rgbs[0][i] - rgbs[1][i]) ** 2;
+    for (let i = 0; i < 4; i++) {
+        sum += (colorRgb[i] - color2Rgb[i]) ** 2;
     }
     return Math.sqrt(sum);
 };
@@ -52,6 +60,7 @@ const distance = (color: string, color2: string) => {
 export {
     luminance,
     contrast,
+    isHex,
     hexToRgb,
     rgbToHex,
     mixAlpha,

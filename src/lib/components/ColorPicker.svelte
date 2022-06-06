@@ -8,7 +8,11 @@
         type="search"
         placeholder="order by proximity to..."
     />
-    <input bind:value={color} type="color" />
+    <input
+        value={color}
+        on:change={(e) => (color = e.currentTarget.value)}
+        type="color"
+    />
 </div>
 
 <style>

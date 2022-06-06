@@ -5,14 +5,16 @@
     import type { IHexWord } from "../lib/types";
     import wordsJson from "../lib/words/words.json";
     import { contrast, hexToRgb } from "../lib/utils";
+    import Snackbars from "../lib/components/Snackbars.svelte";
     let words: IHexWord[] = wordsJson;
     let query: string = "";
     let alpha: boolean = false;
-    let selectedColor: string = "";
+    let selectedColor: string = "#ffffff";
     let queryColor: string = "";
     $: contrastColor = contrast(hexToRgb(selectedColor), [0, 0, 0]) < 3.5;
 </script>
 
+<Snackbars />
 <main
     style:color={contrastColor ? "white" : "black"}
     style:--selected-color={selectedColor}
@@ -36,6 +38,7 @@
     :global(body) {
         margin: 0;
         padding: 0;
+        font-family: monospace;
     }
     :global(*) {
         box-sizing: border-box;
