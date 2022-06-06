@@ -66,6 +66,7 @@
     }
     .credits {
         text-align: center;
+        margin-top: 1rem;
     }
     .credits > a {
         display: inline-flex;
