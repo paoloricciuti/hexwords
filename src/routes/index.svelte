@@ -4,14 +4,20 @@
     import HexWords from "../lib/components/HexWords.svelte";
     import type { IHexWord } from "../lib/types";
     import wordsJson from "../lib/words/words.json";
-    import { contrast, hexToRgb } from "../lib/utils";
+    import { contrast, hexToRgb, mixAlpha } from "../lib/utils";
     import Snackbars from "../lib/components/Snackbars.svelte";
     let words: IHexWord[] = wordsJson;
     let query: string = "";
     let alpha: boolean = false;
     let selectedColor: string = "#ffffff";
     let queryColor: string = "";
-    $: contrastColor = contrast(hexToRgb(selectedColor), [0, 0, 0]) < 3.5;
+    $: contrastColor = (() => {
+        const hexRgb =
+            selectedColor.length === 7
+                ? hexToRgb(selectedColor)
+                : mixAlpha(hexToRgb(selectedColor));
+        return contrast(hexRgb, [0, 0, 0]) < contrast(hexRgb, [255, 255, 255]);
+    })();
 </script>
 
 <Snackbars />

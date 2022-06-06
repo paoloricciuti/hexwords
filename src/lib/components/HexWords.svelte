@@ -27,7 +27,15 @@
 
 <ul>
     {#each orderedWords as word, index (word.word)}
-        {@const changeColor = contrast(hexToRgb(word.hex), [0, 0, 0]) < 3.5}
+        {@const changeColor = (() => {
+            const rgbHex =
+                word.word.length === 6
+                    ? hexToRgb(word.hex)
+                    : mixAlpha(hexToRgb(word.hex));
+            return (
+                contrast(rgbHex, [0, 0, 0]) < contrast(rgbHex, [255, 255, 255])
+            );
+        })()}
         {@const color = (() => {
             if (word.word.length === 6) return word.hex;
             const mix = mixAlpha(hexToRgb(word.hex));
@@ -96,6 +104,7 @@
         background: transparent;
         border: 0;
         font-family: monospace;
+        cursor: pointer;
     }
     .copy {
         position: absolute;
