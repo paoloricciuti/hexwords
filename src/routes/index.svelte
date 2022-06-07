@@ -9,21 +9,20 @@
     let words: IHexWord[] = wordsJson;
     let query: string = "";
     let alpha: boolean = false;
-    let selectedColor: string = "#ffffff";
+    let selectedColor: IHexWord = {
+        background: "#ffffff",
+        color: "black",
+        hex: "#ffffff",
+        score: 2,
+        word: "default",
+    };
     let queryColor: string = "";
-    $: contrastColor = (() => {
-        const hexRgb =
-            selectedColor.length === 7
-                ? hexToRgb(selectedColor)
-                : mixAlpha(hexToRgb(selectedColor));
-        return contrast(hexRgb, [0, 0, 0]) < contrast(hexRgb, [255, 255, 255]);
-    })();
 </script>
 
 <Snackbars />
 <main
-    style:color={contrastColor ? "white" : "black"}
-    style:--selected-color={selectedColor}
+    style:color={selectedColor.color}
+    style:--selected-color={selectedColor.background}
 >
     <Search
         bind:search={query}

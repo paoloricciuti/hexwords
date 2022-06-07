@@ -2,4476 +2,6266 @@
     {
         "word": "BABIES",
         "hex": "#BAB1E5",
-        "score": 1.802857142857143
+        "score": 1.802857142857143,
+        "color": "black",
+        "background": "#BAB1E5"
     },
     {
         "word": "BOSSES",
         "hex": "#B055E5",
-        "score": 1.7528571428571427
+        "score": 1.7528571428571427,
+        "color": "black",
+        "background": "#B055E5"
     },
     {
         "word": "OFFICE",
         "hex": "#0FF1CE",
-        "score": 1.7442857142857142
+        "score": 1.7442857142857142,
+        "color": "black",
+        "background": "#0FF1CE"
     },
     {
         "word": "COFFEE",
         "hex": "#C0FFEE",
-        "score": 1.7342857142857142
+        "score": 1.7342857142857142,
+        "color": "black",
+        "background": "#C0FFEE"
     },
     {
         "word": "DECIDE",
         "hex": "#DEC1DE",
-        "score": 1.6842857142857142
+        "score": 1.6842857142857142,
+        "color": "black",
+        "background": "#DEC1DE"
     },
     {
         "word": "BODIES",
         "hex": "#B0D1E5",
-        "score": 1.6585714285714286
+        "score": 1.6585714285714286,
+        "color": "black",
+        "background": "#B0D1E5"
     },
     {
         "word": "DISEASES",
         "hex": "#D15EA5E5",
-        "score": 1.6400000000000001
+        "score": 1.6400000000000001,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 110.4156862745098, 174.1764705882353)"
     },
     {
         "word": "ASIDES",
         "hex": "#A51DE5",
-        "score": 1.63
+        "score": 1.63,
+        "color": "white",
+        "background": "#A51DE5"
     },
     {
         "word": "ACCESSES",
         "hex": "#ACCE55E5",
-        "score": 1.6285714285714286
+        "score": 1.6285714285714286,
+        "color": "black",
+        "background": "rgb(180.46274509803922, 210.99607843137255, 102.33333333333334)"
     },
     {
         "word": "ACCESS",
         "hex": "#ACCE55",
-        "score": 1.6285714285714286
+        "score": 1.6285714285714286,
+        "color": "black",
+        "background": "#ACCE55"
     },
     {
         "word": "BESIDE",
         "hex": "#BE51DE",
-        "score": 1.6057142857142859
+        "score": 1.6057142857142859,
+        "color": "black",
+        "background": "#BE51DE"
     },
     {
         "word": "OBSESSED",
         "hex": "#0B5E55ED",
-        "score": 1.5814285714285714
+        "score": 1.5814285714285714,
+        "color": "white",
+        "background": "rgb(28.2235294117647, 105.36470588235295, 97)"
     },
     {
         "word": "DISCOS",
         "hex": "#D15C05",
-        "score": 1.5657142857142858
+        "score": 1.5657142857142858,
+        "color": "black",
+        "background": "#D15C05"
     },
     {
         "word": "DECEASED",
         "hex": "#DECEA5ED",
-        "score": 1.5542857142857143
+        "score": 1.5542857142857143,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 209.45882352941177, 171.35294117647058)"
     },
     {
         "word": "CEASES",
         "hex": "#CEA5E5",
-        "score": 1.552857142857143
+        "score": 1.552857142857143,
+        "color": "black",
+        "background": "#CEA5E5"
     },
     {
         "word": "DECADE",
         "hex": "#DECADE",
-        "score": 1.5371428571428571
+        "score": 1.5371428571428571,
+        "color": "black",
+        "background": "#DECADE"
     },
     {
         "word": "COCOAS",
         "hex": "#C0C0A5",
-        "score": 1.497142857142857
+        "score": 1.497142857142857,
+        "color": "black",
+        "background": "#C0C0A5"
     },
     {
         "word": "BASICS",
         "hex": "#BA51C5",
-        "score": 1.4957142857142858
+        "score": 1.4957142857142858,
+        "color": "black",
+        "background": "#BA51C5"
     },
     {
         "word": "EDDIES",
         "hex": "#EDD1E5",
-        "score": 1.4928571428571429
+        "score": 1.4928571428571429,
+        "color": "black",
+        "background": "#EDD1E5"
     },
     {
         "word": "DEFIES",
         "hex": "#DEF1E5",
-        "score": 1.49
+        "score": 1.49,
+        "color": "black",
+        "background": "#DEF1E5"
     },
     {
         "word": "SEAFOODS",
         "hex": "#5EAF00D5",
-        "score": 1.4828571428571429
+        "score": 1.4828571428571429,
+        "color": "black",
+        "background": "rgb(120.51764705882351, 188.1764705882353, 41.99999999999999)"
     },
     {
         "word": "SEASIDES",
         "hex": "#5EA51DE5",
-        "score": 1.4828571428571429
+        "score": 1.4828571428571429,
+        "color": "black",
+        "background": "rgb(110.4156862745098, 174.1764705882353, 52.04313725490195)"
     },
     {
         "word": "ABIDES",
         "hex": "#AB1DE5",
-        "score": 1.4814285714285713
+        "score": 1.4814285714285713,
+        "color": "white",
+        "background": "#AB1DE5"
     },
     {
         "word": "ASSESSES",
         "hex": "#A55E55E5",
-        "score": 1.477142857142857
+        "score": 1.477142857142857,
+        "color": "black",
+        "background": "rgb(174.1764705882353, 110.4156862745098, 102.33333333333334)"
     },
     {
         "word": "ASSESS",
         "hex": "#A55E55",
-        "score": 1.477142857142857
+        "score": 1.477142857142857,
+        "color": "white",
+        "background": "#A55E55"
     },
     {
         "word": "COSIES",
         "hex": "#C051E5",
-        "score": 1.4714285714285715
+        "score": 1.4714285714285715,
+        "color": "black",
+        "background": "#C051E5"
     },
     {
         "word": "BEDSIDES",
         "hex": "#BED51DE5",
-        "score": 1.4557142857142857
+        "score": 1.4557142857142857,
+        "color": "black",
+        "background": "rgb(196.62745098039215, 217.28235294117647, 52.04313725490195)"
     },
     {
         "word": "ABODES",
         "hex": "#AB0DE5",
-        "score": 1.4557142857142857
+        "score": 1.4557142857142857,
+        "color": "white",
+        "background": "#AB0DE5"
     },
     {
         "word": "DECAFS",
         "hex": "#DECAF5",
-        "score": 1.4442857142857144
+        "score": 1.4442857142857144,
+        "color": "black",
+        "background": "#DECAF5"
     },
     {
         "word": "FACADE",
         "hex": "#FACADE",
-        "score": 1.4414285714285713
+        "score": 1.4414285714285713,
+        "color": "black",
+        "background": "#FACADE"
     },
     {
         "word": "BIASED",
         "hex": "#B1A5ED",
-        "score": 1.4385714285714286
+        "score": 1.4385714285714286,
+        "color": "black",
+        "background": "#B1A5ED"
     },
     {
         "word": "CABBIE",
         "hex": "#CABB1E",
-        "score": 1.4342857142857142
+        "score": 1.4342857142857142,
+        "color": "black",
+        "background": "#CABB1E"
     },
     {
         "word": "FESSES",
         "hex": "#FE55E5",
-        "score": 1.427142857142857
+        "score": 1.427142857142857,
+        "color": "black",
+        "background": "#FE55E5"
     },
     {
         "word": "FIASCO",
         "hex": "#F1A5C0",
-        "score": 1.4257142857142857
+        "score": 1.4257142857142857,
+        "color": "black",
+        "background": "#F1A5C0"
     },
     {
         "word": "BODIED",
         "hex": "#B0D1ED",
-        "score": 1.4242857142857144
+        "score": 1.4242857142857144,
+        "color": "black",
+        "background": "#B0D1ED"
     },
     {
         "word": "CISCOS",
         "hex": "#C15C05",
-        "score": 1.4242857142857144
+        "score": 1.4242857142857144,
+        "color": "black",
+        "background": "#C15C05"
     },
     {
         "word": "DISEASED",
         "hex": "#D15EA5ED",
-        "score": 1.4171428571428573
+        "score": 1.4171428571428573,
+        "color": "black",
+        "background": "rgb(212.24705882352941, 105.36470588235295, 171.35294117647058)"
     },
     {
         "word": "SASSES",
         "hex": "#5A55E5",
-        "score": 1.4142857142857141
+        "score": 1.4142857142857141,
+        "color": "white",
+        "background": "#5A55E5"
     },
     {
         "word": "DIOCESES",
         "hex": "#D10CE5E5",
-        "score": 1.4128571428571428
+        "score": 1.4128571428571428,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 36.776470588235284, 231.65098039215687)"
     },
     {
         "word": "DECODE",
         "hex": "#DEC0DE",
-        "score": 1.4128571428571428
+        "score": 1.4128571428571428,
+        "color": "black",
+        "background": "#DEC0DE"
     },
     {
         "word": "FOSSES",
         "hex": "#F055E5",
-        "score": 1.4057142857142857
+        "score": 1.4057142857142857,
+        "color": "black",
+        "background": "#F055E5"
     },
     {
         "word": "IDIOCIES",
         "hex": "#1D10C1E5",
-        "score": 1.3942857142857141
+        "score": 1.3942857142857141,
+        "color": "white",
+        "background": "rgb(52.04313725490195, 40.368627450980384, 199.32156862745097)"
     },
     {
         "word": "SEABED",
         "hex": "#5EABED",
-        "score": 1.3942857142857141
+        "score": 1.3942857142857141,
+        "color": "black",
+        "background": "#5EABED"
     },
     {
         "word": "ACIDIC",
         "hex": "#AC1D1C",
-        "score": 1.3885714285714286
+        "score": 1.3885714285714286,
+        "color": "white",
+        "background": "#AC1D1C"
     },
     {
         "word": "DISSES",
         "hex": "#D155E5",
-        "score": 1.3842857142857143
+        "score": 1.3842857142857143,
+        "color": "black",
+        "background": "#D155E5"
     },
     {
         "word": "OBSESSES",
         "hex": "#0B5E55E5",
-        "score": 1.3814285714285715
+        "score": 1.3814285714285715,
+        "color": "white",
+        "background": "rgb(35.87843137254902, 110.4156862745098, 102.33333333333334)"
     },
     {
         "word": "OBSESS",
         "hex": "#0B5E55",
-        "score": 1.3814285714285715
+        "score": 1.3814285714285715,
+        "color": "white",
+        "background": "#0B5E55"
     },
     {
         "word": "CADDIE",
         "hex": "#CADD1E",
-        "score": 1.3771428571428572
+        "score": 1.3771428571428572,
+        "color": "black",
+        "background": "#CADD1E"
     },
     {
         "word": "CABOOSES",
         "hex": "#CAB005E5",
-        "score": 1.37
+        "score": 1.37,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 184.05490196078432, 30.490196078431367)"
     },
     {
         "word": "ABBESSES",
         "hex": "#ABBE55E5",
-        "score": 1.3528571428571428
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "rgb(179.56470588235294, 196.62745098039215, 102.33333333333334)"
     },
     {
         "word": "EDIFICES",
         "hex": "#ED1F1CE5",
-        "score": 1.3528571428571428
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "rgb(238.83529411764707, 53.8392156862745, 51.14509803921568)"
     },
     {
         "word": "ABBESS",
         "hex": "#ABBE55",
-        "score": 1.3528571428571428
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "#ABBE55"
     },
     {
         "word": "BEADED",
         "hex": "#BEADED",
-        "score": 1.3528571428571428
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "#BEADED"
     },
     {
         "word": "SCOFFS",
         "hex": "#5C0FF5",
-        "score": 1.3528571428571428
+        "score": 1.3528571428571428,
+        "color": "white",
+        "background": "#5C0FF5"
     },
     {
         "word": "SEEDED",
         "hex": "#5EEDED",
-        "score": 1.3528571428571428
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "#5EEDED"
     },
     {
         "word": "CICADA",
         "hex": "#C1CADA",
-        "score": 1.3471428571428572
+        "score": 1.3471428571428572,
+        "color": "black",
+        "background": "#C1CADA"
     },
     {
         "word": "BOOBOO",
         "hex": "#B00B00",
-        "score": 1.342857142857143
+        "score": 1.342857142857143,
+        "color": "white",
+        "background": "#B00B00"
     },
     {
         "word": "FAECES",
         "hex": "#FAECE5",
-        "score": 1.3399999999999999
+        "score": 1.3399999999999999,
+        "color": "black",
+        "background": "#FAECE5"
     },
     {
         "word": "ACACIA",
         "hex": "#ACAC1A",
-        "score": 1.3371428571428572
+        "score": 1.3371428571428572,
+        "color": "black",
+        "background": "#ACAC1A"
     },
     {
         "word": "BASSES",
         "hex": "#BA55E5",
-        "score": 1.3371428571428572
+        "score": 1.3371428571428572,
+        "color": "black",
+        "background": "#BA55E5"
     },
     {
         "word": "BEDDED",
         "hex": "#BEDDED",
-        "score": 1.3328571428571427
+        "score": 1.3328571428571427,
+        "color": "black",
+        "background": "#BEDDED"
     },
     {
         "word": "SECEDE",
         "hex": "#5ECEDE",
-        "score": 1.3328571428571427
+        "score": 1.3328571428571427,
+        "color": "black",
+        "background": "#5ECEDE"
     },
     {
         "word": "DEFACE",
         "hex": "#DEFACE",
-        "score": 1.3285714285714285
+        "score": 1.3285714285714285,
+        "color": "black",
+        "background": "#DEFACE"
     },
     {
         "word": "CASCADES",
         "hex": "#CA5CADE5",
-        "score": 1.3242857142857143
+        "score": 1.3242857142857143,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 108.61960784313726, 181.3607843137255)"
     },
     {
         "word": "DECEASES",
         "hex": "#DECEA5E5",
-        "score": 1.32
+        "score": 1.32,
+        "color": "black",
+        "background": "rgb(225.36470588235295, 210.99607843137255, 174.1764705882353)"
     },
     {
         "word": "BODICE",
         "hex": "#B0D1CE",
-        "score": 1.32
+        "score": 1.32,
+        "color": "black",
+        "background": "#B0D1CE"
     },
     {
         "word": "ADOBES",
         "hex": "#AD0BE5",
-        "score": 1.3142857142857143
+        "score": 1.3142857142857143,
+        "color": "white",
+        "background": "#AD0BE5"
     },
     {
         "word": "BAOBAB",
         "hex": "#BA0BAB",
-        "score": 1.3142857142857143
+        "score": 1.3142857142857143,
+        "color": "white",
+        "background": "#BA0BAB"
     },
     {
         "word": "COOEES",
         "hex": "#C00EE5",
-        "score": 1.302857142857143
+        "score": 1.302857142857143,
+        "color": "white",
+        "background": "#C00EE5"
     },
     {
         "word": "OFFSIDES",
         "hex": "#0FF51DE5",
-        "score": 1.2971428571428572
+        "score": 1.2971428571428572,
+        "color": "black",
+        "background": "rgb(39.47058823529411, 246.01960784313727, 52.04313725490195)"
     },
     {
         "word": "CODIFIED",
         "hex": "#C0D1F1ED",
-        "score": 1.2971428571428572
+        "score": 1.2971428571428572,
+        "color": "black",
+        "background": "rgb(196.4470588235294, 212.24705882352941, 241.98823529411766)"
     },
     {
         "word": "ACCEDE",
         "hex": "#ACCEDE",
-        "score": 1.2971428571428572
+        "score": 1.2971428571428572,
+        "color": "black",
+        "background": "#ACCEDE"
     },
     {
         "word": "DEBASE",
         "hex": "#DEBA5E",
-        "score": 1.2971428571428572
+        "score": 1.2971428571428572,
+        "color": "black",
+        "background": "#DEBA5E"
     },
     {
         "word": "DOSSES",
         "hex": "#D055E5",
-        "score": 1.2971428571428572
+        "score": 1.2971428571428572,
+        "color": "black",
+        "background": "#D055E5"
     },
     {
         "word": "IODIDE",
         "hex": "#10D1DE",
-        "score": 1.29
+        "score": 1.29,
+        "color": "black",
+        "background": "#10D1DE"
     },
     {
         "word": "CASCADED",
         "hex": "#CA5CADED",
-        "score": 1.2814285714285714
+        "score": 1.2814285714285714,
+        "color": "black",
+        "background": "rgb(205.74117647058824, 103.50588235294117, 178.78823529411764)"
     },
     {
         "word": "CASSIS",
         "hex": "#CA5515",
-        "score": 1.2814285714285714
+        "score": 1.2814285714285714,
+        "color": "black",
+        "background": "#CA5515"
     },
     {
         "word": "DOODAD",
         "hex": "#D00DAD",
-        "score": 1.2814285714285714
+        "score": 1.2814285714285714,
+        "color": "white",
+        "background": "#D00DAD"
     },
     {
         "word": "ADOBOS",
         "hex": "#AD0B05",
-        "score": 1.2714285714285714
+        "score": 1.2714285714285714,
+        "color": "white",
+        "background": "#AD0B05"
     },
     {
         "word": "BOCCES",
         "hex": "#B0CCE5",
-        "score": 1.2714285714285714
+        "score": 1.2714285714285714,
+        "color": "black",
+        "background": "#B0CCE5"
     },
     {
         "word": "CASSIA",
         "hex": "#CA551A",
-        "score": 1.2714285714285714
+        "score": 1.2714285714285714,
+        "color": "black",
+        "background": "#CA551A"
     },
     {
         "word": "DIODES",
         "hex": "#D10DE5",
-        "score": 1.2714285714285714
+        "score": 1.2714285714285714,
+        "color": "black",
+        "background": "#D10DE5"
     },
     {
         "word": "FASCIA",
         "hex": "#FA5C1A",
-        "score": 1.2714285714285714
+        "score": 1.2714285714285714,
+        "color": "black",
+        "background": "#FA5C1A"
     },
     {
         "word": "OSSIFIES",
         "hex": "#0551F1E5",
-        "score": 1.26
+        "score": 1.26,
+        "color": "white",
+        "background": "rgb(30.490196078431367, 98.74117647058824, 242.42745098039217)"
     },
     {
         "word": "ACIDOSIS",
         "hex": "#AC1D0515",
-        "score": 1.26
+        "score": 1.26,
+        "color": "black",
+        "background": "rgb(248.16470588235293, 236.38823529411764, 234.41176470588235)"
     },
     {
         "word": "BABIED",
         "hex": "#BAB1ED",
-        "score": 1.26
+        "score": 1.26,
+        "color": "black",
+        "background": "#BAB1ED"
     },
     {
         "word": "BADDIE",
         "hex": "#BADD1E",
-        "score": 1.26
+        "score": 1.26,
+        "color": "black",
+        "background": "#BADD1E"
     },
     {
         "word": "CASABA",
         "hex": "#CA5ABA",
-        "score": 1.26
+        "score": 1.26,
+        "color": "black",
+        "background": "#CA5ABA"
     },
     {
         "word": "CESSES",
         "hex": "#CE55E5",
-        "score": 1.26
+        "score": 1.26,
+        "color": "black",
+        "background": "#CE55E5"
     },
     {
         "word": "FOSSAS",
         "hex": "#F055A5",
-        "score": 1.26
+        "score": 1.26,
+        "color": "black",
+        "background": "#F055A5"
     },
     {
         "word": "ABIDED",
         "hex": "#AB1DED",
-        "score": 1.247142857142857
+        "score": 1.247142857142857,
+        "color": "white",
+        "background": "#AB1DED"
     },
     {
         "word": "BASSOS",
         "hex": "#BA5505",
-        "score": 1.247142857142857
+        "score": 1.247142857142857,
+        "color": "white",
+        "background": "#BA5505"
     },
     {
         "word": "ISSEIS",
         "hex": "#155E15",
-        "score": 1.247142857142857
+        "score": 1.247142857142857,
+        "color": "white",
+        "background": "#155E15"
     },
     {
         "word": "SAFETIES",
         "hex": "#5AFE71E5",
-        "score": 1.232421875
+        "score": 1.232421875,
+        "color": "black",
+        "background": "rgb(106.8235294117647, 254.10196078431375, 127.47843137254901)"
     },
     {
         "word": "OSSIFIED",
         "hex": "#0551F1ED",
-        "score": 1.2285714285714286
+        "score": 1.2285714285714286,
+        "color": "white",
+        "background": "rgb(22.647058823529406, 93.28235294117647, 241.98823529411766)"
     },
     {
         "word": "CODIFIES",
         "hex": "#C0D1F1E5",
-        "score": 1.2285714285714286
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "rgb(198.42352941176472, 213.69019607843137, 242.42745098039217)"
     },
     {
         "word": "BOFFOS",
         "hex": "#B0FF05",
-        "score": 1.2285714285714286
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "#B0FF05"
     },
     {
         "word": "FOODIE",
         "hex": "#F00D1E",
-        "score": 1.2285714285714286
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "#F00D1E"
     },
     {
         "word": "IDIOTS",
         "hex": "#1D1075",
-        "score": 1.1810846560846562
+        "score": 1.1810846560846562,
+        "color": "white",
+        "background": "#1D1075"
     },
     {
         "word": "DEFEATED",
         "hex": "#DEFEA7ED",
-        "score": 1.169921875
+        "score": 1.169921875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 254.07058823529414, 173.21176470588236)"
     },
     {
         "word": "AFFECTED",
         "hex": "#AFFEC7ED",
-        "score": 1.163671875
+        "score": 1.163671875,
+        "color": "black",
+        "background": "rgb(180.64705882352942, 254.07058823529414, 202.9529411764706)"
     },
     {
         "word": "FASCISTS",
         "hex": "#FA5C1575",
-        "score": 1.147421875
+        "score": 1.147421875,
+        "color": "black",
+        "background": "rgb(252.70588235294122, 180.2117647058824, 147.63529411764708)"
     },
     {
         "word": "TOBACCOS",
         "hex": "#70BACC05",
-        "score": 1.146171875
+        "score": 1.146171875,
+        "color": "black",
+        "background": "rgb(252.19607843137254, 253.64705882352942, 254)"
     },
     {
         "word": "ADDICTED",
         "hex": "#ADD1C7ED",
-        "score": 1.1449218749999999
+        "score": 1.1449218749999999,
+        "color": "black",
+        "background": "rgb(178.78823529411764, 212.24705882352941, 202.9529411764706)"
     },
     {
         "word": "DATABASE",
         "hex": "#DA7ABA5E",
-        "score": 1.124921875
+        "score": 1.124921875,
+        "color": "black",
+        "background": "rgb(241.3607843137255, 205.97254901960784, 229.56470588235294)"
     },
     {
         "word": "DEDICATE",
         "hex": "#DED1CA7E",
-        "score": 1.124921875
+        "score": 1.124921875,
+        "color": "black",
+        "background": "rgb(238.69411764705882, 232.27058823529413, 228.81176470588235)"
     },
     {
         "word": "CABBAGES",
         "hex": "#CABBA6E5",
-        "score": 1.122421875
+        "score": 1.122421875,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 193.93333333333334, 175.0745098039216)"
     },
     {
         "word": "DIABETES",
         "hex": "#D1ABE7E5",
-        "score": 1.106171875
+        "score": 1.106171875,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 179.56470588235294, 233.44705882352943)"
     },
     {
         "word": "EFFECT",
         "hex": "#EFFEC7",
-        "score": 1.10489417989418
+        "score": 1.10489417989418,
+        "color": "black",
+        "background": "#EFFEC7"
     },
     {
         "word": "BEASTS",
         "hex": "#BEA575",
-        "score": 1.1037037037037039
+        "score": 1.1037037037037039,
+        "color": "black",
+        "background": "#BEA575"
     },
     {
         "word": "COASTS",
         "hex": "#C0A575",
-        "score": 1.098941798941799
+        "score": 1.098941798941799,
+        "color": "black",
+        "background": "#C0A575"
     },
     {
         "word": "DEFEAT",
         "hex": "#DEFEA7",
-        "score": 1.085846560846561
+        "score": 1.085846560846561,
+        "color": "black",
+        "background": "#DEFEA7"
     },
     {
         "word": "DIABETIC",
         "hex": "#D1ABE71C",
-        "score": 1.0736718749999998
+        "score": 1.0736718749999998,
+        "color": "black",
+        "background": "rgb(249.94901960784313, 245.7764705882353, 252.36470588235295)"
     },
     {
         "word": "SADISTIC",
         "hex": "#5AD1571C",
-        "score": 1.0699218750000001
+        "score": 1.0699218750000001,
+        "color": "black",
+        "background": "rgb(236.88235294117646, 249.94901960784313, 236.5529411764706)"
     },
     {
         "word": "ASSISTED",
         "hex": "#A55157ED",
-        "score": 1.068671875
+        "score": 1.068671875,
+        "color": "white",
+        "background": "rgb(171.35294117647058, 93.28235294117647, 98.85882352941175)"
     },
     {
         "word": "BOOZES",
         "hex": "#B002E5",
-        "score": 1.0667989417989419
+        "score": 1.0667989417989419,
+        "color": "white",
+        "background": "#B002E5"
     },
     {
         "word": "CITIES",
         "hex": "#C171E5",
-        "score": 1.0667989417989419
+        "score": 1.0667989417989419,
+        "color": "black",
+        "background": "#C171E5"
     },
     {
         "word": "AFFECT",
         "hex": "#AFFEC7",
-        "score": 1.0644179894179895
+        "score": 1.0644179894179895,
+        "color": "black",
+        "background": "#AFFEC7"
     },
     {
         "word": "DEFICITS",
         "hex": "#DEF1C175",
-        "score": 1.0611718749999999
+        "score": 1.0611718749999999,
+        "color": "black",
+        "background": "rgb(239.85882352941178, 248.57647058823534, 226.5529411764706)"
     },
     {
         "word": "FEASTS",
         "hex": "#FEA575",
-        "score": 1.0596560846560847
+        "score": 1.0596560846560847,
+        "color": "black",
+        "background": "#FEA575"
     },
     {
         "word": "BADGES",
         "hex": "#BAD6E5",
-        "score": 1.05489417989418
+        "score": 1.05489417989418,
+        "color": "black",
+        "background": "#BAD6E5"
     },
     {
         "word": "STIFFS",
         "hex": "#571FF5",
-        "score": 1.0537037037037038
+        "score": 1.0537037037037038,
+        "color": "white",
+        "background": "#571FF5"
     },
     {
         "word": "DEADBEAT",
         "hex": "#DEADBEA7",
-        "score": 1.052421875
+        "score": 1.052421875,
+        "color": "black",
+        "background": "rgb(233.38823529411764, 201.2980392156863, 212.4313725490196)"
     },
     {
         "word": "TOBIES",
         "hex": "#70B1E5",
-        "score": 1.048941798941799
+        "score": 1.048941798941799,
+        "color": "black",
+        "background": "#70B1E5"
     },
     {
         "word": "TOSSES",
         "hex": "#7055E5",
-        "score": 1.048941798941799
+        "score": 1.048941798941799,
+        "color": "white",
+        "background": "#7055E5"
     },
     {
         "word": "SEATED",
         "hex": "#5EA7ED",
-        "score": 1.0477513227513229
+        "score": 1.0477513227513229,
+        "color": "black",
+        "background": "#5EA7ED"
     },
     {
         "word": "DEBATE",
         "hex": "#DEBA7E",
-        "score": 1.0465608465608467
+        "score": 1.0465608465608467,
+        "color": "black",
+        "background": "#DEBA7E"
     },
     {
         "word": "ASBESTOS",
         "hex": "#A5BE5705",
-        "score": 1.046171875
+        "score": 1.046171875,
+        "color": "black",
+        "background": "rgb(253.23529411764707, 253.72549019607843, 251.7058823529412)"
     },
     {
         "word": "TEASES",
         "hex": "#7EA5E5",
-        "score": 1.0406084656084658
+        "score": 1.0406084656084658,
+        "color": "black",
+        "background": "#7EA5E5"
     },
     {
         "word": "ASSIST",
         "hex": "#A55157",
-        "score": 1.035846560846561
+        "score": 1.035846560846561,
+        "color": "white",
+        "background": "#A55157"
     },
     {
         "word": "ADDICT",
         "hex": "#ADD1C7",
-        "score": 1.0334656084656086
+        "score": 1.0334656084656086,
+        "color": "black",
+        "background": "#ADD1C7"
     },
     {
         "word": "TIDIES",
         "hex": "#71D1E5",
-        "score": 1.0322751322751322
+        "score": 1.0322751322751322,
+        "color": "black",
+        "background": "#71D1E5"
     },
     {
         "word": "SEIZES",
         "hex": "#5E12E5",
-        "score": 1.0287037037037037
+        "score": 1.0287037037037037,
+        "color": "white",
+        "background": "#5E12E5"
     },
     {
         "word": "DISSECTS",
         "hex": "#D155EC75",
-        "score": 1.027421875
+        "score": 1.027421875,
+        "color": "black",
+        "background": "rgb(233.89411764705886, 177.00000000000003, 246.2823529411765)"
     },
     {
         "word": "FATSOS",
         "hex": "#FA7505",
-        "score": 1.0251322751322753
+        "score": 1.0251322751322753,
+        "color": "black",
+        "background": "#FA7505"
     },
     {
         "word": "BOOGIE",
         "hex": "#B0061E",
-        "score": 1.0239417989417992
+        "score": 1.0239417989417992,
+        "color": "white",
+        "background": "#B0061E"
     },
     {
         "word": "ASSETS",
         "hex": "#A55E75",
-        "score": 1.0227513227513227
+        "score": 1.0227513227513227,
+        "color": "white",
+        "background": "#A55E75"
     },
     {
         "word": "BESIEGED",
         "hex": "#BE51E6ED",
-        "score": 1.0174218750000001
+        "score": 1.0174218750000001,
+        "color": "black",
+        "background": "rgb(194.58823529411765, 93.28235294117647, 231.76470588235296)"
     },
     {
         "word": "DODGES",
         "hex": "#D0D6E5",
-        "score": 1.0167989417989418
+        "score": 1.0167989417989418,
+        "color": "black",
+        "background": "#D0D6E5"
     },
     {
         "word": "COZIES",
         "hex": "#C021E5",
-        "score": 1.0084656084656085
+        "score": 1.0084656084656085,
+        "color": "black",
+        "background": "#C021E5"
     },
     {
         "word": "BASSISTS",
         "hex": "#BA551575",
-        "score": 1.0061718750000002
+        "score": 1.0061718750000002,
+        "color": "black",
+        "background": "rgb(223.34117647058827, 177.00000000000003, 147.63529411764708)"
     },
     {
         "word": "GABIES",
         "hex": "#6AB1E5",
-        "score": 1.0060846560846561
+        "score": 1.0060846560846561,
+        "color": "black",
+        "background": "#6AB1E5"
     },
     {
         "word": "BOOSTS",
         "hex": "#B00575",
-        "score": 1.0037037037037038
+        "score": 1.0037037037037038,
+        "color": "white",
+        "background": "#B00575"
     },
     {
         "word": "EDITED",
         "hex": "#ED17ED",
-        "score": 1.0037037037037038
+        "score": 1.0037037037037038,
+        "color": "black",
+        "background": "#ED17ED"
     },
     {
         "word": "ACCESSED",
         "hex": "#ACCE55ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(177.85882352941178, 209.45882352941177, 97)"
     },
     {
         "word": "ASSESSED",
         "hex": "#A55E55ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(171.35294117647058, 105.36470588235295, 97)"
     },
     {
         "word": "FEOFFEES",
         "hex": "#FE0FFEE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(254.10196078431375, 39.47058823529411, 254.10196078431375)"
     },
     {
         "word": "ABBACIES",
         "hex": "#ABBAC1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(179.56470588235294, 193.03529411764706, 199.32156862745097)"
     },
     {
         "word": "ABSCISSA",
         "hex": "#AB5C155A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(225.35294117647055, 197.4705882352941, 172.41176470588232)"
     },
     {
         "word": "ACCIDIAS",
         "hex": "#ACC1D1A5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(201.2941176470588, 214.88235294117646, 225.23529411764707)"
     },
     {
         "word": "ACCIDIES",
         "hex": "#ACC1D1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(180.46274509803922, 199.32156862745097, 213.69019607843137)"
     },
     {
         "word": "BADASSED",
         "hex": "#BADA55ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(190.87058823529412, 220.61176470588236, 97)"
     },
     {
         "word": "BADASSES",
         "hex": "#BADA55E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(193.03529411764706, 221.77254901960785, 102.33333333333334)"
     },
     {
         "word": "BOCACCIO",
         "hex": "#B0CACC10",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(250.04313725490195, 251.67450980392158, 251.8)"
     },
     {
         "word": "CADDICES",
         "hex": "#CADD1CE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 224.46666666666667, 51.14509803921568)"
     },
     {
         "word": "CADDISED",
         "hex": "#CADD15ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(205.74117647058824, 223.4, 37.51764705882353)"
     },
     {
         "word": "CADDISES",
         "hex": "#CADD15E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 224.46666666666667, 44.85882352941176)"
     },
     {
         "word": "CASSABAS",
         "hex": "#CA55ABA5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(220.70588235294116, 145, 200.6470588235294)"
     },
     {
         "word": "CASSISES",
         "hex": "#CA5515E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 102.33333333333334, 44.85882352941176)"
     },
     {
         "word": "CISSOIDS",
         "hex": "#C15501D5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(203.21176470588236, 113, 42.83529411764705)"
     },
     {
         "word": "COCCIDIA",
         "hex": "#C0CC1D1A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(248.57647058823528, 249.8, 231.95686274509805)"
     },
     {
         "word": "COCCOIDS",
         "hex": "#C0CC01D5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(202.3764705882353, 212.4, 42.83529411764705)"
     },
     {
         "word": "DISSEISE",
         "hex": "#D155E15E",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(238.04313725490198, 192.33333333333334, 243.94117647058823)"
     },
     {
         "word": "FOCACCIA",
         "hex": "#F0CACC1A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(253.47058823529412, 249.59607843137255, 249.8)"
     },
     {
         "word": "SACCADES",
         "hex": "#5ACCADE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(106.8235294117647, 209.20000000000002, 181.3607843137255)"
     },
     {
         "word": "SACCADIC",
         "hex": "#5ACCAD1C",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(236.88235294117646, 249.4, 245.99607843137255)"
     },
     {
         "word": "SEEDBEDS",
         "hex": "#5EEDBED5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(120.51764705882351, 239.96470588235294, 200.7058823529412)"
     },
     {
         "word": "SEEDCASE",
         "hex": "#5EEDCA5E",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(195.65098039215687, 248.36470588235295, 235.46274509803922)"
     },
     {
         "word": "ABSCISED",
         "hex": "#AB5C15ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(176.9294117647059, 103.50588235294117, 37.51764705882353)"
     },
     {
         "word": "ABSCISES",
         "hex": "#AB5C15E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(179.56470588235294, 108.61960784313726, 44.85882352941176)"
     },
     {
         "word": "ACIDOSES",
         "hex": "#AC1D05E5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "rgb(180.46274509803922, 52.04313725490195, 30.490196078431367)"
     },
     {
         "word": "BABESIAS",
         "hex": "#BABE51A5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(210.35294117647058, 212.94117647058823, 142.41176470588235)"
     },
     {
         "word": "BASIFIED",
         "hex": "#BA51F1ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(190.87058823529412, 93.28235294117647, 241.98823529411766)"
     },
     {
         "word": "BASIFIES",
         "hex": "#BA51F1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(193.03529411764706, 98.74117647058824, 242.42745098039217)"
     },
     {
         "word": "BIOCIDES",
         "hex": "#B10C1DE5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "rgb(184.9529411764706, 36.776470588235284, 52.04313725490195)"
     },
     {
         "word": "CASEASES",
         "hex": "#CA5EA5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 110.4156862745098, 174.1764705882353)"
     },
     {
         "word": "CASEFIED",
         "hex": "#CA5EF1ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(205.74117647058824, 105.36470588235295, 241.98823529411766)"
     },
     {
         "word": "CASEFIES",
         "hex": "#CA5EF1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 110.4156862745098, 242.42745098039217)"
     },
     {
         "word": "CASEOSES",
         "hex": "#CA5E05E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 110.4156862745098, 30.490196078431367)"
     },
     {
         "word": "CICISBEI",
         "hex": "#C1C15BE1",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(200.2941176470588, 200.2941176470588, 110.29411764705884)"
     },
     {
         "word": "CICISBEO",
         "hex": "#C1C15BE0",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(200.53725490196078, 200.53725490196078, 110.93725490196078)"
     },
     {
         "word": "DEICIDES",
         "hex": "#DE1C1DE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(225.36470588235295, 51.14509803921568, 52.04313725490195)"
     },
     {
         "word": "DIABASES",
         "hex": "#D1ABA5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 179.56470588235294, 174.1764705882353)"
     },
     {
         "word": "DIABASIC",
         "hex": "#D1ABA51C",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(249.94901960784313, 245.7764705882353, 245.11764705882354)"
     },
     {
         "word": "DIACIDIC",
         "hex": "#D1AC1D1C",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(249.94901960784313, 245.8862745098039, 230.1843137254902)"
     },
     {
         "word": "DIOECIES",
         "hex": "#D10EC1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 38.572549019607834, 199.32156862745097)"
     },
     {
         "word": "DISCASED",
         "hex": "#D15CA5ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(212.24705882352941, 103.50588235294117, 171.35294117647058)"
     },
     {
         "word": "DISCASES",
         "hex": "#D15CA5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 108.61960784313726, 174.1764705882353)"
     },
     {
         "word": "DISCOIDS",
         "hex": "#D15C01D5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(216.5764705882353, 118.84705882352941, 42.83529411764705)"
     },
     {
         "word": "ECESISES",
         "hex": "#ECE515E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(237.93725490196078, 231.65098039215687, 44.85882352941176)"
     },
     {
         "word": "ECOCIDES",
         "hex": "#EC0C1DE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(237.93725490196078, 36.776470588235284, 52.04313725490195)"
     },
     {
         "word": "FIASCOES",
         "hex": "#F1A5C0E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(242.42745098039217, 174.1764705882353, 198.42352941176472)"
     },
     {
         "word": "SCABIOSA",
         "hex": "#5CAB105A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(197.4705882352941, 225.35294117647055, 170.6470588235294)"
     },
     {
         "word": "SOFABEDS",
         "hex": "#50FABED5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "rgb(108.8235294117647, 250.82352941176472, 200.7058823529412)"
     },
     {
         "word": "ABACAS",
         "hex": "#ABACA5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ABACA5"
     },
     {
         "word": "ABASED",
         "hex": "#ABA5ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ABA5ED"
     },
     {
         "word": "ABASES",
         "hex": "#ABA5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ABA5E5"
     },
     {
         "word": "ABASIA",
         "hex": "#ABA51A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ABA51A"
     },
     {
         "word": "ABODED",
         "hex": "#AB0DED",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#AB0DED"
     },
     {
         "word": "ACEDIA",
         "hex": "#ACED1A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ACED1A"
     },
     {
         "word": "ASDICS",
         "hex": "#A5D1C5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#A5D1C5"
     },
     {
         "word": "ASSAIS",
         "hex": "#A55A15",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#A55A15"
     },
     {
         "word": "BAASES",
         "hex": "#BAA5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BAA5E5"
     },
     {
         "word": "BABOOS",
         "hex": "#BAB005",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BAB005"
     },
     {
         "word": "BACCAE",
         "hex": "#BACCAE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BACCAE"
     },
     {
         "word": "BADASS",
         "hex": "#BADA55",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BADA55"
     },
     {
         "word": "BAFFED",
         "hex": "#BAFFED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BAFFED"
     },
     {
         "word": "BEEBEE",
         "hex": "#BEEBEE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BEEBEE"
     },
     {
         "word": "BEEFED",
         "hex": "#BEEFED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#BEEFED"
     },
     {
         "word": "BIASES",
         "hex": "#B1A5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B1A5E5"
     },
     {
         "word": "BIBBED",
         "hex": "#B1BBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B1BBED"
     },
     {
         "word": "BIFACE",
         "hex": "#B1FACE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B1FACE"
     },
     {
         "word": "BIFFED",
         "hex": "#B1FFED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B1FFED"
     },
     {
         "word": "BOBBED",
         "hex": "#B0BBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B0BBED"
     },
     {
         "word": "BOCCIA",
         "hex": "#B0CC1A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B0CC1A"
     },
     {
         "word": "BOCCIE",
         "hex": "#B0CC1E",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B0CC1E"
     },
     {
         "word": "BOCCIS",
         "hex": "#B0CC15",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B0CC15"
     },
     {
         "word": "BOFFED",
         "hex": "#B0FFED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B0FFED"
     },
     {
         "word": "BOOBED",
         "hex": "#B00BED",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#B00BED"
     },
     {
         "word": "BOOBIE",
         "hex": "#B00B1E",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#B00B1E"
     },
     {
         "word": "BOOCOO",
         "hex": "#B00C00",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#B00C00"
     },
     {
         "word": "BOSSED",
         "hex": "#B055ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#B055ED"
     },
     {
         "word": "CABBED",
         "hex": "#CABBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CABBED"
     },
     {
         "word": "CABOBS",
         "hex": "#CAB0B5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CAB0B5"
     },
     {
         "word": "CACAOS",
         "hex": "#CACA05",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CACA05"
     },
     {
         "word": "CADDIS",
         "hex": "#CADD15",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CADD15"
     },
     {
         "word": "CASEIC",
         "hex": "#CA5E1C",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CA5E1C"
     },
     {
         "word": "CEASED",
         "hex": "#CEA5ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CEA5ED"
     },
     {
         "word": "CEBIDS",
         "hex": "#CEB1D5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CEB1D5"
     },
     {
         "word": "CEBOID",
         "hex": "#CEB01D",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CEB01D"
     },
     {
         "word": "CEIBAS",
         "hex": "#CE1BA5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#CE1BA5"
     },
     {
         "word": "CESSED",
         "hex": "#CE55ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#CE55ED"
     },
     {
         "word": "COBIAS",
         "hex": "#C0B1A5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C0B1A5"
     },
     {
         "word": "COCCIC",
         "hex": "#C0CC1C",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C0CC1C"
     },
     {
         "word": "COCCID",
         "hex": "#C0CC1D",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C0CC1D"
     },
     {
         "word": "CODDED",
         "hex": "#C0DDED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C0DDED"
     },
     {
         "word": "CODECS",
         "hex": "#C0DEC5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C0DEC5"
     },
     {
         "word": "CODEIA",
         "hex": "#C0DE1A",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C0DE1A"
     },
     {
         "word": "COIFED",
         "hex": "#C01FED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C01FED"
     },
     {
         "word": "COIFFE",
         "hex": "#C01FFE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C01FFE"
     },
     {
         "word": "COOCOO",
         "hex": "#C00C00",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#C00C00"
     },
     {
         "word": "COOEED",
         "hex": "#C00EED",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#C00EED"
     },
     {
         "word": "COSECS",
         "hex": "#C05EC5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C05EC5"
     },
     {
         "word": "COSIED",
         "hex": "#C051ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#C051ED"
     },
     {
         "word": "DABBED",
         "hex": "#DABBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DABBED"
     },
     {
         "word": "DADOED",
         "hex": "#DAD0ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DAD0ED"
     },
     {
         "word": "DADOES",
         "hex": "#DAD0E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DAD0E5"
     },
     {
         "word": "DAFFED",
         "hex": "#DAFFED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DAFFED"
     },
     {
         "word": "DAISES",
         "hex": "#DA15E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DA15E5"
     },
     {
         "word": "DASSIE",
         "hex": "#DA551E",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DA551E"
     },
     {
         "word": "DEEDED",
         "hex": "#DEEDED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DEEDED"
     },
     {
         "word": "DEFIED",
         "hex": "#DEF1ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DEF1ED"
     },
     {
         "word": "DEICED",
         "hex": "#DE1CED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DE1CED"
     },
     {
         "word": "DEICES",
         "hex": "#DE1CE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#DE1CE5"
     },
     {
         "word": "DEIFIC",
         "hex": "#DE1F1C",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#DE1F1C"
     },
     {
         "word": "DIACID",
         "hex": "#D1AC1D",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1AC1D"
     },
     {
         "word": "DIBBED",
         "hex": "#D1BBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1BBED"
     },
     {
         "word": "DIDIES",
         "hex": "#D1D1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1D1E5"
     },
     {
         "word": "DIDOES",
         "hex": "#D1D0E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1D0E5"
     },
     {
         "word": "DIEOFF",
         "hex": "#D1E0FF",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1E0FF"
     },
     {
         "word": "DIESES",
         "hex": "#D1E5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1E5E5"
     },
     {
         "word": "DIESIS",
         "hex": "#D1E515",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D1E515"
     },
     {
         "word": "DISCED",
         "hex": "#D15CED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D15CED"
     },
     {
         "word": "DISSED",
         "hex": "#D155ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D155ED"
     },
     {
         "word": "DOBIES",
         "hex": "#D0B1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D0B1E5"
     },
     {
         "word": "DODOES",
         "hex": "#D0D0E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D0D0E5"
     },
     {
         "word": "DOFFED",
         "hex": "#D0FFED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D0FFED"
     },
     {
         "word": "DOOBIE",
         "hex": "#D00B1E",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#D00B1E"
     },
     {
         "word": "DOODOO",
         "hex": "#D00D00",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#D00D00"
     },
     {
         "word": "DOSSED",
         "hex": "#D055ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#D055ED"
     },
     {
         "word": "EASIES",
         "hex": "#EA51E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#EA51E5"
     },
     {
         "word": "ECESIC",
         "hex": "#ECE51C",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ECE51C"
     },
     {
         "word": "ECESIS",
         "hex": "#ECE515",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#ECE515"
     },
     {
         "word": "EDDIED",
         "hex": "#EDD1ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#EDD1ED"
     },
     {
         "word": "EDDOES",
         "hex": "#EDD0E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#EDD0E5"
     },
     {
         "word": "EFFACE",
         "hex": "#EFFACE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#EFFACE"
     },
     {
         "word": "FACIAE",
         "hex": "#FAC1AE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FAC1AE"
     },
     {
         "word": "FACIAS",
         "hex": "#FAC1A5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FAC1A5"
     },
     {
         "word": "FACIES",
         "hex": "#FAC1E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FAC1E5"
     },
     {
         "word": "FASCES",
         "hex": "#FA5CE5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FA5CE5"
     },
     {
         "word": "FEASED",
         "hex": "#FEA5ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FEA5ED"
     },
     {
         "word": "FEASES",
         "hex": "#FEA5E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FEA5E5"
     },
     {
         "word": "FEOFFS",
         "hex": "#FE0FF5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FE0FF5"
     },
     {
         "word": "FESSED",
         "hex": "#FE55ED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#FE55ED"
     },
     {
         "word": "FIBBED",
         "hex": "#F1BBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#F1BBED"
     },
     {
         "word": "FICOES",
         "hex": "#F1C0E5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#F1C0E5"
     },
     {
         "word": "FOBBED",
         "hex": "#F0BBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#F0BBED"
     },
     {
         "word": "FOSSAE",
         "hex": "#F055AE",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#F055AE"
     },
     {
         "word": "IBICES",
         "hex": "#1B1CE5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#1B1CE5"
     },
     {
         "word": "IBISES",
         "hex": "#1B15E5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#1B15E5"
     },
     {
         "word": "IODIDS",
         "hex": "#10D1D5",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#10D1D5"
     },
     {
         "word": "IODISE",
         "hex": "#10D15E",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#10D15E"
     },
     {
         "word": "SABBED",
         "hex": "#5ABBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#5ABBED"
     },
     {
         "word": "SAICES",
         "hex": "#5A1CE5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#5A1CE5"
     },
     {
         "word": "SASSED",
         "hex": "#5A55ED",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#5A55ED"
     },
     {
         "word": "SECCOS",
         "hex": "#5ECC05",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#5ECC05"
     },
     {
         "word": "SEISED",
         "hex": "#5E15ED",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#5E15ED"
     },
     {
         "word": "SEISES",
         "hex": "#5E15E5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#5E15E5"
     },
     {
         "word": "SICCED",
         "hex": "#51CCED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#51CCED"
     },
     {
         "word": "SISSES",
         "hex": "#5155E5",
-        "score": 1
+        "score": 1,
+        "color": "white",
+        "background": "#5155E5"
     },
     {
         "word": "SOBBED",
         "hex": "#50BBED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#50BBED"
     },
     {
         "word": "SODDED",
         "hex": "#50DDED",
-        "score": 1
+        "score": 1,
+        "color": "black",
+        "background": "#50DDED"
     },
     {
         "word": "ASCETICS",
         "hex": "#A5CE71C5",
-        "score": 0.997421875
+        "score": 0.997421875,
+        "color": "black",
+        "background": "rgb(185.47058823529412, 217.1450980392157, 145.29803921568626)"
     },
     {
         "word": "DEFECATE",
         "hex": "#DEFECA7E",
-        "score": 0.989921875
+        "score": 0.989921875,
+        "color": "black",
+        "background": "rgb(238.69411764705882, 254.50588235294117, 228.81176470588235)"
     },
     {
         "word": "BESIEGES",
         "hex": "#BE51E6E5",
-        "score": 0.984921875
+        "score": 0.984921875,
+        "color": "black",
+        "background": "rgb(196.62745098039215, 98.74117647058824, 232.54901960784315)"
     },
     {
         "word": "DEFECT",
         "hex": "#DEFEC7",
-        "score": 0.9846560846560848
+        "score": 0.9846560846560848,
+        "color": "black",
+        "background": "#DEFEC7"
     },
     {
         "word": "SIEGES",
         "hex": "#51E6E5",
-        "score": 0.9846560846560848
+        "score": 0.9846560846560848,
+        "color": "black",
+        "background": "#51E6E5"
     },
     {
         "word": "ACCOSTED",
         "hex": "#ACC057ED",
-        "score": 0.982421875
+        "score": 0.982421875,
+        "color": "black",
+        "background": "rgb(177.85882352941178, 196.4470588235294, 98.85882352941175)"
     },
     {
         "word": "SCIATICA",
         "hex": "#5C1A71CA",
-        "score": 0.982421875
+        "score": 0.982421875,
+        "color": "white",
+        "background": "rgb(125.87843137254902, 73.59607843137255, 142.5137254901961)"
     },
     {
         "word": "SCOOTS",
         "hex": "#5C0075",
-        "score": 0.9822751322751324
+        "score": 0.9822751322751324,
+        "color": "white",
+        "background": "#5C0075"
     },
     {
         "word": "CASTES",
         "hex": "#CA57E5",
-        "score": 0.97989417989418
+        "score": 0.97989417989418,
+        "color": "black",
+        "background": "#CA57E5"
     },
     {
         "word": "EFFECTED",
         "hex": "#EFFEC7ED",
-        "score": 0.9786718749999999
+        "score": 0.9786718749999999,
+        "color": "black",
+        "background": "rgb(240.12941176470588, 254.07058823529414, 202.9529411764706)"
     },
     {
         "word": "SCIATICS",
         "hex": "#5C1A71C5",
-        "score": 0.9736718750000001
+        "score": 0.9736718750000001,
+        "color": "white",
+        "background": "rgb(129.07450980392156, 78.08627450980391, 145.29803921568626)"
     },
     {
         "word": "DECEIT",
         "hex": "#DECE17",
-        "score": 0.9727513227513229
+        "score": 0.9727513227513229,
+        "color": "black",
+        "background": "#DECE17"
     },
     {
         "word": "CADETS",
         "hex": "#CADE75",
-        "score": 0.9691798941798943
+        "score": 0.9691798941798943,
+        "color": "black",
+        "background": "#CADE75"
     },
     {
         "word": "ZODIAC",
         "hex": "#20D1AC",
-        "score": 0.9679894179894182
+        "score": 0.9679894179894182,
+        "color": "black",
+        "background": "#20D1AC"
     },
     {
         "word": "OFFBEATS",
         "hex": "#0FFBEA75",
-        "score": 0.9674218749999999
+        "score": 0.9674218749999999,
+        "color": "black",
+        "background": "rgb(144.8823529411765, 253.16470588235296, 245.36470588235295)"
     },
     {
         "word": "ABDICATE",
         "hex": "#ABD1CA7E",
-        "score": 0.9674218749999999
+        "score": 0.9674218749999999,
+        "color": "black",
+        "background": "rgb(213.49411764705883, 232.27058823529413, 228.81176470588235)"
     },
     {
         "word": "ODDITIES",
         "hex": "#0DD171E5",
-        "score": 0.964921875
+        "score": 0.964921875,
+        "color": "black",
+        "background": "rgb(37.674509803921566, 213.69019607843137, 127.47843137254901)"
     },
     {
         "word": "TABOOS",
         "hex": "#7AB005",
-        "score": 0.9632275132275133
+        "score": 0.9632275132275133,
+        "color": "black",
+        "background": "#7AB005"
     },
     {
         "word": "STEEDS",
         "hex": "#57EED5",
-        "score": 0.9620370370370372
+        "score": 0.9620370370370372,
+        "color": "black",
+        "background": "#57EED5"
     },
     {
         "word": "TEASED",
         "hex": "#7EA5ED",
-        "score": 0.9620370370370372
+        "score": 0.9620370370370372,
+        "color": "black",
+        "background": "#7EA5ED"
     },
     {
         "word": "BEIGES",
         "hex": "#BE16E5",
-        "score": 0.960846560846561
+        "score": 0.960846560846561,
+        "color": "white",
+        "background": "#BE16E5"
     },
     {
         "word": "DOSAGE",
         "hex": "#D05A6E",
-        "score": 0.9596560846560848
+        "score": 0.9596560846560848,
+        "color": "black",
+        "background": "#D05A6E"
     },
     {
         "word": "BOASTS",
         "hex": "#B0A575",
-        "score": 0.9572751322751324
+        "score": 0.9572751322751324,
+        "color": "black",
+        "background": "#B0A575"
     },
     {
         "word": "ABBOTS",
         "hex": "#ABB075",
-        "score": 0.9477513227513229
+        "score": 0.9477513227513229,
+        "color": "black",
+        "background": "#ABB075"
     },
     {
         "word": "FIESTA",
         "hex": "#F1E57A",
-        "score": 0.9441798941798942
+        "score": 0.9441798941798942,
+        "color": "black",
+        "background": "#F1E57A"
     },
     {
         "word": "SADIST",
         "hex": "#5AD157",
-        "score": 0.9429894179894182
+        "score": 0.9429894179894182,
+        "color": "black",
+        "background": "#5AD157"
     },
     {
         "word": "COATED",
         "hex": "#C0A7ED",
-        "score": 0.9346560846560847
+        "score": 0.9346560846560847,
+        "color": "black",
+        "background": "#C0A7ED"
     },
     {
         "word": "CASTOFFS",
         "hex": "#CA570FF5",
-        "score": 0.929921875
+        "score": 0.929921875,
+        "color": "black",
+        "background": "rgb(204.07843137254903, 93.58823529411765, 24.411764705882348)"
     },
     {
         "word": "BODEGA",
         "hex": "#B0DE6A",
-        "score": 0.9287037037037038
+        "score": 0.9287037037037038,
+        "color": "black",
+        "background": "#B0DE6A"
     },
     {
         "word": "TIDIED",
         "hex": "#71D1ED",
-        "score": 0.9287037037037038
+        "score": 0.9287037037037038,
+        "color": "black",
+        "background": "#71D1ED"
     },
     {
         "word": "BASTES",
         "hex": "#BA57E5",
-        "score": 0.9275132275132277
+        "score": 0.9275132275132277,
+        "color": "black",
+        "background": "#BA57E5"
     },
     {
         "word": "STEADS",
         "hex": "#57EAD5",
-        "score": 0.9275132275132277
+        "score": 0.9275132275132277,
+        "color": "black",
+        "background": "#57EAD5"
     },
     {
         "word": "FOOTED",
         "hex": "#F007ED",
-        "score": 0.9239417989417991
+        "score": 0.9239417989417991,
+        "color": "black",
+        "background": "#F007ED"
     },
     {
         "word": "FEEDBAGS",
         "hex": "#FEEDBA65",
-        "score": 0.923671875
+        "score": 0.923671875,
+        "color": "black",
+        "background": "rgb(254.60392156862747, 247.87058823529412, 227.67058823529413)"
     },
     {
         "word": "DOGFACES",
         "hex": "#D06FACE5",
-        "score": 0.923671875
+        "score": 0.923671875,
+        "color": "black",
+        "background": "rgb(212.79215686274512, 125.68235294117648, 180.46274509803922)"
     },
     {
         "word": "OFFSET",
         "hex": "#0FF5E7",
-        "score": 0.9215608465608466
+        "score": 0.9215608465608466,
+        "color": "black",
+        "background": "#0FF5E7"
     },
     {
         "word": "SEDATE",
         "hex": "#5EDA7E",
-        "score": 0.9215608465608466
+        "score": 0.9215608465608466,
+        "color": "black",
+        "background": "#5EDA7E"
     },
     {
         "word": "TOFFEE",
         "hex": "#70FFEE",
-        "score": 0.9179894179894181
+        "score": 0.9179894179894181,
+        "color": "black",
+        "background": "#70FFEE"
     },
     {
         "word": "DISTAFFS",
         "hex": "#D157AFF5",
-        "score": 0.916171875
+        "score": 0.916171875,
+        "color": "black",
+        "background": "rgb(210.80392156862746, 93.58823529411765, 178.1372549019608)"
     },
     {
         "word": "BEDSTEAD",
         "hex": "#BED57EAD",
-        "score": 0.916171875
+        "score": 0.916171875,
+        "color": "black",
+        "background": "rgb(210.9019607843137, 226.50588235294117, 167.48235294117646)"
     },
     {
         "word": "BOOTED",
         "hex": "#B007ED",
-        "score": 0.9120370370370372
+        "score": 0.9120370370370372,
+        "color": "white",
+        "background": "#B007ED"
     },
     {
         "word": "TIBIAS",
         "hex": "#71B1A5",
-        "score": 0.9120370370370372
+        "score": 0.9120370370370372,
+        "color": "black",
+        "background": "#71B1A5"
     },
     {
         "word": "SIESTA",
         "hex": "#51E57A",
-        "score": 0.9096560846560847
+        "score": 0.9096560846560847,
+        "color": "black",
+        "background": "#51E57A"
     },
     {
         "word": "DESIST",
         "hex": "#DE5157",
-        "score": 0.9084656084656086
+        "score": 0.9084656084656086,
+        "color": "black",
+        "background": "#DE5157"
     },
     {
         "word": "BEATIFIC",
         "hex": "#BEA71F1C",
-        "score": 0.9074218749999999
+        "score": 0.9074218749999999,
+        "color": "black",
+        "background": "rgb(247.86274509803923, 245.3372549019608, 230.40392156862745)"
     },
     {
         "word": "DIDACTIC",
         "hex": "#D1DAC71C",
-        "score": 0.9074218749999999
+        "score": 0.9074218749999999,
+        "color": "black",
+        "background": "rgb(249.94901960784313, 250.93725490196078, 248.85098039215686)"
     },
     {
         "word": "FACTOIDS",
         "hex": "#FAC701D5",
-        "score": 0.9074218749999999
+        "score": 0.9074218749999999,
+        "color": "black",
+        "background": "rgb(250.82352941176472, 208.2235294117647, 42.83529411764705)"
     },
     {
         "word": "DEBITS",
         "hex": "#DEB175",
-        "score": 0.9037037037037038
+        "score": 0.9037037037037038,
+        "color": "black",
+        "background": "#DEB175"
     },
     {
         "word": "BIDETS",
         "hex": "#B1DE75",
-        "score": 0.898941798941799
+        "score": 0.898941798941799,
+        "color": "black",
+        "background": "#B1DE75"
     },
     {
         "word": "EDICTS",
         "hex": "#ED1C75",
-        "score": 0.898941798941799
+        "score": 0.898941798941799,
+        "color": "black",
+        "background": "#ED1C75"
     },
     {
         "word": "SOFTIE",
         "hex": "#50F71E",
-        "score": 0.898941798941799
+        "score": 0.898941798941799,
+        "color": "black",
+        "background": "#50F71E"
     },
     {
         "word": "DAGOES",
         "hex": "#DA60E5",
-        "score": 0.8870370370370372
+        "score": 0.8870370370370372,
+        "color": "black",
+        "background": "#DA60E5"
     },
     {
         "word": "FACETS",
         "hex": "#FACE75",
-        "score": 0.8870370370370372
+        "score": 0.8870370370370372,
+        "color": "black",
+        "background": "#FACE75"
     },
     {
         "word": "EFFIGIES",
         "hex": "#EFF161E5",
-        "score": 0.8861718749999999
+        "score": 0.8861718749999999,
+        "color": "black",
+        "background": "rgb(240.6313725490196, 242.42745098039217, 113.10980392156861)"
     },
     {
         "word": "DADAISTS",
         "hex": "#DADA1575",
-        "score": 0.8861718749999999
+        "score": 0.8861718749999999,
+        "color": "black",
+        "background": "rgb(238.02352941176474, 238.02352941176474, 147.63529411764708)"
     },
     {
         "word": "GEODESIC",
         "hex": "#6E0DE51C",
-        "score": 0.8861718749999999
+        "score": 0.8861718749999999,
+        "color": "black",
+        "background": "rgb(239.078431372549, 228.42745098039217, 252.1450980392157)"
     },
     {
         "word": "STAFFS",
         "hex": "#57AFF5",
-        "score": 0.8834656084656086
+        "score": 0.8834656084656086,
+        "color": "black",
+        "background": "#57AFF5"
     },
     {
         "word": "STASIS",
         "hex": "#57A515",
-        "score": 0.8834656084656086
+        "score": 0.8834656084656086,
+        "color": "black",
+        "background": "#57A515"
     },
     {
         "word": "STOICS",
         "hex": "#5701C5",
-        "score": 0.8834656084656086
+        "score": 0.8834656084656086,
+        "color": "white",
+        "background": "#5701C5"
     },
     {
         "word": "ADAGES",
         "hex": "#ADA6E5",
-        "score": 0.8810846560846562
+        "score": 0.8810846560846562,
+        "color": "black",
+        "background": "#ADA6E5"
     },
     {
         "word": "BESETS",
         "hex": "#BE5E75",
-        "score": 0.8703703703703705
+        "score": 0.8703703703703705,
+        "color": "black",
+        "background": "#BE5E75"
     },
     {
         "word": "CAITIFFS",
         "hex": "#CA171FF5",
-        "score": 0.8699218750000001
+        "score": 0.8699218750000001,
+        "color": "white",
+        "background": "rgb(204.07843137254903, 32.09803921568627, 39.78431372549019)"
     },
     {
         "word": "STEADIED",
         "hex": "#57EAD1ED",
-        "score": 0.8699218750000001
+        "score": 0.8699218750000001,
+        "color": "black",
+        "background": "rgb(98.85882352941175, 235.4823529411765, 212.24705882352941)"
     },
     {
         "word": "COOTIE",
         "hex": "#C0071E",
-        "score": 0.8644179894179895
+        "score": 0.8644179894179895,
+        "color": "white",
+        "background": "#C0071E"
     },
     {
         "word": "DACOIT",
         "hex": "#DAC017",
-        "score": 0.8644179894179895
+        "score": 0.8644179894179895,
+        "color": "black",
+        "background": "#DAC017"
     },
     {
         "word": "ABATES",
         "hex": "#ABA7E5",
-        "score": 0.8620370370370372
+        "score": 0.8620370370370372,
+        "color": "black",
+        "background": "#ABA7E5"
     },
     {
         "word": "BOBCAT",
         "hex": "#B0BCA7",
-        "score": 0.8620370370370372
+        "score": 0.8620370370370372,
+        "color": "black",
+        "background": "#B0BCA7"
     },
     {
         "word": "ASCOTS",
         "hex": "#A5C075",
-        "score": 0.8596560846560847
+        "score": 0.8596560846560847,
+        "color": "black",
+        "background": "#A5C075"
     },
     {
         "word": "BASEST",
         "hex": "#BA5E57",
-        "score": 0.8596560846560847
+        "score": 0.8596560846560847,
+        "color": "black",
+        "background": "#BA5E57"
     },
     {
         "word": "SCOTIA",
         "hex": "#5C071A",
-        "score": 0.8596560846560847
+        "score": 0.8596560846560847,
+        "color": "white",
+        "background": "#5C071A"
     },
     {
         "word": "BASSET",
         "hex": "#BA55E7",
-        "score": 0.8525132275132277
+        "score": 0.8525132275132277,
+        "color": "black",
+        "background": "#BA55E7"
     },
     {
         "word": "BETIDE",
         "hex": "#BE71DE",
-        "score": 0.8525132275132277
+        "score": 0.8525132275132277,
+        "color": "black",
+        "background": "#BE71DE"
     },
     {
         "word": "BOOTIE",
         "hex": "#B0071E",
-        "score": 0.8525132275132277
+        "score": 0.8525132275132277,
+        "color": "white",
+        "background": "#B0071E"
     },
     {
         "word": "FOOTAGES",
         "hex": "#F007A6E5",
-        "score": 0.8483035714285714
+        "score": 0.8483035714285714,
+        "color": "black",
+        "background": "rgb(241.52941176470588, 32.28627450980392, 175.0745098039216)"
     },
     {
         "word": "ADAGIO",
         "hex": "#ADA610",
-        "score": 0.8453703703703704
+        "score": 0.8453703703703704,
+        "color": "black",
+        "background": "#ADA610"
     },
     {
         "word": "SCOTTIES",
         "hex": "#5C0771E5",
-        "score": 0.8429464285714285
+        "score": 0.8429464285714285,
+        "color": "white",
+        "background": "rgb(108.61960784313726, 32.28627450980392, 127.47843137254901)"
     },
     {
         "word": "SEDGES",
         "hex": "#5ED6E5",
-        "score": 0.8406084656084658
+        "score": 0.8406084656084658,
+        "color": "black",
+        "background": "#5ED6E5"
     },
     {
         "word": "GAFFES",
         "hex": "#6AFFE5",
-        "score": 0.8370370370370371
+        "score": 0.8370370370370371,
+        "color": "black",
+        "background": "#6AFFE5"
     },
     {
         "word": "ABATED",
         "hex": "#ABA7ED",
-        "score": 0.8310846560846562
+        "score": 0.8310846560846562,
+        "color": "black",
+        "background": "#ABA7ED"
     },
     {
         "word": "BASTED",
         "hex": "#BA57ED",
-        "score": 0.8310846560846562
+        "score": 0.8310846560846562,
+        "color": "black",
+        "background": "#BA57ED"
     },
     {
         "word": "BESTED",
         "hex": "#BE57ED",
-        "score": 0.8310846560846562
+        "score": 0.8310846560846562,
+        "color": "black",
+        "background": "#BE57ED"
     },
     {
         "word": "TODIES",
         "hex": "#70D1E5",
-        "score": 0.8310846560846562
+        "score": 0.8310846560846562,
+        "color": "black",
+        "background": "#70D1E5"
     },
     {
         "word": "BEFITS",
         "hex": "#BEF175",
-        "score": 0.8263227513227515
+        "score": 0.8263227513227515,
+        "color": "black",
+        "background": "#BEF175"
     },
     {
         "word": "SABOTS",
         "hex": "#5AB075",
-        "score": 0.8263227513227515
+        "score": 0.8263227513227515,
+        "color": "black",
+        "background": "#5AB075"
     },
     {
         "word": "FOISTS",
         "hex": "#F01575",
-        "score": 0.8203703703703704
+        "score": 0.8203703703703704,
+        "color": "black",
+        "background": "#F01575"
     },
     {
         "word": "BIOTIC",
         "hex": "#B1071C",
-        "score": 0.8132275132275134
+        "score": 0.8132275132275134,
+        "color": "white",
+        "background": "#B1071C"
     },
     {
         "word": "FOOTIE",
         "hex": "#F0071E",
-        "score": 0.8132275132275134
+        "score": 0.8132275132275134,
+        "color": "black",
+        "background": "#F0071E"
     },
     {
         "word": "GOBIES",
         "hex": "#60B1E5",
-        "score": 0.8132275132275134
+        "score": 0.8132275132275134,
+        "color": "black",
+        "background": "#60B1E5"
     },
     {
         "word": "FOGIES",
         "hex": "#F061E5",
-        "score": 0.80489417989418
+        "score": 0.80489417989418,
+        "color": "black",
+        "background": "#F061E5"
     },
     {
         "word": "GOADED",
         "hex": "#60ADED",
-        "score": 0.80489417989418
+        "score": 0.80489417989418,
+        "color": "black",
+        "background": "#60ADED"
     },
     {
         "word": "ZEBECS",
         "hex": "#2EBEC5",
-        "score": 0.80489417989418
+        "score": 0.80489417989418,
+        "color": "black",
+        "background": "#2EBEC5"
     },
     {
         "word": "DETECTED",
         "hex": "#DE7EC7ED",
-        "score": 0.8033035714285713
+        "score": 0.8033035714285713,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 135.10588235294117, 202.9529411764706)"
     },
     {
         "word": "ACCOST",
         "hex": "#ACC057",
-        "score": 0.7953703703703705
+        "score": 0.7953703703703705,
+        "color": "black",
+        "background": "#ACC057"
     },
     {
         "word": "BISECT",
         "hex": "#B15EC7",
-        "score": 0.7953703703703705
+        "score": 0.7953703703703705,
+        "color": "black",
+        "background": "#B15EC7"
     },
     {
         "word": "CADGES",
         "hex": "#CAD6E5",
-        "score": 0.7953703703703705
+        "score": 0.7953703703703705,
+        "color": "black",
+        "background": "#CAD6E5"
     },
     {
         "word": "EFFETE",
         "hex": "#EFFE7E",
-        "score": 0.7953703703703705
+        "score": 0.7953703703703705,
+        "color": "black",
+        "background": "#EFFE7E"
     },
     {
         "word": "CASSETTE",
         "hex": "#CA55E77E",
-        "score": 0.7947321428571428
+        "score": 0.7947321428571428,
+        "color": "black",
+        "background": "rgb(228.81176470588235, 171, 243.14117647058822)"
     },
     {
         "word": "SABOTAGE",
         "hex": "#5AB07A6E",
-        "score": 0.7915178571428572
+        "score": 0.7915178571428572,
+        "color": "black",
+        "background": "rgb(183.8235294117647, 220.921568627451, 197.62745098039215)"
     },
     {
         "word": "BEDSIT",
         "hex": "#BED517",
-        "score": 0.7846560846560847
+        "score": 0.7846560846560847,
+        "color": "black",
+        "background": "#BED517"
     },
     {
         "word": "STADES",
         "hex": "#57ADE5",
-        "score": 0.7846560846560847
+        "score": 0.7846560846560847,
+        "color": "black",
+        "background": "#57ADE5"
     },
     {
         "word": "DICTATES",
         "hex": "#D1C7A7E5",
-        "score": 0.7765178571428571
+        "score": 0.7765178571428571,
+        "color": "black",
+        "background": "rgb(213.69019607843137, 204.70980392156864, 175.97254901960784)"
     },
     {
         "word": "BAIZES",
         "hex": "#BA12E5",
-        "score": 0.7691798941798943
+        "score": 0.7691798941798943,
+        "color": "white",
+        "background": "#BA12E5"
     },
     {
         "word": "GEODES",
         "hex": "#6E0DE5",
-        "score": 0.7691798941798943
+        "score": 0.7691798941798943,
+        "color": "white",
+        "background": "#6E0DE5"
     },
     {
         "word": "GOOSES",
         "hex": "#6005E5",
-        "score": 0.7691798941798943
+        "score": 0.7691798941798943,
+        "color": "white",
+        "background": "#6005E5"
     },
     {
         "word": "STADIA",
         "hex": "#57AD1A",
-        "score": 0.7691798941798943
+        "score": 0.7691798941798943,
+        "color": "black",
+        "background": "#57AD1A"
     },
     {
         "word": "TASSES",
         "hex": "#7A55E5",
-        "score": 0.7691798941798943
+        "score": 0.7691798941798943,
+        "color": "white",
+        "background": "#7A55E5"
     },
     {
         "word": "ECSTATIC",
         "hex": "#EC57A71C",
-        "score": 0.7679464285714285
+        "score": 0.7679464285714285,
+        "color": "black",
+        "background": "rgb(252.91372549019607, 236.5529411764706, 245.3372549019608)"
     },
     {
         "word": "BIGFOOTS",
         "hex": "#B16F0075",
-        "score": 0.7636607142857144
+        "score": 0.7636607142857144,
+        "color": "black",
+        "background": "rgb(219.2117647058824, 188.92941176470592, 138.00000000000003)"
     },
     {
         "word": "DICTATED",
         "hex": "#D1C7A7ED",
-        "score": 0.7540178571428571
+        "score": 0.7540178571428571,
+        "color": "black",
+        "background": "rgb(212.24705882352941, 202.9529411764706, 173.21176470588236)"
     },
     {
         "word": "TASTES",
         "hex": "#7A57E5",
-        "score": 0.7524867724867726
+        "score": 0.7524867724867726,
+        "color": "white",
+        "background": "#7A57E5"
     },
     {
         "word": "STAGES",
         "hex": "#57A6E5",
-        "score": 0.7496296296296296
+        "score": 0.7496296296296296,
+        "color": "black",
+        "background": "#57A6E5"
     },
     {
         "word": "STATES",
         "hex": "#57A7E5",
-        "score": 0.7429629629629632
+        "score": 0.7429629629629632,
+        "color": "black",
+        "background": "#57A7E5"
     },
     {
         "word": "TOASTS",
         "hex": "#70A575",
-        "score": 0.7162962962962964
+        "score": 0.7162962962962964,
+        "color": "black",
+        "background": "#70A575"
     },
     {
         "word": "ESTATE",
         "hex": "#E57A7E",
-        "score": 0.7029629629629631
+        "score": 0.7029629629629631,
+        "color": "black",
+        "background": "#E57A7E"
     },
     {
         "word": "BABBITTS",
         "hex": "#BABB1775",
-        "score": 0.7025892857142857
+        "score": 0.7025892857142857,
+        "color": "black",
+        "background": "rgb(223.34117647058827, 223.8, 148.55294117647063)"
     },
     {
         "word": "BESOTTED",
         "hex": "#BE5077ED",
-        "score": 0.6972321428571429
+        "score": 0.6972321428571429,
+        "color": "black",
+        "background": "rgb(194.58823529411765, 92.35294117647058, 128.6)"
     },
     {
         "word": "OFFSTAGE",
         "hex": "#0FF57A6E",
-        "score": 0.6961607142857142
+        "score": 0.6961607142857142,
+        "color": "black",
+        "background": "rgb(151.47058823529412, 250.68627450980392, 197.62745098039215)"
     },
     {
         "word": "EGOISTIC",
         "hex": "#E601571C",
-        "score": 0.682232142857143
+        "score": 0.682232142857143,
+        "color": "black",
+        "background": "rgb(252.2549019607843, 227.10980392156864, 236.5529411764706)"
     },
     {
         "word": "GAIETIES",
         "hex": "#6A1E71E5",
-        "score": 0.682232142857143
+        "score": 0.682232142857143,
+        "color": "white",
+        "background": "rgb(121.1921568627451, 52.94117647058823, 127.47843137254901)"
     },
     {
         "word": "TAFFETAS",
         "hex": "#7AFFE7A5",
-        "score": 0.6790178571428571
+        "score": 0.6790178571428571,
+        "color": "black",
+        "background": "rgb(168.94117647058823, 255, 239.4705882352941)"
     },
     {
         "word": "TESTED",
         "hex": "#7E57ED",
-        "score": 0.6772486772486773
+        "score": 0.6772486772486773,
+        "color": "white",
+        "background": "#7E57ED"
     },
     {
         "word": "DETESTED",
         "hex": "#DE7E57ED",
-        "score": 0.6747321428571429
+        "score": 0.6747321428571429,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 135.10588235294117, 98.85882352941175)"
     },
     {
         "word": "DISTASTE",
         "hex": "#D157A57E",
-        "score": 0.6747321428571429
+        "score": 0.6747321428571429,
+        "color": "black",
+        "background": "rgb(232.27058823529413, 171.98823529411766, 210.52941176470588)"
     },
     {
         "word": "ASSAGAIS",
         "hex": "#A55A6A15",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(247.58823529411765, 241.41176470588235, 242.72941176470587)"
     },
     {
         "word": "ASSEGAIS",
         "hex": "#A55E6A15",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(247.58823529411765, 241.74117647058824, 242.72941176470587)"
     },
     {
         "word": "BACCATED",
         "hex": "#BACCA7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(190.87058823529412, 207.6, 173.21176470588236)"
     },
     {
         "word": "BAGASSES",
         "hex": "#BA6A55E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(193.03529411764706, 121.1921568627451, 102.33333333333334)"
     },
     {
         "word": "BASSETED",
         "hex": "#BA55E7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(190.87058823529412, 97, 232.69411764705882)"
     },
     {
         "word": "BEEFIEST",
         "hex": "#BEEF1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(232.8235294117647, 249.54117647058825, 178.23529411764707)"
     },
     {
         "word": "BOSSIEST",
         "hex": "#B0551E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(228.04705882352943, 197, 178.23529411764707)"
     },
     {
         "word": "CABBAGED",
         "hex": "#CABBA6ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(205.74117647058824, 191.8, 172.28235294117647)"
     },
     {
         "word": "CASSATAS",
         "hex": "#CA55A7A5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(220.70588235294116, 145, 198.05882352941177)"
     },
     {
         "word": "COASSIST",
         "hex": "#C0A55157",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(233.50588235294117, 224.29411764705884, 195.63529411764705)"
     },
     {
         "word": "COBBIEST",
         "hex": "#C0BB1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(233.50588235294117, 231.8, 178.23529411764707)"
     },
     {
         "word": "COEFFECT",
         "hex": "#C0EFFEC7",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(205.83529411764707, 242.51372549019607, 254.21960784313725)"
     },
     {
         "word": "COSSETED",
         "hex": "#C055E7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(196.4470588235294, 97, 232.69411764705882)"
     },
     {
         "word": "DAFFIEST",
         "hex": "#DAFF1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(242.3764705882353, 255, 178.23529411764707)"
     },
     {
         "word": "DEEDIEST",
         "hex": "#DEED1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(243.74117647058824, 248.85882352941178, 178.23529411764707)"
     },
     {
         "word": "DEGASSED",
         "hex": "#DE6A55ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 116.51764705882351, 97)"
     },
     {
         "word": "DEGASSES",
         "hex": "#DE6A55E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(225.36470588235295, 121.1921568627451, 102.33333333333334)"
     },
     {
         "word": "DISSEATS",
         "hex": "#D155EA75",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(233.89411764705886, 177.00000000000003, 245.36470588235295)"
     },
     {
         "word": "DISSEIZE",
         "hex": "#D155E12E",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(246.7019607843137, 224.33333333333334, 249.58823529411765)"
     },
     {
         "word": "FADDIEST",
         "hex": "#FADD1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(253.29411764705884, 243.4, 178.23529411764707)"
     },
     {
         "word": "FADDISTS",
         "hex": "#FADD1575",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(252.70588235294122, 239.40000000000003, 147.63529411764708)"
     },
     {
         "word": "FOOTSIES",
         "hex": "#F00751E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(241.52941176470588, 32.28627450980392, 98.74117647058824)"
     },
     {
         "word": "OFFCASTS",
         "hex": "#0FFCA575",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(144.8823529411765, 253.62352941176474, 213.70588235294122)"
     },
     {
         "word": "SABBATIC",
         "hex": "#5ABBA71C",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(236.88235294117646, 247.53333333333333, 245.3372549019608)"
     },
     {
         "word": "SASSIEST",
         "hex": "#5A551E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(198.7058823529412, 197, 178.23529411764707)"
     },
     {
         "word": "SEABOOTS",
         "hex": "#5EAB0075",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(181.1294117647059, 216.4588235294118, 138.00000000000003)"
     },
     {
         "word": "SEEDIEST",
         "hex": "#5EED1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(200.0705882352941, 248.85882352941178, 178.23529411764707)"
     },
     {
         "word": "SISSIEST",
         "hex": "#51551E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(195.63529411764705, 197, 178.23529411764707)"
     },
     {
         "word": "SOCCAGES",
         "hex": "#50CCA6E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(97.84313725490196, 209.20000000000002, 175.0745098039216)"
     },
     {
         "word": "STIFFIES",
         "hex": "#571FF1E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "white",
+        "background": "rgb(104.12941176470588, 53.8392156862745, 242.42745098039217)"
     },
     {
         "word": "STOCCADO",
         "hex": "#570CCAD0",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "white",
+        "background": "rgb(117.96470588235294, 56.78823529411765, 211.7686274509804)"
     },
     {
         "word": "TABBISES",
         "hex": "#7ABB15E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(135.5607843137255, 193.93333333333334, 44.85882352941176)"
     },
     {
         "word": "ABATISES",
         "hex": "#ABA715E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(179.56470588235294, 175.97254901960784, 44.85882352941176)"
     },
     {
         "word": "ACIDOTIC",
         "hex": "#AC1D071C",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(245.8862745098039, 230.1843137254902, 227.7686274509804)"
     },
     {
         "word": "ASBESTIC",
         "hex": "#A5BE571C",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(245.11764705882354, 247.86274509803923, 236.5529411764706)"
     },
     {
         "word": "ASTASIAS",
         "hex": "#A57A51A5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(196.76470588235293, 168.94117647058823, 142.41176470588235)"
     },
     {
         "word": "BEADIEST",
         "hex": "#BEAD1E57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(232.8235294117647, 227.0235294117647, 178.23529411764707)"
     },
     {
         "word": "BEASTIES",
         "hex": "#BEA571E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(196.62745098039215, 174.1764705882353, 127.47843137254901)"
     },
     {
         "word": "BESTEADS",
         "hex": "#BE57EAD5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(200.7058823529412, 114.6705882352941, 237.45882352941177)"
     },
     {
         "word": "BIOGASES",
         "hex": "#B106A5E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "white",
+        "background": "rgb(184.9529411764706, 31.388235294117642, 174.1764705882353)"
     },
     {
         "word": "BISECTED",
         "hex": "#B15EC7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(182.50588235294117, 105.36470588235295, 202.9529411764706)"
     },
     {
         "word": "BOSCAGES",
         "hex": "#B05CA6E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(184.05490196078432, 108.61960784313726, 175.0745098039216)"
     },
     {
         "word": "CASEATED",
         "hex": "#CA5EA7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(205.74117647058824, 105.36470588235295, 173.21176470588236)"
     },
     {
         "word": "CASEATES",
         "hex": "#CA5EA7E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 110.4156862745098, 175.97254901960784)"
     },
     {
         "word": "CATFACES",
         "hex": "#CA7FACE5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 140.05098039215687, 180.46274509803922)"
     },
     {
         "word": "CECITIES",
         "hex": "#CEC171E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(210.99607843137255, 199.32156862745097, 127.47843137254901)"
     },
     {
         "word": "CESTODES",
         "hex": "#CE570DE5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(210.99607843137255, 104.12941176470588, 37.674509803921566)"
     },
     {
         "word": "CESTOIDS",
         "hex": "#CE5701D5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(214.0705882352941, 114.6705882352941, 42.83529411764705)"
     },
     {
         "word": "CITIFIED",
         "hex": "#C171F1ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(197.3764705882353, 123.02352941176471, 241.98823529411766)"
     },
     {
         "word": "CITIFIES",
         "hex": "#C171F1E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(199.32156862745097, 127.47843137254901, 242.42745098039217)"
     },
     {
         "word": "COEDITED",
         "hex": "#C0ED17ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(196.4470588235294, 238.27058823529413, 39.37647058823529)"
     },
     {
         "word": "COESITES",
         "hex": "#C0E517E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(198.42352941176472, 231.65098039215687, 46.65490196078431)"
     },
     {
         "word": "DECOCTED",
         "hex": "#DEC0C7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 196.4470588235294, 202.9529411764706)"
     },
     {
         "word": "DEFECTED",
         "hex": "#DEFEC7ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 254.07058823529414, 202.9529411764706)"
     },
     {
         "word": "DEICTICS",
         "hex": "#DE1C71C5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(229.50588235294117, 79.6313725490196, 145.29803921568626)"
     },
     {
         "word": "DESISTED",
         "hex": "#DE5157ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 93.28235294117647, 98.85882352941175)"
     },
     {
         "word": "DIASTASE",
         "hex": "#D1A57A5E",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(238.04313725490198, 221.8235294117647, 205.97254901960784)"
     },
     {
         "word": "DICASTIC",
         "hex": "#D1CA571C",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(249.94901960784313, 249.18039215686275, 236.5529411764706)"
     },
     {
         "word": "FACETIAE",
         "hex": "#FACE71AE",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(251.58823529411765, 221.56470588235294, 158.1058823529412)"
     },
     {
         "word": "FASCIATE",
         "hex": "#FA5C1A7E",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(252.52941176470588, 174.45882352941177, 141.8470588235294)"
     },
     {
         "word": "FASCITIS",
         "hex": "#FA5C1715",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(254.58823529411765, 241.57647058823528, 235.89411764705883)"
     },
     {
         "word": "FETICIDE",
         "hex": "#FE71C1DE",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(254.12941176470588, 131.3764705882353, 201.0235294117647)"
     },
     {
         "word": "FIDEISTS",
         "hex": "#F1DE1575",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(248.57647058823534, 239.85882352941178, 147.63529411764708)"
     },
     {
         "word": "GASIFIED",
         "hex": "#6A51F1ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(116.51764705882351, 93.28235294117647, 241.98823529411766)"
     },
     {
         "word": "GASIFIES",
         "hex": "#6A51F1E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(121.1921568627451, 98.74117647058824, 242.42745098039217)"
     },
     {
         "word": "GOBIOIDS",
         "hex": "#60B101D5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(122.18823529411765, 189.8470588235294, 42.83529411764705)"
     },
     {
         "word": "ICEBOATS",
         "hex": "#1CEB0A75",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(150.84705882352944, 245.82352941176472, 142.58823529411768)"
     },
     {
         "word": "OITICICA",
         "hex": "#0171C1CA",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(53.7921568627451, 142.5137254901961, 205.8862745098039)"
     },
     {
         "word": "OSTEOIDS",
         "hex": "#057E01D5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(46.17647058823529, 147.24705882352941, 42.83529411764705)"
     },
     {
         "word": "OSTEOSES",
         "hex": "#057E05E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(30.490196078431367, 139.1529411764706, 30.490196078431367)"
     },
     {
         "word": "OSTEOSIS",
         "hex": "#057E0515",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(234.41176470588235, 244.3764705882353, 234.41176470588235)"
     },
     {
         "word": "SAFETIED",
         "hex": "#5AFE71ED",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(101.64705882352942, 254.07058823529414, 123.02352941176471)"
     },
     {
         "word": "SEACOAST",
         "hex": "#5EAC0A57",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(200.0705882352941, 226.68235294117648, 171.41176470588235)"
     },
     {
         "word": "STEADIES",
         "hex": "#57EAD1E5",
-        "score": 0.669921875
+        "score": 0.669921875,
+        "color": "black",
+        "background": "rgb(104.12941176470588, 236.14117647058825, 213.69019607843137)"
     },
     {
         "word": "STACCATO",
         "hex": "#57ACCA70",
-        "score": 0.6650892857142857
+        "score": 0.6650892857142857,
+        "color": "black",
+        "background": "rgb(181.21176470588236, 218.5450980392157, 231.72156862745098)"
     },
     {
         "word": "STATIC",
         "hex": "#57A71C",
-        "score": 0.6582010582010582
+        "score": 0.6582010582010582,
+        "color": "black",
+        "background": "#57A71C"
     },
     {
         "word": "TASTED",
         "hex": "#7A57ED",
-        "score": 0.6582010582010582
+        "score": 0.6582010582010582,
+        "color": "white",
+        "background": "#7A57ED"
     },
     {
         "word": "GIFTED",
         "hex": "#61F7ED",
-        "score": 0.6543915343915344
+        "score": 0.6543915343915344,
+        "color": "black",
+        "background": "#61F7ED"
     },
     {
         "word": "ATTICS",
         "hex": "#A771C5",
-        "score": 0.6505820105820107
+        "score": 0.6505820105820107,
+        "color": "black",
+        "background": "#A771C5"
     },
     {
         "word": "SATIATED",
         "hex": "#5A71A7ED",
-        "score": 0.6447321428571429
+        "score": 0.6447321428571429,
+        "color": "black",
+        "background": "rgb(101.64705882352942, 123.02352941176471, 173.21176470588236)"
     },
     {
         "word": "DETECT",
         "hex": "#DE7EC7",
-        "score": 0.643915343915344
+        "score": 0.643915343915344,
+        "color": "black",
+        "background": "#DE7EC7"
     },
     {
         "word": "STATED",
         "hex": "#57A7ED",
-        "score": 0.6391534391534393
+        "score": 0.6391534391534393,
+        "color": "black",
+        "background": "#57A7ED"
     },
     {
         "word": "DOGGIE",
         "hex": "#D0661E",
-        "score": 0.6324867724867725
+        "score": 0.6324867724867725,
+        "color": "black",
+        "background": "#D0661E"
     },
     {
         "word": "STAGED",
         "hex": "#57A6ED",
-        "score": 0.6258201058201058
+        "score": 0.6258201058201058,
+        "color": "black",
+        "background": "#57A6ED"
     },
     {
         "word": "TOOTSIES",
         "hex": "#700751E5",
-        "score": 0.6254464285714285
+        "score": 0.6254464285714285,
+        "color": "white",
+        "background": "rgb(126.58039215686273, 32.28627450980392, 98.74117647058824)"
     },
     {
         "word": "ACETATES",
         "hex": "#ACE7A7E5",
-        "score": 0.6254464285714285
+        "score": 0.6254464285714285,
+        "color": "black",
+        "background": "rgb(180.46274509803922, 233.44705882352943, 175.97254901960784)"
     },
     {
         "word": "SATIATES",
         "hex": "#5A71A7E5",
-        "score": 0.6254464285714285
+        "score": 0.6254464285714285,
+        "color": "black",
+        "background": "rgb(106.8235294117647, 127.47843137254901, 175.97254901960784)"
     },
     {
         "word": "BIGGIE",
         "hex": "#B1661E",
-        "score": 0.6201058201058202
+        "score": 0.6201058201058202,
+        "color": "black",
+        "background": "#B1661E"
     },
     {
         "word": "TOCCATAS",
         "hex": "#70CCA7A5",
-        "score": 0.6168750000000001
+        "score": 0.6168750000000001,
+        "color": "black",
+        "background": "rgb(162.4705882352941, 222, 198.05882352941177)"
     },
     {
         "word": "DIGEST",
         "hex": "#D16E57",
-        "score": 0.6143915343915344
+        "score": 0.6143915343915344,
+        "color": "black",
+        "background": "#D16E57"
     },
     {
         "word": "FITTED",
         "hex": "#F177ED",
-        "score": 0.6143915343915344
+        "score": 0.6143915343915344,
+        "color": "black",
+        "background": "#F177ED"
     },
     {
         "word": "TACTIC",
         "hex": "#7AC71C",
-        "score": 0.6143915343915344
+        "score": 0.6143915343915344,
+        "color": "black",
+        "background": "#7AC71C"
     },
     {
         "word": "BEFITTED",
         "hex": "#BEF177ED",
-        "score": 0.5933035714285715
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(194.58823529411765, 241.98823529411766, 128.6)"
     },
     {
         "word": "COCOTTES",
         "hex": "#C0C077E5",
-        "score": 0.5933035714285715
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(198.42352941176472, 198.42352941176472, 132.86666666666667)"
     },
     {
         "word": "GOOFIEST",
         "hex": "#600F1E57",
-        "score": 0.5933035714285715
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(200.75294117647059, 173.11764705882354, 178.23529411764707)"
     },
     {
         "word": "BIOTITES",
         "hex": "#B10717E5",
-        "score": 0.5933035714285715
+        "score": 0.5933035714285715,
+        "color": "white",
+        "background": "rgb(184.9529411764706, 32.28627450980392, 46.65490196078431)"
     },
     {
         "word": "DIETETIC",
         "hex": "#D1E7E71C",
-        "score": 0.5933035714285715
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(249.94901960784313, 252.36470588235295, 252.36470588235295)"
     },
     {
         "word": "DIGITS",
         "hex": "#D16175",
-        "score": 0.5915343915343916
+        "score": 0.5915343915343916,
+        "color": "black",
+        "background": "#D16175"
     },
     {
         "word": "DETEST",
         "hex": "#DE7E57",
-        "score": 0.582962962962963
+        "score": 0.582962962962963,
+        "color": "black",
+        "background": "#DE7E57"
     },
     {
         "word": "ABATIS",
         "hex": "#ABA715",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#ABA715"
     },
     {
         "word": "ACETIC",
         "hex": "#ACE71C",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#ACE71C"
     },
     {
         "word": "AFTOSA",
         "hex": "#AF705A",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#AF705A"
     },
     {
         "word": "ASSIZE",
         "hex": "#A5512E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#A5512E"
     },
     {
         "word": "AZIDES",
         "hex": "#A21DE5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#A21DE5"
     },
     {
         "word": "BADGED",
         "hex": "#BAD6ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#BAD6ED"
     },
     {
         "word": "BAGASS",
         "hex": "#BA6A55",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#BA6A55"
     },
     {
         "word": "BAITED",
         "hex": "#BA17ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#BA17ED"
     },
     {
         "word": "BAIZAS",
         "hex": "#BA12A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#BA12A5"
     },
     {
         "word": "BAZOOS",
         "hex": "#BA2005",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#BA2005"
     },
     {
         "word": "BEFOGS",
         "hex": "#BEF065",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#BEF065"
     },
     {
         "word": "BESOTS",
         "hex": "#BE5075",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#BE5075"
     },
     {
         "word": "BETISE",
         "hex": "#BE715E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#BE715E"
     },
     {
         "word": "BIOGAS",
         "hex": "#B106A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#B106A5"
     },
     {
         "word": "BIOTAS",
         "hex": "#B107A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#B107A5"
     },
     {
         "word": "BOATED",
         "hex": "#B0A7ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#B0A7ED"
     },
     {
         "word": "BOGIES",
         "hex": "#B061E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#B061E5"
     },
     {
         "word": "BOITES",
         "hex": "#B017E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#B017E5"
     },
     {
         "word": "BOOTEE",
         "hex": "#B007EE",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#B007EE"
     },
     {
         "word": "BOOZED",
         "hex": "#B002ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#B002ED"
     },
     {
         "word": "CADGED",
         "hex": "#CAD6ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#CAD6ED"
     },
     {
         "word": "CASITA",
         "hex": "#CA517A",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#CA517A"
     },
     {
         "word": "CESTAS",
         "hex": "#CE57A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#CE57A5"
     },
     {
         "word": "CESTOI",
         "hex": "#CE5701",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#CE5701"
     },
     {
         "word": "CESTOS",
         "hex": "#CE5705",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#CE5705"
     },
     {
         "word": "CISTED",
         "hex": "#C157ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C157ED"
     },
     {
         "word": "CITIED",
         "hex": "#C171ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C171ED"
     },
     {
         "word": "COACTS",
         "hex": "#C0AC75",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C0AC75"
     },
     {
         "word": "COATEE",
         "hex": "#C0A7EE",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C0A7EE"
     },
     {
         "word": "COATIS",
         "hex": "#C0A715",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C0A715"
     },
     {
         "word": "COEDIT",
         "hex": "#C0ED17",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C0ED17"
     },
     {
         "word": "COSETS",
         "hex": "#C05E75",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C05E75"
     },
     {
         "word": "COSSET",
         "hex": "#C055E7",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C055E7"
     },
     {
         "word": "COSTAE",
         "hex": "#C057AE",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C057AE"
     },
     {
         "word": "COSTED",
         "hex": "#C057ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C057ED"
     },
     {
         "word": "COZIED",
         "hex": "#C021ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#C021ED"
     },
     {
         "word": "DACITE",
         "hex": "#DAC17E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#DAC17E"
     },
     {
         "word": "DAGOBA",
         "hex": "#DA60BA",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#DA60BA"
     },
     {
         "word": "DEBAGS",
         "hex": "#DEBA65",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#DEBA65"
     },
     {
         "word": "DECOCT",
         "hex": "#DEC0C7",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#DEC0C7"
     },
     {
         "word": "DEFATS",
         "hex": "#DEFA75",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#DEFA75"
     },
     {
         "word": "DEFOGS",
         "hex": "#DEF065",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#DEF065"
     },
     {
         "word": "DEISTS",
         "hex": "#DE1575",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#DE1575"
     },
     {
         "word": "DICAST",
         "hex": "#D1CA57",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D1CA57"
     },
     {
         "word": "DICOTS",
         "hex": "#D1C075",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D1C075"
     },
     {
         "word": "DIDACT",
         "hex": "#D1DAC7",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D1DAC7"
     },
     {
         "word": "DIETED",
         "hex": "#D1E7ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D1E7ED"
     },
     {
         "word": "DOATED",
         "hex": "#D0A7ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D0A7ED"
     },
     {
         "word": "DODGED",
         "hex": "#D0D6ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D0D6ED"
     },
     {
         "word": "DOGIES",
         "hex": "#D061E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D061E5"
     },
     {
         "word": "DOITED",
         "hex": "#D017ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#D017ED"
     },
     {
         "word": "DOOZIE",
         "hex": "#D0021E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#D0021E"
     },
     {
         "word": "EBBETS",
         "hex": "#EBBE75",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#EBBE75"
     },
     {
         "word": "EGISES",
         "hex": "#E615E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#E615E5"
     },
     {
         "word": "ESCOTS",
         "hex": "#E5C075",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#E5C075"
     },
     {
         "word": "FACETE",
         "hex": "#FACE7E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FACE7E"
     },
     {
         "word": "FADGED",
         "hex": "#FAD6ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FAD6ED"
     },
     {
         "word": "FADGES",
         "hex": "#FAD6E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FAD6E5"
     },
     {
         "word": "FASTED",
         "hex": "#FA57ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FA57ED"
     },
     {
         "word": "FEAZED",
         "hex": "#FEA2ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FEA2ED"
     },
     {
         "word": "FEAZES",
         "hex": "#FEA2E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FEA2E5"
     },
     {
         "word": "FEEZED",
         "hex": "#FEE2ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FEE2ED"
     },
     {
         "word": "FEEZES",
         "hex": "#FEE2E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FEE2E5"
     },
     {
         "word": "FEISTS",
         "hex": "#FE1575",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#FE1575"
     },
     {
         "word": "FIDGED",
         "hex": "#F1D6ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#F1D6ED"
     },
     {
         "word": "FIDGES",
         "hex": "#F1D6E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#F1D6E5"
     },
     {
         "word": "FISTED",
         "hex": "#F157ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#F157ED"
     },
     {
         "word": "FISTIC",
         "hex": "#F1571C",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#F1571C"
     },
     {
         "word": "FOETID",
         "hex": "#F0E71D",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#F0E71D"
     },
     {
         "word": "GABBED",
         "hex": "#6ABBED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#6ABBED"
     },
     {
         "word": "GADDED",
         "hex": "#6ADDED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#6ADDED"
     },
     {
         "word": "GADDIS",
         "hex": "#6ADD15",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#6ADD15"
     },
     {
         "word": "GADIDS",
         "hex": "#6AD1D5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#6AD1D5"
     },
     {
         "word": "GADOID",
         "hex": "#6AD01D",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#6AD01D"
     },
     {
         "word": "GAFFED",
         "hex": "#6AFFED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#6AFFED"
     },
     {
         "word": "GASSED",
         "hex": "#6A55ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#6A55ED"
     },
     {
         "word": "GASSES",
         "hex": "#6A55E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#6A55E5"
     },
     {
         "word": "GEODIC",
         "hex": "#6E0D1C",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#6E0D1C"
     },
     {
         "word": "GEOIDS",
         "hex": "#6E01D5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#6E01D5"
     },
     {
         "word": "GIBBED",
         "hex": "#61BBED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#61BBED"
     },
     {
         "word": "GOBBED",
         "hex": "#60BBED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#60BBED"
     },
     {
         "word": "GOBOES",
         "hex": "#60B0E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#60B0E5"
     },
     {
         "word": "GODDED",
         "hex": "#60DDED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#60DDED"
     },
     {
         "word": "GOODIE",
         "hex": "#600D1E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#600D1E"
     },
     {
         "word": "GOOFED",
         "hex": "#600FED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#600FED"
     },
     {
         "word": "GOOSED",
         "hex": "#6005ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#6005ED"
     },
     {
         "word": "ICIEST",
         "hex": "#1C1E57",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#1C1E57"
     },
     {
         "word": "IDEATE",
         "hex": "#1DEA7E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#1DEA7E"
     },
     {
         "word": "IODATE",
         "hex": "#10DA7E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#10DA7E"
     },
     {
         "word": "IODIZE",
         "hex": "#10D12E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#10D12E"
     },
     {
         "word": "OBOIST",
         "hex": "#0B0157",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#0B0157"
     },
     {
         "word": "OCICAT",
         "hex": "#0C1CA7",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#0C1CA7"
     },
     {
         "word": "OCTADS",
         "hex": "#0C7AD5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#0C7AD5"
     },
     {
         "word": "ODDEST",
         "hex": "#0DDE57",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#0DDE57"
     },
     {
         "word": "ODISTS",
         "hex": "#0D1575",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#0D1575"
     },
     {
         "word": "OGDOAD",
         "hex": "#06D0AD",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#06D0AD"
     },
     {
         "word": "OOTIDS",
         "hex": "#0071D5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#0071D5"
     },
     {
         "word": "OTIOSE",
         "hex": "#07105E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#07105E"
     },
     {
         "word": "SABBAT",
         "hex": "#5ABBA7",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#5ABBA7"
     },
     {
         "word": "SAFEST",
         "hex": "#5AFE57",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#5AFE57"
     },
     {
         "word": "SAIGAS",
         "hex": "#5A16A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#5A16A5"
     },
     {
         "word": "SEABAG",
         "hex": "#5EABA6",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#5EABA6"
     },
     {
         "word": "SEADOG",
         "hex": "#5EAD06",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#5EAD06"
     },
     {
         "word": "SEIZED",
         "hex": "#5E12ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#5E12ED"
     },
     {
         "word": "SETOFF",
         "hex": "#5E70FF",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#5E70FF"
     },
     {
         "word": "SETOSE",
         "hex": "#5E705E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#5E705E"
     },
     {
         "word": "SIEGED",
         "hex": "#51E6ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#51E6ED"
     },
     {
         "word": "SIFTED",
         "hex": "#51F7ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#51F7ED"
     },
     {
         "word": "SOBEIT",
         "hex": "#50BE17",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#50BE17"
     },
     {
         "word": "SOCAGE",
         "hex": "#50CA6E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#50CA6E"
     },
     {
         "word": "SOFFIT",
         "hex": "#50FF17",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#50FF17"
     },
     {
         "word": "SOFTAS",
         "hex": "#50F7A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#50F7A5"
     },
     {
         "word": "SOOTED",
         "hex": "#5007ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#5007ED"
     },
     {
         "word": "STASES",
         "hex": "#57A5E5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#57A5E5"
     },
     {
         "word": "TABBED",
         "hex": "#7ABBED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#7ABBED"
     },
     {
         "word": "TABBIS",
         "hex": "#7ABB15",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#7ABB15"
     },
     {
         "word": "TAFFIA",
         "hex": "#7AFF1A",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#7AFF1A"
     },
     {
         "word": "TAFIAS",
         "hex": "#7AF1A5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#7AF1A5"
     },
     {
         "word": "TASSIE",
         "hex": "#7A551E",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#7A551E"
     },
     {
         "word": "TEDDED",
         "hex": "#7EDDED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#7EDDED"
     },
     {
         "word": "TEIIDS",
         "hex": "#7E11D5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#7E11D5"
     },
     {
         "word": "TIBIAE",
         "hex": "#71B1AE",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#71B1AE"
     },
     {
         "word": "TICCED",
         "hex": "#71CCED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#71CCED"
     },
     {
         "word": "TIFFED",
         "hex": "#71FFED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#71FFED"
     },
     {
         "word": "TOSSED",
         "hex": "#7055ED",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#7055ED"
     },
     {
         "word": "TSADES",
         "hex": "#75ADE5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#75ADE5"
     },
     {
         "word": "TSADIS",
         "hex": "#75AD15",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#75AD15"
     },
     {
         "word": "ZOECIA",
         "hex": "#20EC1A",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "black",
+        "background": "#20EC1A"
     },
     {
         "word": "ZOOIDS",
         "hex": "#2001D5",
-        "score": 0.5787037037037038
+        "score": 0.5787037037037038,
+        "color": "white",
+        "background": "#2001D5"
     },
     {
         "word": "COTTAGES",
         "hex": "#C077A6E5",
-        "score": 0.5771763392857142
+        "score": 0.5771763392857142,
+        "color": "black",
+        "background": "rgb(198.42352941176472, 132.86666666666667, 175.0745098039216)"
     },
     {
         "word": "BIGOTS",
         "hex": "#B16075",
-        "score": 0.5734391534391535
+        "score": 0.5734391534391535,
+        "color": "black",
+        "background": "#B16075"
     },
     {
         "word": "DITTOS",
         "hex": "#D17705",
-        "score": 0.5734391534391535
+        "score": 0.5734391534391535,
+        "color": "black",
+        "background": "#D17705"
     },
     {
         "word": "FIZZES",
         "hex": "#F122E5",
-        "score": 0.5724867724867725
+        "score": 0.5724867724867725,
+        "color": "black",
+        "background": "#F122E5"
     },
     {
         "word": "DOTTED",
         "hex": "#D077ED",
-        "score": 0.5715343915343916
+        "score": 0.5715343915343916,
+        "color": "black",
+        "background": "#D077ED"
     },
     {
         "word": "BAGGAGES",
         "hex": "#BA66A6E5",
-        "score": 0.5682477678571428
+        "score": 0.5682477678571428,
+        "color": "black",
+        "background": "rgb(193.03529411764706, 117.6, 175.0745098039216)"
     },
     {
         "word": "GOATEE",
         "hex": "#60A7EE",
-        "score": 0.5677248677248677
+        "score": 0.5677248677248677,
+        "color": "black",
+        "background": "#60A7EE"
     },
     {
         "word": "STOOGE",
         "hex": "#57006E",
-        "score": 0.5610582010582011
+        "score": 0.5610582010582011,
+        "color": "white",
+        "background": "#57006E"
     },
     {
         "word": "BEGETS",
         "hex": "#BE6E75",
-        "score": 0.5534391534391535
+        "score": 0.5534391534391535,
+        "color": "black",
+        "background": "#BE6E75"
     },
     {
         "word": "TESTES",
         "hex": "#7E57E5",
-        "score": 0.5524867724867726
+        "score": 0.5524867724867726,
+        "color": "white",
+        "background": "#7E57E5"
     },
     {
         "word": "TATTOOED",
         "hex": "#7A7700ED",
-        "score": 0.5486049107142856
+        "score": 0.5486049107142856,
+        "color": "black",
+        "background": "rgb(131.38823529411764, 128.6, 17.999999999999993)"
     },
     {
         "word": "AGITATED",
         "hex": "#A617A7ED",
-        "score": 0.5468191964285715
+        "score": 0.5468191964285715,
+        "color": "white",
+        "background": "rgb(172.28235294117647, 39.37647058823529, 173.21176470588236)"
     },
     {
         "word": "EGOIST",
         "hex": "#E60157",
-        "score": 0.5458201058201059
+        "score": 0.5458201058201059,
+        "color": "white",
+        "background": "#E60157"
     },
     {
         "word": "DOGGED",
         "hex": "#D066ED",
-        "score": 0.543915343915344
+        "score": 0.543915343915344,
+        "color": "black",
+        "background": "#D066ED"
     },
     {
         "word": "FAGOTS",
         "hex": "#FA6075",
-        "score": 0.5382010582010582
+        "score": 0.5382010582010582,
+        "color": "black",
+        "background": "#FA6075"
     },
     {
         "word": "GAZEBO",
         "hex": "#6A2EB0",
-        "score": 0.5382010582010582
+        "score": 0.5382010582010582,
+        "color": "white",
+        "background": "#6A2EB0"
     },
     {
         "word": "BETTAS",
         "hex": "#BE77A5",
-        "score": 0.5296296296296298
+        "score": 0.5296296296296298,
+        "color": "black",
+        "background": "#BE77A5"
     },
     {
         "word": "TSETSE",
         "hex": "#75E75E",
-        "score": 0.5210582010582011
+        "score": 0.5210582010582011,
+        "color": "black",
+        "background": "#75E75E"
     },
     {
         "word": "COTTAS",
         "hex": "#C077A5",
-        "score": 0.5153439153439153
+        "score": 0.5153439153439153,
+        "color": "black",
+        "background": "#C077A5"
     },
     {
         "word": "SETTEE",
         "hex": "#5E77EE",
-        "score": 0.5153439153439153
+        "score": 0.5153439153439153,
+        "color": "black",
+        "background": "#5E77EE"
     },
     {
         "word": "BATTED",
         "hex": "#BA77ED",
-        "score": 0.5124867724867725
+        "score": 0.5124867724867725,
+        "color": "black",
+        "background": "#BA77ED"
     },
     {
         "word": "BETTED",
         "hex": "#BE77ED",
-        "score": 0.5124867724867725
+        "score": 0.5124867724867725,
+        "color": "black",
+        "background": "#BE77ED"
     },
     {
         "word": "DIGGED",
         "hex": "#D166ED",
-        "score": 0.5124867724867725
+        "score": 0.5124867724867725,
+        "color": "black",
+        "background": "#D166ED"
     },
     {
         "word": "TIDBIT",
         "hex": "#71DB17",
-        "score": 0.5096296296296298
+        "score": 0.5096296296296298,
+        "color": "black",
+        "background": "#71DB17"
     },
     {
         "word": "FATTED",
         "hex": "#FA77ED",
-        "score": 0.5058201058201058
+        "score": 0.5058201058201058,
+        "color": "black",
+        "background": "#FA77ED"
     },
     {
         "word": "FIDGET",
         "hex": "#F1D6E7",
-        "score": 0.5058201058201058
+        "score": 0.5058201058201058,
+        "color": "black",
+        "background": "#F1D6E7"
     },
     {
         "word": "FOGGED",
         "hex": "#F066ED",
-        "score": 0.5058201058201058
+        "score": 0.5058201058201058,
+        "color": "black",
+        "background": "#F066ED"
     },
     {
         "word": "FAGGED",
         "hex": "#FA66ED",
-        "score": 0.5029629629629631
+        "score": 0.5029629629629631,
+        "color": "black",
+        "background": "#FA66ED"
     },
     {
         "word": "DOTAGE",
         "hex": "#D07A6E",
-        "score": 0.4896296296296297
+        "score": 0.4896296296296297,
+        "color": "black",
+        "background": "#D07A6E"
     },
     {
         "word": "GIBBET",
         "hex": "#61BBE7",
-        "score": 0.4896296296296297
+        "score": 0.4896296296296297,
+        "color": "black",
+        "background": "#61BBE7"
     },
     {
         "word": "AGITATES",
         "hex": "#A617A7E5",
-        "score": 0.48431919642857146
+        "score": 0.48431919642857146,
+        "color": "white",
+        "background": "rgb(175.0745098039216, 46.65490196078431, 175.97254901960784)"
     },
     {
         "word": "AGATES",
         "hex": "#A6A7E5",
-        "score": 0.4839153439153439
+        "score": 0.4839153439153439,
+        "color": "black",
+        "background": "#A6A7E5"
     },
     {
         "word": "STOATS",
         "hex": "#570A75",
-        "score": 0.47724867724867726
+        "score": 0.47724867724867726,
+        "color": "white",
+        "background": "#570A75"
     },
     {
         "word": "STOGIE",
         "hex": "#57061E",
-        "score": 0.47724867724867726
+        "score": 0.47724867724867726,
+        "color": "white",
+        "background": "#57061E"
     },
     {
         "word": "FOGGIEST",
         "hex": "#F0661E57",
-        "score": 0.4664620535714286
+        "score": 0.4664620535714286,
+        "color": "black",
+        "background": "rgb(249.88235294117646, 202.8, 178.23529411764707)"
     },
     {
         "word": "COGITO",
         "hex": "#C06170",
-        "score": 0.4486772486772488
+        "score": 0.4486772486772488,
+        "color": "black",
+        "background": "#C06170"
     },
     {
         "word": "OCTETS",
         "hex": "#0C7E75",
-        "score": 0.4486772486772488
+        "score": 0.4486772486772488,
+        "color": "white",
+        "background": "#0C7E75"
     },
     {
         "word": "TICTAC",
         "hex": "#71C7AC",
-        "score": 0.4486772486772488
+        "score": 0.4486772486772488,
+        "color": "black",
+        "background": "#71C7AC"
     },
     {
         "word": "BASSETTS",
         "hex": "#BA55E775",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(223.34117647058827, 177.00000000000003, 243.98823529411766)"
     },
     {
         "word": "FOSSETTE",
         "hex": "#F055E77E",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(247.58823529411765, 171, 243.14117647058822)"
     },
     {
         "word": "BEDOTTED",
         "hex": "#BED077ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(194.58823529411765, 211.31764705882352, 128.6)"
     },
     {
         "word": "BEFOGGED",
         "hex": "#BEF066ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(194.58823529411765, 241.05882352941177, 112.79999999999998)"
     },
     {
         "word": "BISCOTTI",
         "hex": "#B15C0771",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(220.43529411764706, 182.76862745098038, 145.10196078431372)"
     },
     {
         "word": "BISCOTTO",
         "hex": "#B15C0770",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(220.74117647058824, 183.4078431372549, 146.07450980392156)"
     },
     {
         "word": "BOOZIEST",
         "hex": "#B0021E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(228.04705882352943, 168.68235294117648, 178.23529411764707)"
     },
     {
         "word": "CASETTES",
         "hex": "#CA5E77E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(207.40392156862745, 110.4156862745098, 132.86666666666667)"
     },
     {
         "word": "DEBAGGED",
         "hex": "#DEBA66ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 190.87058823529412, 112.79999999999998)"
     },
     {
         "word": "DEFATTED",
         "hex": "#DEFA77ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 250.3529411764706, 128.6)"
     },
     {
         "word": "DEFOGGED",
         "hex": "#DEF066ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(224.3294117647059, 241.05882352941177, 112.79999999999998)"
     },
     {
         "word": "FACETTED",
         "hex": "#FACE77ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(250.3529411764706, 209.45882352941177, 128.6)"
     },
     {
         "word": "FOOTBAGS",
         "hex": "#F007BA65",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(249.05882352941177, 156.77254901960788, 227.67058823529413)"
     },
     {
         "word": "FOOTIEST",
         "hex": "#F0071E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(249.88235294117646, 170.38823529411764, 178.23529411764707)"
     },
     {
         "word": "GABBIEST",
         "hex": "#6ABB1E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(204.16470588235293, 231.8, 178.23529411764707)"
     },
     {
         "word": "GASSIEST",
         "hex": "#6A551E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(204.16470588235293, 197, 178.23529411764707)"
     },
     {
         "word": "GIBBETED",
         "hex": "#61BBE7ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(108.15294117647059, 191.8, 232.69411764705882)"
     },
     {
         "word": "GIBBSITE",
         "hex": "#61BB517E",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(176.9294117647059, 221.4, 169.0235294117647)"
     },
     {
         "word": "GIDDIEST",
         "hex": "#61DD1E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(201.09411764705882, 243.4, 178.23529411764707)"
     },
     {
         "word": "GOOSIEST",
         "hex": "#60051E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(200.75294117647059, 169.7058823529412, 178.23529411764707)"
     },
     {
         "word": "SOOTIEST",
         "hex": "#50071E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(195.29411764705884, 170.38823529411764, 178.23529411764707)"
     },
     {
         "word": "STACCATI",
         "hex": "#57ACCA71",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(180.5529411764706, 218.21960784313725, 231.51372549019607)"
     },
     {
         "word": "STIFFEST",
         "hex": "#571FFE57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(197.68235294117648, 178.57647058823528, 254.65882352941176)"
     },
     {
         "word": "STOCCATA",
         "hex": "#570CCA7A",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(174.62352941176468, 138.74117647058821, 229.64313725490194)"
     },
     {
         "word": "ACETATED",
         "hex": "#ACE7A7ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(177.85882352941178, 232.69411764705882, 173.21176470588236)"
     },
     {
         "word": "AZOTISED",
         "hex": "#A20715ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(168.56470588235294, 24.50588235294117, 37.51764705882353)"
     },
     {
         "word": "AZOTISES",
         "hex": "#A20715E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(171.4823529411765, 32.28627450980392, 44.85882352941176)"
     },
     {
         "word": "BATISTES",
         "hex": "#BA7157E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(193.03529411764706, 127.47843137254901, 104.12941176470588)"
     },
     {
         "word": "BIOTITIC",
         "hex": "#B107171C",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(246.43529411764706, 227.7686274509804, 229.52549019607844)"
     },
     {
         "word": "BITSIEST",
         "hex": "#B1751E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(228.38823529411764, 207.91764705882355, 178.23529411764707)"
     },
     {
         "word": "CABOTAGE",
         "hex": "#CAB07A6E",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(232.13725490196077, 220.921568627451, 197.62745098039215)"
     },
     {
         "word": "CATBOATS",
         "hex": "#CA7B0A75",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(230.68235294117648, 194.4352941176471, 142.58823529411768)"
     },
     {
         "word": "DICTIEST",
         "hex": "#D1C71E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(239.30588235294118, 235.8941176470588, 178.23529411764707)"
     },
     {
         "word": "DIGESTED",
         "hex": "#D16E57ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(212.24705882352941, 120.23529411764704, 98.85882352941175)"
     },
     {
         "word": "DIGESTIF",
         "hex": "#D16E571F",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(249.4078431372549, 237.37254901960785, 234.57647058823528)"
     },
     {
         "word": "DITSIEST",
         "hex": "#D1751E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(239.30588235294118, 207.91764705882355, 178.23529411764707)"
     },
     {
         "word": "DODGIEST",
         "hex": "#D0D61E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(238.96470588235294, 241.01176470588234, 178.23529411764707)"
     },
     {
         "word": "ECOTAGES",
         "hex": "#EC07A6E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(237.93725490196078, 32.28627450980392, 175.0745098039216)"
     },
     {
         "word": "FIDGETED",
         "hex": "#F1D6E7ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(241.98823529411766, 216.89411764705883, 232.69411764705882)"
     },
     {
         "word": "GABFESTS",
         "hex": "#6ABFE575",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(186.63529411764708, 225.63529411764708, 243.07058823529414)"
     },
     {
         "word": "GAZABOES",
         "hex": "#6A2AB0E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(121.1921568627451, 63.71764705882352, 184.05490196078432)"
     },
     {
         "word": "GAZEBOES",
         "hex": "#6A2EB0E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(121.1921568627451, 67.30980392156863, 184.05490196078432)"
     },
     {
         "word": "GEODETIC",
         "hex": "#6E0DE71C",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(239.078431372549, 228.42745098039217, 252.36470588235295)"
     },
     {
         "word": "GODETIAS",
         "hex": "#60DE71A5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(152.11764705882354, 233.6470588235294, 163.11764705882354)"
     },
     {
         "word": "ISAGOGES",
         "hex": "#15A606E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(44.85882352941176, 175.0745098039216, 31.388235294117642)"
     },
     {
         "word": "ISAGOGIC",
         "hex": "#15A6061C",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(229.30588235294118, 245.22745098039215, 227.65882352941176)"
     },
     {
         "word": "OBTECTED",
         "hex": "#0B7EC7ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(28.2235294117647, 135.10588235294117, 202.9529411764706)"
     },
     {
         "word": "OBTESTED",
         "hex": "#0B7E57ED",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(28.2235294117647, 135.10588235294117, 98.85882352941175)"
     },
     {
         "word": "OSTEITIC",
         "hex": "#057E171C",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(227.54901960784315, 240.83529411764707, 229.52549019607844)"
     },
     {
         "word": "OSTEITIS",
         "hex": "#057E1715",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(234.41176470588235, 244.3764705882353, 235.89411764705883)"
     },
     {
         "word": "OTITIDES",
         "hex": "#07171DE5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(32.28627450980392, 46.65490196078431, 52.04313725490195)"
     },
     {
         "word": "OTITISES",
         "hex": "#071715E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(32.28627450980392, 46.65490196078431, 44.85882352941176)"
     },
     {
         "word": "SEDATEST",
         "hex": "#5EDA7E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(200.0705882352941, 242.3764705882353, 210.98823529411766)"
     },
     {
         "word": "SEDGIEST",
         "hex": "#5ED61E57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(200.0705882352941, 241.01176470588234, 178.23529411764707)"
     },
     {
         "word": "STAIDEST",
         "hex": "#57A1DE57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(197.68235294117648, 222.9294117647059, 243.74117647058824)"
     },
     {
         "word": "STATICES",
         "hex": "#57A71CE5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(104.12941176470588, 175.97254901960784, 51.14509803921568)"
     },
     {
         "word": "STEDFAST",
         "hex": "#57EDFA57",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(197.68235294117648, 248.85882352941178, 253.29411764705884)"
     },
     {
         "word": "TABETICS",
         "hex": "#7ABE71C5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(152.25098039215686, 204.7843137254902, 145.29803921568626)"
     },
     {
         "word": "TOSTADAS",
         "hex": "#7057ADA5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(162.4705882352941, 146.2941176470588, 201.94117647058823)"
     },
     {
         "word": "TOSTADOS",
         "hex": "#7057AD05",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(252.19607843137254, 251.7058823529412, 253.3921568627451)"
     },
     {
         "word": "ZOISITES",
         "hex": "#201517E5",
-        "score": 0.421875
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(54.73725490196078, 44.85882352941176, 46.65490196078431)"
     },
     {
         "word": "TATTOO",
         "hex": "#7A7700",
-        "score": 0.4207142857142857
+        "score": 0.4207142857142857,
+        "color": "white",
+        "background": "#7A7700"
     },
     {
         "word": "ATTESTED",
         "hex": "#A77E57ED",
-        "score": 0.4200334821428571
+        "score": 0.4200334821428571,
+        "color": "black",
+        "background": "rgb(173.21176470588236, 135.10588235294117, 98.85882352941175)"
     },
     {
         "word": "DIGITIZE",
         "hex": "#D161712E",
-        "score": 0.4200334821428571
+        "score": 0.4200334821428571,
+        "color": "black",
+        "background": "rgb(246.7019607843137, 226.49803921568628, 229.3843137254902)"
     },
     {
         "word": "FAGGOT",
         "hex": "#FA6607",
-        "score": 0.41714285714285715
+        "score": 0.41714285714285715,
+        "color": "black",
+        "background": "#FA6607"
     },
     {
         "word": "EGOTISTS",
         "hex": "#E6071575",
-        "score": 0.4137834821428571
+        "score": 0.4137834821428571,
+        "color": "black",
+        "background": "rgb(243.5294117647059, 141.2117647058824, 147.63529411764708)"
     },
     {
         "word": "COGITATE",
         "hex": "#C0617A7E",
-        "score": 0.3986049107142857
+        "score": 0.3986049107142857,
+        "color": "black",
+        "background": "rgb(223.87058823529412, 176.9294117647059, 189.28235294117647)"
     },
     {
         "word": "GESTATES",
         "hex": "#6E57A7E5",
-        "score": 0.3869977678571429
+        "score": 0.3869977678571429,
+        "color": "white",
+        "background": "rgb(124.7843137254902, 104.12941176470588, 175.97254901960784)"
     },
     {
         "word": "GADGET",
         "hex": "#6AD6E7",
-        "score": 0.375
+        "score": 0.375,
+        "color": "black",
+        "background": "#6AD6E7"
     },
     {
         "word": "TAGGED",
         "hex": "#7A66ED",
-        "score": 0.35714285714285715
+        "score": 0.35714285714285715,
+        "color": "black",
+        "background": "#7A66ED"
     },
     {
         "word": "GAZETTES",
         "hex": "#6A2E77E5",
-        "score": 0.3214285714285714
+        "score": 0.3214285714285714,
+        "color": "white",
+        "background": "rgb(121.1921568627451, 67.30980392156863, 132.86666666666667)"
     },
     {
         "word": "ATTEST",
         "hex": "#A77E57",
-        "score": 0.30785714285714283
+        "score": 0.30785714285714283,
+        "color": "black",
+        "background": "#A77E57"
     },
     {
         "word": "AGEIST",
         "hex": "#A6E157",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#A6E157"
     },
     {
         "word": "AGGADA",
         "hex": "#A66ADA",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#A66ADA"
     },
     {
         "word": "AGGIES",
         "hex": "#A661E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#A661E5"
     },
     {
         "word": "AGISTS",
         "hex": "#A61575",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#A61575"
     },
     {
         "word": "AGITAS",
         "hex": "#A617A5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#A617A5"
     },
     {
         "word": "AZOTED",
         "hex": "#A207ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#A207ED"
     },
     {
         "word": "AZOTES",
         "hex": "#A207E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#A207E5"
     },
     {
         "word": "AZOTIC",
         "hex": "#A2071C",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#A2071C"
     },
     {
         "word": "BAGGED",
         "hex": "#BA66ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#BA66ED"
     },
     {
         "word": "BAGGIE",
         "hex": "#BA661E",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#BA661E"
     },
     {
         "word": "BEGAZE",
         "hex": "#BE6A2E",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#BE6A2E"
     },
     {
         "word": "BEGGED",
         "hex": "#BE66ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#BE66ED"
     },
     {
         "word": "BITTED",
         "hex": "#B177ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#B177ED"
     },
     {
         "word": "BIZZES",
         "hex": "#B122E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#B122E5"
     },
     {
         "word": "BOGGED",
         "hex": "#B066ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#B066ED"
     },
     {
         "word": "CATTED",
         "hex": "#CA77ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#CA77ED"
     },
     {
         "word": "CATTIE",
         "hex": "#CA771E",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#CA771E"
     },
     {
         "word": "COGGED",
         "hex": "#C066ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#C066ED"
     },
     {
         "word": "COTTAE",
         "hex": "#C077AE",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#C077AE"
     },
     {
         "word": "COZZES",
         "hex": "#C022E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#C022E5"
     },
     {
         "word": "DAGGAS",
         "hex": "#DA66A5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#DA66A5"
     },
     {
         "word": "DATTOS",
         "hex": "#DA7705",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#DA7705"
     },
     {
         "word": "DEGAGE",
         "hex": "#DE6A6E",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#DE6A6E"
     },
     {
         "word": "DITZES",
         "hex": "#D172E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#D172E5"
     },
     {
         "word": "EGESTA",
         "hex": "#E6E57A",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#E6E57A"
     },
     {
         "word": "EGESTS",
         "hex": "#E6E575",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#E6E575"
     },
     {
         "word": "FETTED",
         "hex": "#FE77ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#FE77ED"
     },
     {
         "word": "FEZZED",
         "hex": "#FE22ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#FE22ED"
     },
     {
         "word": "FEZZES",
         "hex": "#FE22E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#FE22E5"
     },
     {
         "word": "FIGGED",
         "hex": "#F166ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#F166ED"
     },
     {
         "word": "FIZZED",
         "hex": "#F122ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#F122ED"
     },
     {
         "word": "FOGDOG",
         "hex": "#F06D06",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#F06D06"
     },
     {
         "word": "GAITED",
         "hex": "#6A17ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6A17ED"
     },
     {
         "word": "GASBAG",
         "hex": "#6A5BA6",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6A5BA6"
     },
     {
         "word": "GASTED",
         "hex": "#6A57ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6A57ED"
     },
     {
         "word": "GAZABO",
         "hex": "#6A2AB0",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6A2AB0"
     },
     {
         "word": "GAZOOS",
         "hex": "#6A2005",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6A2005"
     },
     {
         "word": "GEESTS",
         "hex": "#6EE575",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#6EE575"
     },
     {
         "word": "GESTES",
         "hex": "#6E57E5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6E57E5"
     },
     {
         "word": "GESTIC",
         "hex": "#6E571C",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#6E571C"
     },
     {
         "word": "GIFTEE",
         "hex": "#61F7EE",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#61F7EE"
     },
     {
         "word": "GOBBET",
         "hex": "#60BBE7",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#60BBE7"
     },
     {
         "word": "GODETS",
         "hex": "#60DE75",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#60DE75"
     },
     {
         "word": "OBTECT",
         "hex": "#0B7EC7",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#0B7EC7"
     },
     {
         "word": "OBTEST",
         "hex": "#0B7E57",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#0B7E57"
     },
     {
         "word": "OFTEST",
         "hex": "#0F7E57",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#0F7E57"
     },
     {
         "word": "OTITIC",
         "hex": "#07171C",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#07171C"
     },
     {
         "word": "OTITIS",
         "hex": "#071715",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#071715"
     },
     {
         "word": "SAGEST",
         "hex": "#5A6E57",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#5A6E57"
     },
     {
         "word": "SAGGED",
         "hex": "#5A66ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#5A66ED"
     },
     {
         "word": "SCATTS",
         "hex": "#5CA775",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#5CA775"
     },
     {
         "word": "SESTET",
         "hex": "#5E57E7",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#5E57E7"
     },
     {
         "word": "SOGGED",
         "hex": "#5066ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#5066ED"
     },
     {
         "word": "SOTTED",
         "hex": "#5077ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#5077ED"
     },
     {
         "word": "STACTE",
         "hex": "#57AC7E",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#57AC7E"
     },
     {
         "word": "STAIGS",
         "hex": "#57A165",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#57A165"
     },
     {
         "word": "STODGE",
         "hex": "#570D6E",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#570D6E"
     },
     {
         "word": "TAIGAS",
         "hex": "#7A16A5",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7A16A5"
     },
     {
         "word": "TASSET",
         "hex": "#7A55E7",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7A55E7"
     },
     {
         "word": "TATSOI",
         "hex": "#7A7501",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7A7501"
     },
     {
         "word": "TEATED",
         "hex": "#7EA7ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#7EA7ED"
     },
     {
         "word": "TESTAE",
         "hex": "#7E57AE",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7E57AE"
     },
     {
         "word": "TESTEE",
         "hex": "#7E57EE",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7E57EE"
     },
     {
         "word": "TESTIS",
         "hex": "#7E5715",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7E5715"
     },
     {
         "word": "TICTOC",
         "hex": "#71C70C",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#71C70C"
     },
     {
         "word": "TOGAED",
         "hex": "#706AED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#706AED"
     },
     {
         "word": "TOITED",
         "hex": "#7017ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7017ED"
     },
     {
         "word": "TOOTED",
         "hex": "#7007ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#7007ED"
     },
     {
         "word": "ZESTED",
         "hex": "#2E57ED",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#2E57ED"
     },
     {
         "word": "ZIBETS",
         "hex": "#21BE75",
-        "score": 0.29629629629629634
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#21BE75"
     },
     {
         "word": "TITBIT",
         "hex": "#717B17",
-        "score": 0.27
+        "score": 0.27,
+        "color": "white",
+        "background": "#717B17"
     },
     {
         "word": "TATTED",
         "hex": "#7A77ED",
-        "score": 0.255
+        "score": 0.255,
+        "color": "black",
+        "background": "#7A77ED"
     },
     {
         "word": "ZAFTIG",
         "hex": "#2AF716",
-        "score": 0.255
+        "score": 0.255,
+        "color": "black",
+        "background": "#2AF716"
     },
     {
         "word": "ATTICIST",
         "hex": "#A771C157",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(224.9764705882353, 206.5529411764706, 233.8470588235294)"
     },
     {
         "word": "ATTICIZE",
         "hex": "#A771C12E",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(239.12549019607843, 229.3843137254902, 243.8156862745098)"
     },
     {
         "word": "BAGGIEST",
         "hex": "#BA661E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(231.45882352941177, 202.8, 178.23529411764707)"
     },
     {
         "word": "BATTIEST",
         "hex": "#BA771E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(231.45882352941177, 208.6, 178.23529411764707)"
     },
     {
         "word": "BEZAZZES",
         "hex": "#BE2A22E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "white",
+        "background": "rgb(196.62745098039215, 63.71764705882352, 56.53333333333333)"
     },
     {
         "word": "BITTIEST",
         "hex": "#B1771E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(228.38823529411764, 208.6, 178.23529411764707)"
     },
     {
         "word": "BOGGIEST",
         "hex": "#B0661E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(228.04705882352943, 202.8, 178.23529411764707)"
     },
     {
         "word": "CATTIEST",
         "hex": "#CA771E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(236.91764705882355, 208.6, 178.23529411764707)"
     },
     {
         "word": "COATTEST",
         "hex": "#C0A77E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(233.50588235294117, 224.9764705882353, 210.98823529411766)"
     },
     {
         "word": "DIZZIEST",
         "hex": "#D1221E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(239.30588235294118, 179.6, 178.23529411764707)"
     },
     {
         "word": "DOGGIEST",
         "hex": "#D0661E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(238.96470588235294, 202.8, 178.23529411764707)"
     },
     {
         "word": "DOTTIEST",
         "hex": "#D0771E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(238.96470588235294, 208.6, 178.23529411764707)"
     },
     {
         "word": "FAGGIEST",
         "hex": "#FA661E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(253.29411764705884, 202.8, 178.23529411764707)"
     },
     {
         "word": "FAGGOTED",
         "hex": "#FA6607ED",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(250.3529411764706, 112.79999999999998, 24.50588235294117)"
     },
     {
         "word": "FATTIEST",
         "hex": "#FA771E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(253.29411764705884, 208.6, 178.23529411764707)"
     },
     {
         "word": "FIZZIEST",
         "hex": "#F1221E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(250.2235294117647, 179.6, 178.23529411764707)"
     },
     {
         "word": "FOGGAGES",
         "hex": "#F066A6E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(241.52941176470588, 117.6, 175.0745098039216)"
     },
     {
         "word": "OCTETTES",
         "hex": "#0C7E77E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(36.776470588235284, 139.1529411764706, 132.86666666666667)"
     },
     {
         "word": "SAGGIEST",
         "hex": "#5A661E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(198.7058823529412, 202.8, 178.23529411764707)"
     },
     {
         "word": "SOGGIEST",
         "hex": "#50661E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(195.29411764705884, 202.8, 178.23529411764707)"
     },
     {
         "word": "STAGGIES",
         "hex": "#57A661E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(104.12941176470588, 175.0745098039216, 113.10980392156861)"
     },
     {
         "word": "ZOOTIEST",
         "hex": "#20071E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(178.91764705882352, 170.38823529411764, 178.23529411764707)"
     },
     {
         "word": "AGATIZED",
         "hex": "#A6A712ED",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(172.28235294117647, 173.21176470588236, 34.72941176470587)"
     },
     {
         "word": "AGATIZES",
         "hex": "#A6A712E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(175.0745098039216, 175.97254901960784, 42.16470588235293)"
     },
     {
         "word": "AGIOTAGE",
         "hex": "#A6107A6E",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(216.60784313725492, 151.90196078431373, 197.62745098039215)"
     },
     {
         "word": "AZOTIZED",
         "hex": "#A20712ED",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "white",
+        "background": "rgb(168.56470588235294, 24.50588235294117, 34.72941176470587)"
     },
     {
         "word": "AZOTIZES",
         "hex": "#A20712E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "white",
+        "background": "rgb(171.4823529411765, 32.28627450980392, 42.16470588235293)"
     },
     {
         "word": "DIGITATE",
         "hex": "#D1617A7E",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(232.27058823529413, 176.9294117647059, 189.28235294117647)"
     },
     {
         "word": "DITZIEST",
         "hex": "#D1721E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(239.30588235294118, 206.89411764705883, 178.23529411764707)"
     },
     {
         "word": "GESTATED",
         "hex": "#6E57A7ED",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "white",
+        "background": "rgb(120.23529411764704, 98.85882352941175, 173.21176470588236)"
     },
     {
         "word": "GIGABITS",
         "hex": "#616AB175",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(182.5058823529412, 186.63529411764708, 219.2117647058824)"
     },
     {
         "word": "STAGIEST",
         "hex": "#57A61E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(197.68235294117648, 224.63529411764705, 178.23529411764707)"
     },
     {
         "word": "STATISTS",
         "hex": "#57A71575",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(177.91764705882355, 214.62352941176474, 147.63529411764708)"
     },
     {
         "word": "STEATITE",
         "hex": "#57EA717E",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(171.98823529411766, 244.6235294117647, 184.83529411764707)"
     },
     {
         "word": "TASTIEST",
         "hex": "#7A571E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(209.6235294117647, 197.68235294117648, 178.23529411764707)"
     },
     {
         "word": "TECTITES",
         "hex": "#7EC717E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(139.1529411764706, 204.70980392156864, 46.65490196078431)"
     },
     {
         "word": "TESTATES",
         "hex": "#7E57A7E5",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(139.1529411764706, 104.12941176470588, 175.97254901960784)"
     },
     {
         "word": "TESTIEST",
         "hex": "#7E571E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(210.98823529411766, 197.68235294117648, 178.23529411764707)"
     },
     {
         "word": "ZESTIEST",
         "hex": "#2E571E57",
-        "score": 0.244140625
+        "score": 0.244140625,
+        "color": "black",
+        "background": "rgb(183.69411764705882, 197.68235294117648, 178.23529411764707)"
     },
     {
         "word": "TOTTED",
         "hex": "#7077ED",
-        "score": 0.2392857142857143
+        "score": 0.2392857142857143,
+        "color": "black",
+        "background": "#7077ED"
     },
     {
         "word": "ZIGZAG",
         "hex": "#2162A6",
-        "score": 0.16084656084656088
+        "score": 0.16084656084656088,
+        "color": "white",
+        "background": "#2162A6"
     },
     {
         "word": "GAZETTED",
         "hex": "#6A2E77ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "rgb(116.51764705882351, 60.752941176470586, 128.6)"
     },
     {
         "word": "TATTIEST",
         "hex": "#7A771E57",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(209.6235294117647, 208.6, 178.23529411764707)"
     },
     {
         "word": "BEZAZZ",
         "hex": "#BE2A22",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#BE2A22"
     },
     {
         "word": "FIZGIG",
         "hex": "#F12616",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "#F12616"
     },
     {
         "word": "GAGGED",
         "hex": "#6A66ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "#6A66ED"
     },
     {
         "word": "GIGGED",
         "hex": "#6166ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "#6166ED"
     },
     {
         "word": "GIGOTS",
         "hex": "#616075",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#616075"
     },
     {
         "word": "GITTED",
         "hex": "#6177ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "#6177ED"
     },
     {
         "word": "STOTTS",
         "hex": "#570775",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#570775"
     },
     {
         "word": "TATTIE",
         "hex": "#7A771E",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#7A771E"
     },
     {
         "word": "TAZZAS",
         "hex": "#7A22A5",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#7A22A5"
     },
     {
         "word": "TITTIE",
         "hex": "#71771E",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#71771E"
     },
     {
         "word": "TOGATE",
         "hex": "#706A7E",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#706A7E"
     },
     {
         "word": "TOGGED",
         "hex": "#7066ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "#7066ED"
     },
     {
         "word": "ZAGGED",
         "hex": "#2A66ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#2A66ED"
     },
     {
         "word": "ZIGGED",
         "hex": "#2166ED",
-        "score": 0.125
+        "score": 0.125,
+        "color": "white",
+        "background": "#2166ED"
     },
     {
         "word": "ZOFTIG",
         "hex": "#20F716",
-        "score": 0.125
+        "score": 0.125,
+        "color": "black",
+        "background": "#20F716"
     },
     {
         "word": "TZETZE",
         "hex": "#72E72E",
-        "score": 0.03703703703703704
+        "score": 0.03703703703703704,
+        "color": "black",
+        "background": "#72E72E"
     }
 ]

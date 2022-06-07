@@ -1,4 +1,6 @@
 <script lang="ts">
+    import type { IHexWord } from "$lib/types";
+
     import { hexToRgb, mixAlpha } from "../utils";
 
     import ColorPicker from "./ColorPicker.svelte";
@@ -7,13 +9,7 @@
     export let search: string;
     export let alpha: boolean;
     export let color: string;
-    export let selectedColor: string;
-    $: searchColor = (() => {
-        if (selectedColor.length === 7) return selectedColor;
-        const mix = mixAlpha(hexToRgb(selectedColor));
-        const hex = `rgb(${mix[0]}, ${mix[1]}, ${mix[2]})`;
-        return hex;
-    })();
+    export let selectedColor: IHexWord;
 </script>
 
 <h1><pre>#HEXWORDS</pre></h1>
@@ -38,7 +34,7 @@
         </svg></a
     >
 </div>
-<div class="search" style:--selected-color={searchColor}>
+<div class="search" style:--selected-color={selectedColor.background}>
     <input type="search" bind:value={search} placeholder="search..." />
     <Switch
         bind:checked={alpha}

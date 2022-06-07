@@ -1,8 +1,8 @@
 <script lang="ts">
     import { createEventDispatcher } from "svelte";
-    import type { IHexWord } from "../types";
-    import { contrast, distance, hexToRgb, isHex, mixAlpha } from "../utils";
     import { snacks } from "../stores/snackstores";
+    import type { IHexWord } from "../types";
+    import { distance, isHex } from "../utils";
     export let words: IHexWord[];
     export let query: string = "";
     export let alpha: boolean;
@@ -27,25 +27,13 @@
 
 <ul>
     {#each orderedWords as word, index (word.word)}
-        {@const changeColor = (() => {
-            const rgbHex =
-                word.word.length === 6
-                    ? hexToRgb(word.hex)
-                    : mixAlpha(hexToRgb(word.hex));
-            return (
-                contrast(rgbHex, [0, 0, 0]) < contrast(rgbHex, [255, 255, 255])
-            );
-        })()}
-        {@const color = (() => {
-            if (word.word.length === 6) return word.hex;
-            const mix = mixAlpha(hexToRgb(word.hex));
-            const hex = `rgb(${mix[0]}, ${mix[1]}, ${mix[2]})`;
-            return hex;
-        })()}
-        <li style:--color={color} class:hidden={!filteredWords[index]}>
+        <li
+            style:--color={word.background}
+            class:hidden={!filteredWords[index]}
+        >
             <button
-                style:color={changeColor ? "white" : "black"}
-                on:click={() => dispatch("select", word.hex)}
+                style:color={word.color}
+                on:click={() => dispatch("select", word)}
             >
                 {word.hex}
                 <br />
@@ -53,7 +41,7 @@
             </button>
             <button
                 class="copy"
-                style:color={changeColor ? "white" : "black"}
+                style:color={word.color}
                 on:click={() =>
                     navigator?.clipboard?.writeText(word.hex).then(() =>
                         snacks.addSnack({
