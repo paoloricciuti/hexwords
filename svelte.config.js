@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-netlify';
 import preprocess from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -11,6 +11,9 @@ const config = {
         adapter: adapter(),
         prerender: {
             enabled: true,
+            crawl: true,
+            force: true,
+            pages: ['*'],
         },
         files: {
             lib: "./src/lib"
