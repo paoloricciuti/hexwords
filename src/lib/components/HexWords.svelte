@@ -1,5 +1,7 @@
 <script lang="ts">
     import { createEventDispatcher } from "svelte";
+    import type { INamedColor } from "../types";
+    import namedColorsJson from "$lib/words/named-colors.json";
     import { snacks } from "../stores/snackstores";
     import type { IHexWord } from "../types";
     import { distance, isHex } from "../utils";
@@ -8,15 +10,17 @@
     export let alpha: boolean;
     export let queryColor: string;
 
+    const namedColors: INamedColor = namedColorsJson;
     const dispatch = createEventDispatcher();
 
     $: orderedWords =
-        !!queryColor && isHex(queryColor)
+        !!queryColor && (isHex(queryColor) || !!namedColors[queryColor])
             ? [...words].sort((a, b) => {
                   const qc =
-                      queryColor.charAt(0) === "#"
+                      namedColors[queryColor] ??
+                      (queryColor.charAt(0) === "#"
                           ? queryColor
-                          : `#${queryColor}`;
+                          : `#${queryColor}`);
                   return distance(a.hex, qc) - distance(b.hex, qc);
               })
             : words;
@@ -101,7 +105,7 @@
         position: absolute;
         top: 50%;
         right: var(--_padding);
-        width: fit-content;
+        width: auto;
         padding: 0;
         height: auto;
         transform: translateY(-50%);

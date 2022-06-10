@@ -6,6 +6,10 @@ export interface IHexWord {
     background: string;
 }
 
+export interface INamedColor {
+    [key: string]: string;
+}
+
 type SizeUnits = "em" | "ex" | "%" | "px" | "cm" | "mm" | "in" | "pt" | "pc" | "ch" | "rem" | "vh" | "vw" | "vmin" | "vmax";
 
 export type Size = `${number}${SizeUnits}`;
