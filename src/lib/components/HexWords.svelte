@@ -12,16 +12,17 @@
 
     const namedColors: INamedColor = namedColorsJson;
     const dispatch = createEventDispatcher();
-
+    $: queryColorFinal =
+        namedColors[queryColor.toLowerCase()] ??
+        (queryColor.charAt(0) === "#" ? queryColor : `#${queryColor}`);
     $: orderedWords =
-        !!queryColor && (isHex(queryColor) || !!namedColors[queryColor])
+        !!queryColor &&
+        (!!namedColors[queryColor.toLowerCase()] || isHex(queryColor))
             ? [...words].sort((a, b) => {
-                  const qc =
-                      namedColors[queryColor] ??
-                      (queryColor.charAt(0) === "#"
-                          ? queryColor
-                          : `#${queryColor}`);
-                  return distance(a.hex, qc) - distance(b.hex, qc);
+                  return (
+                      distance(a.hex, queryColorFinal) -
+                      distance(b.hex, queryColorFinal)
+                  );
               })
             : words;
 

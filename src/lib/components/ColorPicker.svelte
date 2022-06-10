@@ -1,4 +1,6 @@
 <script lang="ts">
+    import { isHex } from "$lib/utils";
+
     export let color: string;
 </script>
 
@@ -9,7 +11,7 @@
         placeholder="order by proximity to..."
     />
     <input
-        value={color}
+        value={isHex(color) ? color : "#000000"}
         on:change={(e) => (color = e.currentTarget.value)}
         type="color"
     />
