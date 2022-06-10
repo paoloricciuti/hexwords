@@ -12,8 +12,8 @@ const config = {
         prerender: {
             enabled: true,
             crawl: true,
-            force: true,
-            pages: ['*'],
+            onError: "continue",
+            entries: ['*'],
         },
         files: {
             lib: "./src/lib"
