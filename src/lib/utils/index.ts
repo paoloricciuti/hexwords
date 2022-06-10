@@ -17,7 +17,7 @@ const contrast = (rgb1: number[], rgb2: number[]) => {
         / (darkest + 0.05);
 };
 
-const isHex = (hex: string) => /^#[0-9a-f]{6}([0-9a-f]{2})?$/gi.test(hex);
+const isHex = (hex: string) => /^#?[0-9a-f]{6}([0-9a-f]{2})?$/gi.test(hex);
 
 const hexToRgb = (hex: string) => {
     const [pound, r, rr, g, gg, b, bb, a, aa] = hex;

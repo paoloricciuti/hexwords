@@ -12,10 +12,13 @@
 
     $: orderedWords =
         !!queryColor && isHex(queryColor)
-            ? [...words].sort(
-                  (a, b) =>
-                      distance(a.hex, queryColor) - distance(b.hex, queryColor)
-              )
+            ? [...words].sort((a, b) => {
+                  const qc =
+                      queryColor.charAt(0) === "#"
+                          ? queryColor
+                          : `#${queryColor}`;
+                  return distance(a.hex, qc) - distance(b.hex, qc);
+              })
             : words;
 
     $: filteredWords = orderedWords.map(
