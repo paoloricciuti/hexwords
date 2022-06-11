@@ -4,7 +4,6 @@
     import HexWords from "../lib/components/HexWords.svelte";
     import type { IHexWord } from "../lib/types";
     import wordsJson from "../lib/words/words.json";
-    import { contrast, hexToRgb, mixAlpha } from "../lib/utils";
     import Snackbars from "../lib/components/Snackbars.svelte";
     let words: IHexWord[] = wordsJson;
     let query: string = "";

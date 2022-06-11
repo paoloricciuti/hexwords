@@ -1,5 +1,89 @@
 [
     {
+        "word": "SEE",
+        "hex": "#5EE",
+        "score": 1.9142857142857144,
+        "color": "black",
+        "background": "#5EE"
+    },
+    {
+        "word": "SEES",
+        "hex": "#5EE5",
+        "score": 1.9142857142857144,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 249.33333333333337, 249.33333333333337)"
+    },
+    {
+        "word": "DID",
+        "hex": "#D1D",
+        "score": 1.9100000000000001,
+        "color": "black",
+        "background": "#D1D"
+    },
+    {
+        "word": "SAID",
+        "hex": "#5A1D",
+        "score": 1.8657142857142857,
+        "color": "black",
+        "background": "rgb(107.66666666666666, 181.33333333333334, 48.73333333333333)"
+    },
+    {
+        "word": "OFF",
+        "hex": "#0FF",
+        "score": 1.862857142857143,
+        "color": "black",
+        "background": "#0FF"
+    },
+    {
+        "word": "OFFS",
+        "hex": "#0FF5",
+        "score": 1.862857142857143,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 255.00000000000003, 255.00000000000003)"
+    },
+    {
+        "word": "DOES",
+        "hex": "#D0E5",
+        "score": 1.8342857142857143,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 170.00000000000003, 249.33333333333337)"
+    },
+    {
+        "word": "DAD",
+        "hex": "#DAD",
+        "score": 1.8242857142857143,
+        "color": "black",
+        "background": "#DAD"
+    },
+    {
+        "word": "DADS",
+        "hex": "#DAD5",
+        "score": 1.8242857142857143,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 226.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "BAD",
+        "hex": "#BAD",
+        "score": 1.8185714285714285,
+        "color": "black",
+        "background": "#BAD"
+    },
+    {
+        "word": "BADS",
+        "hex": "#BAD5",
+        "score": 1.8185714285714285,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 226.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "DEAD",
+        "hex": "#DEAD",
+        "score": 1.8071428571428572,
+        "color": "black",
+        "background": "rgb(225.53333333333333, 240.26666666666668, 181.33333333333334)"
+    },
+    {
         "word": "BABIES",
         "hex": "#BAB1E5",
         "score": 1.802857142857143,
@@ -7,11 +91,74 @@
         "background": "#BAB1E5"
     },
     {
+        "word": "DIE",
+        "hex": "#D1E",
+        "score": 1.7914285714285714,
+        "color": "black",
+        "background": "#D1E"
+    },
+    {
+        "word": "IDEA",
+        "hex": "#1DEA",
+        "score": 1.7885714285714285,
+        "color": "black",
+        "background": "rgb(96.33333333333334, 232.33333333333331, 243.66666666666669)"
+    },
+    {
+        "word": "FACE",
+        "hex": "#FACE",
+        "score": 1.7842857142857143,
+        "color": "black",
+        "background": "rgb(255, 175.66666666666666, 207.4)"
+    },
+    {
+        "word": "ASS",
+        "hex": "#A55",
+        "score": 1.77,
+        "color": "white",
+        "background": "#A55"
+    },
+    {
+        "word": "CASE",
+        "hex": "#CA5E",
+        "score": 1.77,
+        "color": "black",
+        "background": "rgb(207.4, 175.66666666666666, 96.33333333333333)"
+    },
+    {
+        "word": "SIDE",
+        "hex": "#51DE",
+        "score": 1.7585714285714285,
+        "color": "white",
+        "background": "rgb(96.33333333333333, 32.86666666666666, 223.26666666666668)"
+    },
+    {
         "word": "BOSSES",
         "hex": "#B055E5",
         "score": 1.7528571428571427,
         "color": "black",
         "background": "#B055E5"
+    },
+    {
+        "word": "BED",
+        "hex": "#BED",
+        "score": 1.7528571428571427,
+        "color": "black",
+        "background": "#BED"
+    },
+    {
+        "word": "BOSS",
+        "hex": "#B055",
+        "score": 1.7528571428571427,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 198.33333333333337)"
+    },
+    {
+        "word": "FOOD",
+        "hex": "#F00D",
+        "score": 1.7528571428571427,
+        "color": "black",
+        "background": "rgb(255, 33.99999999999999, 33.99999999999999)"
     },
     {
         "word": "OFFICE",
@@ -28,11 +175,74 @@
         "background": "#C0FFEE"
     },
     {
+        "word": "SAFE",
+        "hex": "#5AFE",
+        "score": 1.7314285714285713,
+        "color": "black",
+        "background": "rgb(96.33333333333333, 175.66666666666666, 255)"
+    },
+    {
+        "word": "SEA",
+        "hex": "#5EA",
+        "score": 1.7071428571428573,
+        "color": "black",
+        "background": "#5EA"
+    },
+    {
+        "word": "SEAS",
+        "hex": "#5EA5",
+        "score": 1.7071428571428573,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 249.33333333333337, 226.66666666666669)"
+    },
+    {
+        "word": "ICE",
+        "hex": "#1CE",
+        "score": 1.7057142857142857,
+        "color": "black",
+        "background": "#1CE"
+    },
+    {
+        "word": "ICES",
+        "hex": "#1CE5",
+        "score": 1.7057142857142857,
+        "color": "black",
+        "background": "rgb(175.66666666666669, 238.00000000000003, 249.33333333333337)"
+    },
+    {
+        "word": "SAD",
+        "hex": "#5AD",
+        "score": 1.7042857142857142,
+        "color": "black",
+        "background": "#5AD"
+    },
+    {
         "word": "DECIDE",
         "hex": "#DEC1DE",
         "score": 1.6842857142857142,
         "color": "black",
         "background": "#DEC1DE"
+    },
+    {
+        "word": "BOB",
+        "hex": "#B0B",
+        "score": 1.677142857142857,
+        "color": "white",
+        "background": "#B0B"
+    },
+    {
+        "word": "CODE",
+        "hex": "#C0DE",
+        "score": 1.6657142857142857,
+        "color": "black",
+        "background": "rgb(207.4, 16.999999999999996, 223.26666666666668)"
+    },
+    {
+        "word": "FEED",
+        "hex": "#FEED",
+        "score": 1.6642857142857144,
+        "color": "black",
+        "background": "rgb(255, 240.26666666666668, 240.26666666666668)"
     },
     {
         "word": "BODIES",
@@ -42,11 +252,74 @@
         "background": "#B0D1E5"
     },
     {
+        "word": "ADD",
+        "hex": "#ADD",
+        "score": 1.65,
+        "color": "black",
+        "background": "#ADD"
+    },
+    {
+        "word": "ADDS",
+        "hex": "#ADD5",
+        "score": 1.65,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 243.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "BASE",
+        "hex": "#BA5E",
+        "score": 1.65,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 175.66666666666666, 96.33333333333333)"
+    },
+    {
+        "word": "COS",
+        "hex": "#C05",
+        "score": 1.6414285714285715,
+        "color": "white",
+        "background": "#C05"
+    },
+    {
+        "word": "DOC",
+        "hex": "#D0C",
+        "score": 1.6414285714285715,
+        "color": "black",
+        "background": "#D0C"
+    },
+    {
+        "word": "BABE",
+        "hex": "#BABE",
+        "score": 1.6414285714285715,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 175.66666666666666, 191.53333333333333)"
+    },
+    {
+        "word": "DOCS",
+        "hex": "#D0C5",
+        "score": 1.6414285714285715,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 170.00000000000003, 238.00000000000003)"
+    },
+    {
         "word": "DISEASES",
         "hex": "#D15EA5E5",
         "score": 1.6400000000000001,
         "color": "black",
         "background": "rgb(213.69019607843137, 110.4156862745098, 174.1764705882353)"
+    },
+    {
+        "word": "ODD",
+        "hex": "#0DD",
+        "score": 1.6385714285714286,
+        "color": "black",
+        "background": "#0DD"
+    },
+    {
+        "word": "DIES",
+        "hex": "#D1E5",
+        "score": 1.6385714285714286,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 175.66666666666669, 249.33333333333337)"
     },
     {
         "word": "ASIDES",
@@ -70,11 +343,137 @@
         "background": "#ACCE55"
     },
     {
+        "word": "CAB",
+        "hex": "#CAB",
+        "score": 1.6285714285714286,
+        "color": "black",
+        "background": "#CAB"
+    },
+    {
+        "word": "IDS",
+        "hex": "#1D5",
+        "score": 1.6285714285714286,
+        "color": "black",
+        "background": "#1D5"
+    },
+    {
+        "word": "CABS",
+        "hex": "#CAB5",
+        "score": 1.6285714285714286,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 226.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "FED",
+        "hex": "#FED",
+        "score": 1.6271428571428572,
+        "color": "black",
+        "background": "#FED"
+    },
+    {
+        "word": "FEDS",
+        "hex": "#FED5",
+        "score": 1.6271428571428572,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 249.33333333333337, 243.66666666666669)"
+    },
+    {
+        "word": "SEC",
+        "hex": "#5EC",
+        "score": 1.6185714285714285,
+        "color": "black",
+        "background": "#5EC"
+    },
+    {
+        "word": "SECS",
+        "hex": "#5EC5",
+        "score": 1.6185714285714285,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 249.33333333333337, 238.00000000000003)"
+    },
+    {
+        "word": "DEAF",
+        "hex": "#DEAF",
+        "score": 1.6157142857142857,
+        "color": "black",
+        "background": "rgb(221, 238, 170)"
+    },
+    {
+        "word": "ADS",
+        "hex": "#AD5",
+        "score": 1.6071428571428572,
+        "color": "black",
+        "background": "#AD5"
+    },
+    {
         "word": "BESIDE",
         "hex": "#BE51DE",
         "score": 1.6057142857142859,
         "color": "black",
         "background": "#BE51DE"
+    },
+    {
+        "word": "EASE",
+        "hex": "#EA5E",
+        "score": 1.6028571428571428,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 175.66666666666666, 96.33333333333333)"
+    },
+    {
+        "word": "AID",
+        "hex": "#A1D",
+        "score": 1.6014285714285714,
+        "color": "white",
+        "background": "#A1D"
+    },
+    {
+        "word": "SIS",
+        "hex": "#515",
+        "score": 1.6,
+        "color": "white",
+        "background": "#515"
+    },
+    {
+        "word": "BOO",
+        "hex": "#B00",
+        "score": 1.597142857142857,
+        "color": "white",
+        "background": "#B00"
+    },
+    {
+        "word": "BOOS",
+        "hex": "#B005",
+        "score": 1.597142857142857,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 170.00000000000003)"
+    },
+    {
+        "word": "BEEF",
+        "hex": "#BEEF",
+        "score": 1.5957142857142856,
+        "color": "black",
+        "background": "rgb(187, 238, 238)"
+    },
+    {
+        "word": "BEE",
+        "hex": "#BEE",
+        "score": 1.5871428571428572,
+        "color": "black",
+        "background": "#BEE"
+    },
+    {
+        "word": "BEES",
+        "hex": "#BEE5",
+        "score": 1.5871428571428572,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 249.33333333333337, 249.33333333333337)"
+    },
+    {
+        "word": "SODA",
+        "hex": "#50DA",
+        "score": 1.5828571428571427,
+        "color": "black",
+        "background": "rgb(141.66666666666669, 85.00000000000001, 232.33333333333331)"
     },
     {
         "word": "OBSESSED",
@@ -84,11 +483,130 @@
         "background": "rgb(28.2235294117647, 105.36470588235295, 97)"
     },
     {
+        "word": "ODDS",
+        "hex": "#0DD5",
+        "score": 1.5814285714285714,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 243.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "ACE",
+        "hex": "#ACE",
+        "score": 1.58,
+        "color": "black",
+        "background": "#ACE"
+    },
+    {
+        "word": "ACES",
+        "hex": "#ACE5",
+        "score": 1.58,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 238.00000000000003, 249.33333333333337)"
+    },
+    {
+        "word": "FEE",
+        "hex": "#FEE",
+        "score": 1.5771428571428572,
+        "color": "black",
+        "background": "#FEE"
+    },
+    {
+        "word": "FEES",
+        "hex": "#FEE5",
+        "score": 1.5771428571428572,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 249.33333333333337, 249.33333333333337)"
+    },
+    {
+        "word": "BAS",
+        "hex": "#BA5",
+        "score": 1.5742857142857143,
+        "color": "black",
+        "background": "#BA5"
+    },
+    {
+        "word": "BASS",
+        "hex": "#BA55",
+        "score": 1.5714285714285714,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 226.66666666666669, 198.33333333333337)"
+    },
+    {
+        "word": "CAFE",
+        "hex": "#CAFE",
+        "score": 1.5714285714285714,
+        "color": "black",
+        "background": "rgb(207.4, 175.66666666666666, 255)"
+    },
+    {
+        "word": "DEE",
+        "hex": "#DEE",
+        "score": 1.5685714285714285,
+        "color": "black",
+        "background": "#DEE"
+    },
+    {
+        "word": "DEES",
+        "hex": "#DEE5",
+        "score": 1.5685714285714285,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 249.33333333333337, 249.33333333333337)"
+    },
+    {
         "word": "DISCOS",
         "hex": "#D15C05",
         "score": 1.5657142857142858,
         "color": "black",
         "background": "#D15C05"
+    },
+    {
+        "word": "ACID",
+        "hex": "#AC1D",
+        "score": 1.5657142857142858,
+        "color": "black",
+        "background": "rgb(181.33333333333334, 210.8, 48.73333333333333)"
+    },
+    {
+        "word": "DEED",
+        "hex": "#DEED",
+        "score": 1.5657142857142858,
+        "color": "black",
+        "background": "rgb(225.53333333333333, 240.26666666666668, 240.26666666666668)"
+    },
+    {
+        "word": "SOFA",
+        "hex": "#50FA",
+        "score": 1.5657142857142858,
+        "color": "black",
+        "background": "rgb(141.66666666666669, 85.00000000000001, 255)"
+    },
+    {
+        "word": "BID",
+        "hex": "#B1D",
+        "score": 1.5642857142857143,
+        "color": "white",
+        "background": "#B1D"
+    },
+    {
+        "word": "BIDS",
+        "hex": "#B1D5",
+        "score": 1.5642857142857143,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 175.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "SEED",
+        "hex": "#5EED",
+        "score": 1.5614285714285714,
+        "color": "black",
+        "background": "rgb(107.66666666666666, 240.26666666666668, 240.26666666666668)"
+    },
+    {
+        "word": "BEDS",
+        "hex": "#BED5",
+        "score": 1.5585714285714287,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 249.33333333333337, 243.66666666666669)"
     },
     {
         "word": "DECEASED",
@@ -98,6 +616,13 @@
         "background": "rgb(224.3294117647059, 209.45882352941177, 171.35294117647058)"
     },
     {
+        "word": "CIAO",
+        "hex": "#C1A0",
+        "score": 1.5542857142857143,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
         "word": "CEASES",
         "hex": "#CEA5E5",
         "score": 1.552857142857143,
@@ -105,11 +630,74 @@
         "background": "#CEA5E5"
     },
     {
+        "word": "BABA",
+        "hex": "#BABA",
+        "score": 1.552857142857143,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 198.33333333333334, 209.66666666666669)"
+    },
+    {
         "word": "DECADE",
         "hex": "#DECADE",
         "score": 1.5371428571428571,
         "color": "black",
         "background": "#DECADE"
+    },
+    {
+        "word": "DICE",
+        "hex": "#D1CE",
+        "score": 1.5371428571428571,
+        "color": "black",
+        "background": "rgb(223.26666666666668, 32.86666666666666, 207.4)"
+    },
+    {
+        "word": "DOSE",
+        "hex": "#D05E",
+        "score": 1.5371428571428571,
+        "color": "white",
+        "background": "rgb(223.26666666666668, 16.999999999999996, 96.33333333333333)"
+    },
+    {
+        "word": "FADE",
+        "hex": "#FADE",
+        "score": 1.5371428571428571,
+        "color": "black",
+        "background": "rgb(255, 175.66666666666666, 223.26666666666668)"
+    },
+    {
+        "word": "COCO",
+        "hex": "#C0C0",
+        "score": 1.5357142857142856,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "DISC",
+        "hex": "#D15C",
+        "score": 1.5157142857142856,
+        "color": "black",
+        "background": "rgb(227.8, 64.6, 118.99999999999999)"
+    },
+    {
+        "word": "COCA",
+        "hex": "#C0CA",
+        "score": 1.5071428571428571,
+        "color": "black",
+        "background": "rgb(221, 85.00000000000001, 221)"
+    },
+    {
+        "word": "ICED",
+        "hex": "#1CED",
+        "score": 1.5057142857142858,
+        "color": "black",
+        "background": "rgb(48.73333333333333, 210.8, 240.26666666666668)"
+    },
+    {
+        "word": "DOE",
+        "hex": "#D0E",
+        "score": 1.5014285714285713,
+        "color": "black",
+        "background": "#D0E"
     },
     {
         "word": "COCOAS",
@@ -126,6 +714,20 @@
         "background": "#BA51C5"
     },
     {
+        "word": "DEB",
+        "hex": "#DEB",
+        "score": 1.4957142857142858,
+        "color": "black",
+        "background": "#DEB"
+    },
+    {
+        "word": "AIDS",
+        "hex": "#A1D5",
+        "score": 1.4942857142857142,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 175.66666666666669, 243.66666666666669)"
+    },
+    {
         "word": "EDDIES",
         "hex": "#EDD1E5",
         "score": 1.4928571428571429,
@@ -133,11 +735,46 @@
         "background": "#EDD1E5"
     },
     {
+        "word": "COD",
+        "hex": "#C0D",
+        "score": 1.4928571428571429,
+        "color": "black",
+        "background": "#C0D"
+    },
+    {
         "word": "DEFIES",
         "hex": "#DEF1E5",
         "score": 1.49,
         "color": "black",
         "background": "#DEF1E5"
+    },
+    {
+        "word": "CASA",
+        "hex": "#CA5A",
+        "score": 1.49,
+        "color": "black",
+        "background": "rgb(221, 198.33333333333334, 141.66666666666669)"
+    },
+    {
+        "word": "COO",
+        "hex": "#C00",
+        "score": 1.4885714285714284,
+        "color": "white",
+        "background": "#C00"
+    },
+    {
+        "word": "SOD",
+        "hex": "#50D",
+        "score": 1.4885714285714284,
+        "color": "white",
+        "background": "#50D"
+    },
+    {
+        "word": "SODS",
+        "hex": "#50D5",
+        "score": 1.4885714285714284,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 170.00000000000003, 243.66666666666669)"
     },
     {
         "word": "SEAFOODS",
@@ -154,11 +791,32 @@
         "background": "rgb(110.4156862745098, 174.1764705882353, 52.04313725490195)"
     },
     {
+        "word": "BOOB",
+        "hex": "#B00B",
+        "score": 1.4828571428571429,
+        "color": "white",
+        "background": "rgb(205.13333333333333, 68.00000000000001, 68.00000000000001)"
+    },
+    {
         "word": "ABIDES",
         "hex": "#AB1DE5",
         "score": 1.4814285714285713,
         "color": "white",
         "background": "#AB1DE5"
+    },
+    {
+        "word": "FOE",
+        "hex": "#F0E",
+        "score": 1.4785714285714286,
+        "color": "black",
+        "background": "#F0E"
+    },
+    {
+        "word": "FOES",
+        "hex": "#F0E5",
+        "score": 1.4785714285714286,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 170.00000000000003, 249.33333333333337)"
     },
     {
         "word": "ASSESSES",
@@ -182,6 +840,62 @@
         "background": "#C051E5"
     },
     {
+        "word": "DADA",
+        "hex": "#DADA",
+        "score": 1.4714285714285715,
+        "color": "black",
+        "background": "rgb(232.33333333333331, 198.33333333333334, 232.33333333333331)"
+    },
+    {
+        "word": "DOS",
+        "hex": "#D05",
+        "score": 1.4685714285714284,
+        "color": "white",
+        "background": "#D05"
+    },
+    {
+        "word": "ABBA",
+        "hex": "#ABBA",
+        "score": 1.4685714285714284,
+        "color": "black",
+        "background": "rgb(198.33333333333334, 209.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "SOB",
+        "hex": "#50B",
+        "score": 1.467142857142857,
+        "color": "white",
+        "background": "#50B"
+    },
+    {
+        "word": "SOBS",
+        "hex": "#50B5",
+        "score": 1.467142857142857,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 170.00000000000003, 232.33333333333337)"
+    },
+    {
+        "word": "ODS",
+        "hex": "#0D5",
+        "score": 1.4628571428571429,
+        "color": "black",
+        "background": "#0D5"
+    },
+    {
+        "word": "ABS",
+        "hex": "#AB5",
+        "score": 1.4571428571428573,
+        "color": "black",
+        "background": "#AB5"
+    },
+    {
+        "word": "SCAB",
+        "hex": "#5CAB",
+        "score": 1.4571428571428573,
+        "color": "black",
+        "background": "rgb(130.33333333333334, 217.60000000000002, 192.66666666666669)"
+    },
+    {
         "word": "BEDSIDES",
         "hex": "#BED51DE5",
         "score": 1.4557142857142857,
@@ -196,11 +910,74 @@
         "background": "#AB0DE5"
     },
     {
+        "word": "BOA",
+        "hex": "#B0A",
+        "score": 1.4557142857142857,
+        "color": "white",
+        "background": "#B0A"
+    },
+    {
+        "word": "DIS",
+        "hex": "#D15",
+        "score": 1.4542857142857142,
+        "color": "white",
+        "background": "#D15"
+    },
+    {
+        "word": "SAC",
+        "hex": "#5AC",
+        "score": 1.45,
+        "color": "black",
+        "background": "#5AC"
+    },
+    {
+        "word": "SAE",
+        "hex": "#5AE",
+        "score": 1.45,
+        "color": "black",
+        "background": "#5AE"
+    },
+    {
+        "word": "SACS",
+        "hex": "#5AC5",
+        "score": 1.45,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 226.66666666666669, 238.00000000000003)"
+    },
+    {
+        "word": "ADO",
+        "hex": "#AD0",
+        "score": 1.4485714285714286,
+        "color": "black",
+        "background": "#AD0"
+    },
+    {
+        "word": "ADOS",
+        "hex": "#AD05",
+        "score": 1.4485714285714286,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 243.66666666666669, 170.00000000000003)"
+    },
+    {
+        "word": "BIFF",
+        "hex": "#B1FF",
+        "score": 1.4457142857142857,
+        "color": "black",
+        "background": "rgb(187, 17, 255)"
+    },
+    {
         "word": "DECAFS",
         "hex": "#DECAF5",
         "score": 1.4442857142857144,
         "color": "black",
         "background": "#DECAF5"
+    },
+    {
+        "word": "BEAD",
+        "hex": "#BEAD",
+        "score": 1.4428571428571428,
+        "color": "black",
+        "background": "rgb(196.06666666666666, 240.26666666666668, 181.33333333333334)"
     },
     {
         "word": "FACADE",
@@ -210,11 +987,74 @@
         "background": "#FACADE"
     },
     {
+        "word": "DIB",
+        "hex": "#D1B",
+        "score": 1.4414285714285713,
+        "color": "black",
+        "background": "#D1B"
+    },
+    {
+        "word": "BIAS",
+        "hex": "#B1A5",
+        "score": 1.44,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 175.66666666666669, 226.66666666666669)"
+    },
+    {
         "word": "BIASED",
         "hex": "#B1A5ED",
         "score": 1.4385714285714286,
         "color": "black",
         "background": "#B1A5ED"
+    },
+    {
+        "word": "AIDE",
+        "hex": "#A1DE",
+        "score": 1.4371428571428573,
+        "color": "white",
+        "background": "rgb(175.66666666666666, 32.86666666666666, 223.26666666666668)"
+    },
+    {
+        "word": "DIBS",
+        "hex": "#D1B5",
+        "score": 1.4371428571428573,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 175.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "FAD",
+        "hex": "#FAD",
+        "score": 1.4357142857142857,
+        "color": "black",
+        "background": "#FAD"
+    },
+    {
+        "word": "OAF",
+        "hex": "#0AF",
+        "score": 1.4357142857142857,
+        "color": "black",
+        "background": "#0AF"
+    },
+    {
+        "word": "SOS",
+        "hex": "#505",
+        "score": 1.4357142857142857,
+        "color": "white",
+        "background": "#505"
+    },
+    {
+        "word": "FADS",
+        "hex": "#FAD5",
+        "score": 1.4357142857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 226.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "OAFS",
+        "hex": "#0AF5",
+        "score": 1.4357142857142857,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 226.66666666666669, 255.00000000000003)"
     },
     {
         "word": "CABBIE",
@@ -224,6 +1064,34 @@
         "background": "#CABB1E"
     },
     {
+        "word": "FIE",
+        "hex": "#F1E",
+        "score": 1.4328571428571428,
+        "color": "black",
+        "background": "#F1E"
+    },
+    {
+        "word": "FIDO",
+        "hex": "#F1D0",
+        "score": 1.4328571428571428,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "DEF",
+        "hex": "#DEF",
+        "score": 1.43,
+        "color": "black",
+        "background": "#DEF"
+    },
+    {
+        "word": "ESES",
+        "hex": "#E5E5",
+        "score": 1.43,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 198.33333333333337, 249.33333333333337)"
+    },
+    {
         "word": "FESSES",
         "hex": "#FE55E5",
         "score": 1.427142857142857,
@@ -231,11 +1099,25 @@
         "background": "#FE55E5"
     },
     {
+        "word": "FESS",
+        "hex": "#FE55",
+        "score": 1.427142857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 249.33333333333337, 198.33333333333337)"
+    },
+    {
         "word": "FIASCO",
         "hex": "#F1A5C0",
         "score": 1.4257142857142857,
         "color": "black",
         "background": "#F1A5C0"
+    },
+    {
+        "word": "COBB",
+        "hex": "#C0BB",
+        "score": 1.4257142857142857,
+        "color": "black",
+        "background": "rgb(217.60000000000002, 68.00000000000001, 205.13333333333333)"
     },
     {
         "word": "BODIED",
@@ -252,6 +1134,48 @@
         "background": "#C15C05"
     },
     {
+        "word": "OES",
+        "hex": "#0E5",
+        "score": 1.4228571428571428,
+        "color": "black",
+        "background": "#0E5"
+    },
+    {
+        "word": "FADO",
+        "hex": "#FAD0",
+        "score": 1.4228571428571428,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "ABA",
+        "hex": "#ABA",
+        "score": 1.42,
+        "color": "black",
+        "background": "#ABA"
+    },
+    {
+        "word": "CAD",
+        "hex": "#CAD",
+        "score": 1.42,
+        "color": "black",
+        "background": "#CAD"
+    },
+    {
+        "word": "CADS",
+        "hex": "#CAD5",
+        "score": 1.42,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 226.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "CADE",
+        "hex": "#CADE",
+        "score": 1.4185714285714286,
+        "color": "black",
+        "background": "rgb(207.4, 175.66666666666666, 223.26666666666668)"
+    },
+    {
         "word": "DISEASED",
         "hex": "#D15EA5ED",
         "score": 1.4171428571428573,
@@ -259,11 +1183,39 @@
         "background": "rgb(212.24705882352941, 105.36470588235295, 171.35294117647058)"
     },
     {
+        "word": "DODO",
+        "hex": "#D0D0",
+        "score": 1.4171428571428573,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
         "word": "SASSES",
         "hex": "#5A55E5",
         "score": 1.4142857142857141,
         "color": "white",
         "background": "#5A55E5"
+    },
+    {
+        "word": "SEI",
+        "hex": "#5E1",
+        "score": 1.4142857142857141,
+        "color": "black",
+        "background": "#5E1"
+    },
+    {
+        "word": "SASS",
+        "hex": "#5A55",
+        "score": 1.4142857142857141,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 226.66666666666669, 198.33333333333337)"
+    },
+    {
+        "word": "SEIS",
+        "hex": "#5E15",
+        "score": 1.4142857142857141,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 249.33333333333337, 175.66666666666669)"
     },
     {
         "word": "DIOCESES",
@@ -280,11 +1232,130 @@
         "background": "#DEC0DE"
     },
     {
+        "word": "SIC",
+        "hex": "#51C",
+        "score": 1.4128571428571428,
+        "color": "white",
+        "background": "#51C"
+    },
+    {
+        "word": "SICS",
+        "hex": "#51C5",
+        "score": 1.4128571428571428,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 175.66666666666669, 238.00000000000003)"
+    },
+    {
+        "word": "IFS",
+        "hex": "#1F5",
+        "score": 1.4114285714285715,
+        "color": "black",
+        "background": "#1F5"
+    },
+    {
+        "word": "FIB",
+        "hex": "#F1B",
+        "score": 1.4100000000000001,
+        "color": "black",
+        "background": "#F1B"
+    },
+    {
+        "word": "COOS",
+        "hex": "#C005",
+        "score": 1.4100000000000001,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 170.00000000000003, 170.00000000000003)"
+    },
+    {
+        "word": "FIBS",
+        "hex": "#F1B5",
+        "score": 1.4100000000000001,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 175.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "DAB",
+        "hex": "#DAB",
+        "score": 1.4085714285714286,
+        "color": "black",
+        "background": "#DAB"
+    },
+    {
+        "word": "DABS",
+        "hex": "#DAB5",
+        "score": 1.4085714285714286,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 226.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "COB",
+        "hex": "#C0B",
+        "score": 1.407142857142857,
+        "color": "white",
+        "background": "#C0B"
+    },
+    {
+        "word": "COBS",
+        "hex": "#C0B5",
+        "score": 1.407142857142857,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 170.00000000000003, 232.33333333333337)"
+    },
+    {
+        "word": "FIFE",
+        "hex": "#F1FE",
+        "score": 1.407142857142857,
+        "color": "black",
+        "background": "rgb(255, 32.86666666666666, 255)"
+    },
+    {
         "word": "FOSSES",
         "hex": "#F055E5",
         "score": 1.4057142857142857,
         "color": "black",
         "background": "#F055E5"
+    },
+    {
+        "word": "FAB",
+        "hex": "#FAB",
+        "score": 1.4057142857142857,
+        "color": "black",
+        "background": "#FAB"
+    },
+    {
+        "word": "FABS",
+        "hex": "#FAB5",
+        "score": 1.4057142857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 226.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "FOSS",
+        "hex": "#F055",
+        "score": 1.4057142857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 170.00000000000003, 198.33333333333337)"
+    },
+    {
+        "word": "ODE",
+        "hex": "#0DE",
+        "score": 1.3957142857142857,
+        "color": "black",
+        "background": "#0DE"
+    },
+    {
+        "word": "ODES",
+        "hex": "#0DE5",
+        "score": 1.3957142857142857,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 243.66666666666669, 249.33333333333337)"
+    },
+    {
+        "word": "SADE",
+        "hex": "#5ADE",
+        "score": 1.3957142857142857,
+        "color": "black",
+        "background": "rgb(96.33333333333333, 175.66666666666666, 223.26666666666668)"
     },
     {
         "word": "IDIOCIES",
@@ -301,6 +1372,34 @@
         "background": "#5EABED"
     },
     {
+        "word": "BOD",
+        "hex": "#B0D",
+        "score": 1.3914285714285715,
+        "color": "white",
+        "background": "#B0D"
+    },
+    {
+        "word": "BODS",
+        "hex": "#B0D5",
+        "score": 1.3914285714285715,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 243.66666666666669)"
+    },
+    {
+        "word": "BOS",
+        "hex": "#B05",
+        "score": 1.3900000000000001,
+        "color": "white",
+        "background": "#B05"
+    },
+    {
+        "word": "DECO",
+        "hex": "#DEC0",
+        "score": 1.3900000000000001,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
         "word": "ACIDIC",
         "hex": "#AC1D1C",
         "score": 1.3885714285714286,
@@ -308,11 +1407,53 @@
         "background": "#AC1D1C"
     },
     {
+        "word": "OBI",
+        "hex": "#0B1",
+        "score": 1.3857142857142857,
+        "color": "black",
+        "background": "#0B1"
+    },
+    {
+        "word": "BODE",
+        "hex": "#B0DE",
+        "score": 1.3857142857142857,
+        "color": "white",
+        "background": "rgb(191.53333333333333, 16.999999999999996, 223.26666666666668)"
+    },
+    {
         "word": "DISSES",
         "hex": "#D155E5",
         "score": 1.3842857142857143,
         "color": "black",
         "background": "#D155E5"
+    },
+    {
+        "word": "BIDE",
+        "hex": "#B1DE",
+        "score": 1.3842857142857143,
+        "color": "white",
+        "background": "rgb(191.53333333333333, 32.86666666666666, 223.26666666666668)"
+    },
+    {
+        "word": "DISS",
+        "hex": "#D155",
+        "score": 1.3842857142857143,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 175.66666666666669, 198.33333333333337)"
+    },
+    {
+        "word": "DADO",
+        "hex": "#DAD0",
+        "score": 1.382857142857143,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "OBOE",
+        "hex": "#0B0E",
+        "score": 1.382857142857143,
+        "color": "black",
+        "background": "rgb(16.999999999999996, 191.53333333333333, 16.999999999999996)"
     },
     {
         "word": "OBSESSES",
@@ -329,6 +1470,27 @@
         "background": "#0B5E55"
     },
     {
+        "word": "BAA",
+        "hex": "#BAA",
+        "score": 1.3814285714285715,
+        "color": "black",
+        "background": "#BAA"
+    },
+    {
+        "word": "EBB",
+        "hex": "#EBB",
+        "score": 1.3814285714285715,
+        "color": "black",
+        "background": "#EBB"
+    },
+    {
+        "word": "EBBS",
+        "hex": "#EBB5",
+        "score": 1.3814285714285715,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 232.33333333333337, 232.33333333333337)"
+    },
+    {
         "word": "CADDIE",
         "hex": "#CADD1E",
         "score": 1.3771428571428572,
@@ -336,11 +1498,88 @@
         "background": "#CADD1E"
     },
     {
+        "word": "BOBS",
+        "hex": "#B0B5",
+        "score": 1.3771428571428572,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 232.33333333333337)"
+    },
+    {
+        "word": "ABED",
+        "hex": "#ABED",
+        "score": 1.3757142857142857,
+        "color": "black",
+        "background": "rgb(181.33333333333334, 196.06666666666666, 240.26666666666668)"
+    },
+    {
+        "word": "DIFF",
+        "hex": "#D1FF",
+        "score": 1.3757142857142857,
+        "color": "black",
+        "background": "rgb(221, 17, 255)"
+    },
+    {
+        "word": "FOB",
+        "hex": "#F0B",
+        "score": 1.3714285714285714,
+        "color": "black",
+        "background": "#F0B"
+    },
+    {
+        "word": "CADI",
+        "hex": "#CAD1",
+        "score": 1.3714285714285714,
+        "color": "black",
+        "background": "rgb(251.6, 249.33333333333334, 252.73333333333332)"
+    },
+    {
+        "word": "COED",
+        "hex": "#C0ED",
+        "score": 1.3714285714285714,
+        "color": "black",
+        "background": "rgb(210.8, 33.99999999999999, 240.26666666666668)"
+    },
+    {
+        "word": "FOBS",
+        "hex": "#F0B5",
+        "score": 1.3714285714285714,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 170.00000000000003, 232.33333333333337)"
+    },
+    {
         "word": "CABOOSES",
         "hex": "#CAB005E5",
         "score": 1.37,
         "color": "black",
         "background": "rgb(207.40392156862745, 184.05490196078432, 30.490196078431367)"
+    },
+    {
+        "word": "EFF",
+        "hex": "#EFF",
+        "score": 1.367142857142857,
+        "color": "black",
+        "background": "#EFF"
+    },
+    {
+        "word": "EFFS",
+        "hex": "#EFF5",
+        "score": 1.367142857142857,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 255.00000000000003, 255.00000000000003)"
+    },
+    {
+        "word": "CACA",
+        "hex": "#CACA",
+        "score": 1.3657142857142857,
+        "color": "black",
+        "background": "rgb(221, 198.33333333333334, 221)"
+    },
+    {
+        "word": "DEBS",
+        "hex": "#DEB5",
+        "score": 1.3599999999999999,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 249.33333333333337, 232.33333333333337)"
     },
     {
         "word": "ABBESSES",
@@ -385,11 +1624,60 @@
         "background": "#5EEDED"
     },
     {
+        "word": "BIB",
+        "hex": "#B1B",
+        "score": 1.3528571428571428,
+        "color": "white",
+        "background": "#B1B"
+    },
+    {
+        "word": "FAS",
+        "hex": "#FA5",
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "#FA5"
+    },
+    {
+        "word": "BIBS",
+        "hex": "#B1B5",
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 175.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "FIEF",
+        "hex": "#F1EF",
+        "score": 1.3528571428571428,
+        "color": "black",
+        "background": "rgb(255, 17, 238)"
+    },
+    {
+        "word": "ABO",
+        "hex": "#AB0",
+        "score": 1.35,
+        "color": "black",
+        "background": "#AB0"
+    },
+    {
+        "word": "CODA",
+        "hex": "#C0DA",
+        "score": 1.35,
+        "color": "black",
+        "background": "rgb(221, 85.00000000000001, 232.33333333333331)"
+    },
+    {
         "word": "CICADA",
         "hex": "#C1CADA",
         "score": 1.3471428571428572,
         "color": "black",
         "background": "#C1CADA"
+    },
+    {
+        "word": "AIS",
+        "hex": "#A15",
+        "score": 1.3471428571428572,
+        "color": "white",
+        "background": "#A15"
     },
     {
         "word": "BOOBOO",
@@ -399,11 +1687,25 @@
         "background": "#B00B00"
     },
     {
+        "word": "IDES",
+        "hex": "#1DE5",
+        "score": 1.342857142857143,
+        "color": "black",
+        "background": "rgb(175.66666666666669, 243.66666666666669, 249.33333333333337)"
+    },
+    {
         "word": "FAECES",
         "hex": "#FAECE5",
         "score": 1.3399999999999999,
         "color": "black",
         "background": "#FAECE5"
+    },
+    {
+        "word": "DAIS",
+        "hex": "#DA15",
+        "score": 1.3399999999999999,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 226.66666666666669, 175.66666666666669)"
     },
     {
         "word": "ACACIA",
@@ -418,6 +1720,13 @@
         "score": 1.3371428571428572,
         "color": "black",
         "background": "#BA55E5"
+    },
+    {
+        "word": "EDS",
+        "hex": "#ED5",
+        "score": 1.3371428571428572,
+        "color": "black",
+        "background": "#ED5"
     },
     {
         "word": "BEDDED",
@@ -441,11 +1750,32 @@
         "background": "#DEFACE"
     },
     {
+        "word": "CEDE",
+        "hex": "#CEDE",
+        "score": 1.3285714285714285,
+        "color": "black",
+        "background": "rgb(207.4, 239.13333333333333, 223.26666666666668)"
+    },
+    {
         "word": "CASCADES",
         "hex": "#CA5CADE5",
         "score": 1.3242857142857143,
         "color": "black",
         "background": "rgb(207.40392156862745, 108.61960784313726, 181.3607843137255)"
+    },
+    {
+        "word": "BADE",
+        "hex": "#BADE",
+        "score": 1.3242857142857143,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 175.66666666666666, 223.26666666666668)"
+    },
+    {
+        "word": "DIDO",
+        "hex": "#D1D0",
+        "score": 1.3242857142857143,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
     },
     {
         "word": "DECEASES",
@@ -462,6 +1792,13 @@
         "background": "#B0D1CE"
     },
     {
+        "word": "BICE",
+        "hex": "#B1CE",
+        "score": 1.32,
+        "color": "white",
+        "background": "rgb(191.53333333333333, 32.86666666666666, 207.4)"
+    },
+    {
         "word": "ADOBES",
         "hex": "#AD0BE5",
         "score": 1.3142857142857143,
@@ -476,11 +1813,53 @@
         "background": "#BA0BAB"
     },
     {
+        "word": "BES",
+        "hex": "#BE5",
+        "score": 1.3142857142857143,
+        "color": "black",
+        "background": "#BE5"
+    },
+    {
+        "word": "BIS",
+        "hex": "#B15",
+        "score": 1.3142857142857143,
+        "color": "white",
+        "background": "#B15"
+    },
+    {
+        "word": "CAFF",
+        "hex": "#CAFF",
+        "score": 1.3142857142857143,
+        "color": "black",
+        "background": "rgb(204, 170, 255)"
+    },
+    {
+        "word": "OBA",
+        "hex": "#0BA",
+        "score": 1.31,
+        "color": "black",
+        "background": "#0BA"
+    },
+    {
+        "word": "OBAS",
+        "hex": "#0BA5",
+        "score": 1.31,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 232.33333333333337, 226.66666666666669)"
+    },
+    {
         "word": "COOEES",
         "hex": "#C00EE5",
         "score": 1.302857142857143,
         "color": "white",
         "background": "#C00EE5"
+    },
+    {
+        "word": "BOAS",
+        "hex": "#B0A5",
+        "score": 1.302857142857143,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 226.66666666666669)"
     },
     {
         "word": "OFFSIDES",
@@ -518,11 +1897,39 @@
         "background": "#D055E5"
     },
     {
+        "word": "DOSS",
+        "hex": "#D055",
+        "score": 1.2971428571428572,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 170.00000000000003, 198.33333333333337)"
+    },
+    {
         "word": "IODIDE",
         "hex": "#10D1DE",
         "score": 1.29,
         "color": "black",
         "background": "#10D1DE"
+    },
+    {
+        "word": "IFF",
+        "hex": "#1FF",
+        "score": 1.29,
+        "color": "black",
+        "background": "#1FF"
+    },
+    {
+        "word": "BOFF",
+        "hex": "#B0FF",
+        "score": 1.29,
+        "color": "white",
+        "background": "rgb(187, 0, 255)"
+    },
+    {
+        "word": "FEEB",
+        "hex": "#FEEB",
+        "score": 1.29,
+        "color": "black",
+        "background": "rgb(255, 242.53333333333336, 242.53333333333336)"
     },
     {
         "word": "CASCADED",
@@ -544,6 +1951,34 @@
         "score": 1.2814285714285714,
         "color": "white",
         "background": "#D00DAD"
+    },
+    {
+        "word": "SAB",
+        "hex": "#5AB",
+        "score": 1.2814285714285714,
+        "color": "black",
+        "background": "#5AB"
+    },
+    {
+        "word": "EIDE",
+        "hex": "#E1DE",
+        "score": 1.2814285714285714,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 32.86666666666666, 223.26666666666668)"
+    },
+    {
+        "word": "IBIS",
+        "hex": "#1B15",
+        "score": 1.2814285714285714,
+        "color": "black",
+        "background": "rgb(175.66666666666669, 232.33333333333337, 175.66666666666669)"
+    },
+    {
+        "word": "SABS",
+        "hex": "#5AB5",
+        "score": 1.2814285714285714,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 226.66666666666669, 232.33333333333337)"
     },
     {
         "word": "ADOBOS",
@@ -579,6 +2014,20 @@
         "score": 1.2714285714285714,
         "color": "black",
         "background": "#FA5C1A"
+    },
+    {
+        "word": "BAFF",
+        "hex": "#BAFF",
+        "score": 1.2714285714285714,
+        "color": "black",
+        "background": "rgb(187, 170, 255)"
+    },
+    {
+        "word": "SADI",
+        "hex": "#5AD1",
+        "score": 1.2714285714285714,
+        "color": "black",
+        "background": "rgb(243.66666666666666, 249.33333333333334, 252.73333333333332)"
     },
     {
         "word": "OSSIFIES",
@@ -630,6 +2079,41 @@
         "background": "#F055A5"
     },
     {
+        "word": "AFF",
+        "hex": "#AFF",
+        "score": 1.26,
+        "color": "black",
+        "background": "#AFF"
+    },
+    {
+        "word": "ESS",
+        "hex": "#E55",
+        "score": 1.26,
+        "color": "black",
+        "background": "#E55"
+    },
+    {
+        "word": "OCA",
+        "hex": "#0CA",
+        "score": 1.26,
+        "color": "black",
+        "background": "#0CA"
+    },
+    {
+        "word": "CESS",
+        "hex": "#CE55",
+        "score": 1.26,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 249.33333333333337, 198.33333333333337)"
+    },
+    {
+        "word": "OCAS",
+        "hex": "#0CA5",
+        "score": 1.26,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 238.00000000000003, 226.66666666666669)"
+    },
+    {
         "word": "ABIDED",
         "hex": "#AB1DED",
         "score": 1.247142857142857,
@@ -649,6 +2133,48 @@
         "score": 1.247142857142857,
         "color": "white",
         "background": "#155E15"
+    },
+    {
+        "word": "FID",
+        "hex": "#F1D",
+        "score": 1.247142857142857,
+        "color": "black",
+        "background": "#F1D"
+    },
+    {
+        "word": "BIBB",
+        "hex": "#B1BB",
+        "score": 1.247142857142857,
+        "color": "black",
+        "background": "rgb(205.13333333333333, 80.46666666666668, 205.13333333333333)"
+    },
+    {
+        "word": "BIDI",
+        "hex": "#B1D1",
+        "score": 1.247142857142857,
+        "color": "black",
+        "background": "rgb(250.46666666666667, 239.13333333333333, 252.73333333333332)"
+    },
+    {
+        "word": "DACE",
+        "hex": "#DACE",
+        "score": 1.247142857142857,
+        "color": "black",
+        "background": "rgb(223.26666666666668, 175.66666666666666, 207.4)"
+    },
+    {
+        "word": "DOFF",
+        "hex": "#D0FF",
+        "score": 1.247142857142857,
+        "color": "black",
+        "background": "rgb(221, 0, 255)"
+    },
+    {
+        "word": "FIDS",
+        "hex": "#F1D5",
+        "score": 1.247142857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 175.66666666666669, 243.66666666666669)"
     },
     {
         "word": "SAFETIES",
@@ -684,6 +2210,48 @@
         "score": 1.2285714285714286,
         "color": "black",
         "background": "#F00D1E"
+    },
+    {
+        "word": "CIS",
+        "hex": "#C15",
+        "score": 1.2285714285714286,
+        "color": "white",
+        "background": "#C15"
+    },
+    {
+        "word": "ASEA",
+        "hex": "#A5EA",
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "rgb(198.33333333333334, 141.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "BAAS",
+        "hex": "#BAA5",
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 226.66666666666669, 226.66666666666669)"
+    },
+    {
+        "word": "COFF",
+        "hex": "#C0FF",
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "rgb(204, 0, 255)"
+    },
+    {
+        "word": "OSSA",
+        "hex": "#055A",
+        "score": 1.2285714285714286,
+        "color": "black",
+        "background": "rgb(85.00000000000001, 141.66666666666669, 141.66666666666669)"
+    },
+    {
+        "word": "SICE",
+        "hex": "#51CE",
+        "score": 1.2285714285714286,
+        "color": "white",
+        "background": "rgb(96.33333333333333, 32.86666666666666, 207.4)"
     },
     {
         "word": "IDIOTS",
@@ -747,6 +2315,13 @@
         "score": 1.122421875,
         "color": "black",
         "background": "rgb(207.40392156862745, 193.93333333333334, 175.0745098039216)"
+    },
+    {
+        "word": "GOOD",
+        "hex": "#600D",
+        "score": 1.1075892857142857,
+        "color": "white",
+        "background": "rgb(122.4, 33.99999999999999, 33.99999999999999)"
     },
     {
         "word": "DIABETES",
@@ -826,6 +2401,13 @@
         "background": "#AFFEC7"
     },
     {
+        "word": "GODS",
+        "hex": "#60D5",
+        "score": 1.061517857142857,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 170.00000000000003, 243.66666666666669)"
+    },
+    {
         "word": "DEFICITS",
         "hex": "#DEF1C175",
         "score": 1.0611718749999999,
@@ -896,6 +2478,13 @@
         "background": "rgb(253.23529411764707, 253.72549019607843, 251.7058823529412)"
     },
     {
+        "word": "BIGS",
+        "hex": "#B165",
+        "score": 1.0411607142857142,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 175.66666666666669, 204.00000000000003)"
+    },
+    {
         "word": "TEASES",
         "hex": "#7EA5E5",
         "score": 1.0406084656084658,
@@ -952,6 +2541,13 @@
         "background": "#B0061E"
     },
     {
+        "word": "BEST",
+        "hex": "#BE57",
+        "score": 1.0229464285714287,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 247.06666666666666, 175.66666666666666)"
+    },
+    {
         "word": "ASSETS",
         "hex": "#A55E75",
         "score": 1.0227513227513227,
@@ -971,6 +2567,20 @@
         "score": 1.0167989417989418,
         "color": "black",
         "background": "#D0D6E5"
+    },
+    {
+        "word": "BITS",
+        "hex": "#B175",
+        "score": 1.0154464285714284,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 175.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "SITS",
+        "hex": "#5175",
+        "score": 1.0100892857142858,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 175.66666666666669, 209.66666666666669)"
     },
     {
         "word": "COZIES",
@@ -2114,11 +3724,375 @@
         "background": "#50DDED"
     },
     {
+        "word": "AAS",
+        "hex": "#AA5",
+        "score": 1,
+        "color": "black",
+        "background": "#AA5"
+    },
+    {
+        "word": "BIO",
+        "hex": "#B10",
+        "score": 1,
+        "color": "white",
+        "background": "#B10"
+    },
+    {
+        "word": "CEE",
+        "hex": "#CEE",
+        "score": 1,
+        "color": "black",
+        "background": "#CEE"
+    },
+    {
+        "word": "DIF",
+        "hex": "#D1F",
+        "score": 1,
+        "color": "black",
+        "background": "#D1F"
+    },
+    {
+        "word": "EFS",
+        "hex": "#EF5",
+        "score": 1,
+        "color": "black",
+        "background": "#EF5"
+    },
+    {
+        "word": "FES",
+        "hex": "#FE5",
+        "score": 1,
+        "color": "black",
+        "background": "#FE5"
+    },
+    {
+        "word": "OBE",
+        "hex": "#0BE",
+        "score": 1,
+        "color": "black",
+        "background": "#0BE"
+    },
+    {
+        "word": "ODA",
+        "hex": "#0DA",
+        "score": 1,
+        "color": "black",
+        "background": "#0DA"
+    },
+    {
+        "word": "OSE",
+        "hex": "#05E",
+        "score": 1,
+        "color": "white",
+        "background": "#05E"
+    },
+    {
+        "word": "SIB",
+        "hex": "#51B",
+        "score": 1,
+        "color": "white",
+        "background": "#51B"
+    },
+    {
+        "word": "ABAS",
+        "hex": "#ABA5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 232.33333333333337, 226.66666666666669)"
+    },
+    {
+        "word": "ABBE",
+        "hex": "#ABBE",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 191.53333333333333, 191.53333333333333)"
+    },
+    {
+        "word": "ABOS",
+        "hex": "#AB05",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 232.33333333333337, 170.00000000000003)"
+    },
+    {
+        "word": "ACED",
+        "hex": "#ACED",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(181.33333333333334, 210.8, 240.26666666666668)"
+    },
+    {
+        "word": "ASCI",
+        "hex": "#A5C1",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(249.33333333333334, 243.66666666666666, 251.6)"
+    },
+    {
+        "word": "BIOS",
+        "hex": "#B105",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 175.66666666666669, 170.00000000000003)"
+    },
+    {
+        "word": "BISE",
+        "hex": "#B15E",
+        "score": 1,
+        "color": "white",
+        "background": "rgb(191.53333333333333, 32.86666666666666, 96.33333333333333)"
+    },
+    {
+        "word": "CAID",
+        "hex": "#CA1D",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(210.8, 181.33333333333334, 48.73333333333333)"
+    },
+    {
+        "word": "CECA",
+        "hex": "#CECA",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(221, 243.66666666666669, 221)"
+    },
+    {
+        "word": "CEDI",
+        "hex": "#CED1",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(251.6, 253.86666666666667, 252.73333333333332)"
+    },
+    {
+        "word": "CEES",
+        "hex": "#CEE5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 249.33333333333337, 249.33333333333337)"
+    },
+    {
+        "word": "CODS",
+        "hex": "#C0D5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 170.00000000000003, 243.66666666666669)"
+    },
+    {
+        "word": "COIF",
+        "hex": "#C01F",
+        "score": 1,
+        "color": "white",
+        "background": "rgb(204, 0, 17)"
+    },
+    {
+        "word": "COOF",
+        "hex": "#C00F",
+        "score": 1,
+        "color": "white",
+        "background": "rgb(204, 0, 0)"
+    },
+    {
+        "word": "COSS",
+        "hex": "#C055",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 170.00000000000003, 198.33333333333337)"
+    },
+    {
+        "word": "DAFF",
+        "hex": "#DAFF",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(221, 170, 255)"
+    },
+    {
+        "word": "DEFI",
+        "hex": "#DEF1",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(252.73333333333332, 253.86666666666667, 255)"
+    },
+    {
+        "word": "DIED",
+        "hex": "#D1ED",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(225.53333333333333, 48.73333333333333, 240.26666666666668)"
+    },
+    {
+        "word": "DIFS",
+        "hex": "#D1F5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 175.66666666666669, 255.00000000000003)"
+    },
+    {
+        "word": "EDDO",
+        "hex": "#EDD0",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "FEOD",
+        "hex": "#FE0D",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(255, 240.26666666666668, 33.99999999999999)"
+    },
+    {
+        "word": "FICE",
+        "hex": "#F1CE",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(255, 32.86666666666666, 207.4)"
+    },
+    {
+        "word": "FICO",
+        "hex": "#F1C0",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "FISC",
+        "hex": "#F15C",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(255, 64.6, 118.99999999999999)"
+    },
+    {
+        "word": "FOCI",
+        "hex": "#F0C1",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(255, 238, 251.6)"
+    },
+    {
+        "word": "ISBA",
+        "hex": "#15BA",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(96.33333333333334, 141.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "OBES",
+        "hex": "#0BE5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 232.33333333333337, 249.33333333333337)"
+    },
+    {
+        "word": "OBIA",
+        "hex": "#0B1A",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(85.00000000000001, 209.66666666666669, 96.33333333333334)"
+    },
+    {
+        "word": "OBIS",
+        "hex": "#0B15",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 232.33333333333337, 175.66666666666669)"
+    },
+    {
+        "word": "ODAS",
+        "hex": "#0DA5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 243.66666666666669, 226.66666666666669)"
+    },
+    {
+        "word": "ODEA",
+        "hex": "#0DEA",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(85.00000000000001, 232.33333333333331, 243.66666666666669)"
+    },
+    {
+        "word": "ODIC",
+        "hex": "#0D1C",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(50.999999999999986, 227.8, 64.6)"
+    },
+    {
+        "word": "OSES",
+        "hex": "#05E5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 198.33333333333337, 249.33333333333337)"
+    },
+    {
+        "word": "SABE",
+        "hex": "#5ABE",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(96.33333333333333, 175.66666666666666, 191.53333333333333)"
+    },
+    {
+        "word": "SCAD",
+        "hex": "#5CAD",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(107.66666666666666, 210.8, 181.33333333333334)"
+    },
+    {
+        "word": "SEIF",
+        "hex": "#5E1F",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(85, 238, 17)"
+    },
+    {
+        "word": "SIBB",
+        "hex": "#51BB",
+        "score": 1,
+        "color": "white",
+        "background": "rgb(130.33333333333334, 80.46666666666668, 205.13333333333333)"
+    },
+    {
+        "word": "SIBS",
+        "hex": "#51B5",
+        "score": 1,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 175.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "SOBA",
+        "hex": "#50BA",
+        "score": 1,
+        "color": "white",
+        "background": "rgb(141.66666666666669, 85.00000000000001, 209.66666666666669)"
+    },
+    {
+        "word": "SOCA",
+        "hex": "#50CA",
+        "score": 1,
+        "color": "white",
+        "background": "rgb(141.66666666666669, 85.00000000000001, 221)"
+    },
+    {
         "word": "ASCETICS",
         "hex": "#A5CE71C5",
         "score": 0.997421875,
         "color": "black",
         "background": "rgb(185.47058823529412, 217.1450980392157, 145.29803921568626)"
+    },
+    {
+        "word": "GOES",
+        "hex": "#60E5",
+        "score": 0.9929464285714287,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 170.00000000000003, 249.33333333333337)"
+    },
+    {
+        "word": "SETS",
+        "hex": "#5E75",
+        "score": 0.9918750000000001,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 249.33333333333337, 209.66666666666669)"
     },
     {
         "word": "DEFECATE",
@@ -2184,11 +4158,32 @@
         "background": "rgb(240.12941176470588, 254.07058823529414, 202.9529411764706)"
     },
     {
+        "word": "FACT",
+        "hex": "#FAC7",
+        "score": 0.9779464285714287,
+        "color": "black",
+        "background": "rgb(255, 215.33333333333331, 231.2)"
+    },
+    {
         "word": "SCIATICS",
         "hex": "#5C1A71C5",
         "score": 0.9736718750000001,
         "color": "white",
         "background": "rgb(129.07450980392156, 78.08627450980391, 145.29803921568626)"
+    },
+    {
+        "word": "BEAT",
+        "hex": "#BEA7",
+        "score": 0.9736607142857143,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 247.06666666666666, 215.33333333333331)"
+    },
+    {
+        "word": "FAST",
+        "hex": "#FA57",
+        "score": 0.9736607142857143,
+        "color": "black",
+        "background": "rgb(255, 215.33333333333331, 175.66666666666666)"
     },
     {
         "word": "DECEIT",
@@ -2226,11 +4221,25 @@
         "background": "rgb(213.49411764705883, 232.27058823529413, 228.81176470588235)"
     },
     {
+        "word": "BETS",
+        "hex": "#BE75",
+        "score": 0.9672321428571429,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 249.33333333333337, 209.66666666666669)"
+    },
+    {
         "word": "ODDITIES",
         "hex": "#0DD171E5",
         "score": 0.964921875,
         "color": "black",
         "background": "rgb(37.674509803921566, 213.69019607843137, 127.47843137254901)"
+    },
+    {
+        "word": "AGES",
+        "hex": "#A6E5",
+        "score": 0.9640178571428571,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 204.00000000000003, 249.33333333333337)"
     },
     {
         "word": "TABOOS",
@@ -2254,6 +4263,13 @@
         "background": "#7EA5ED"
     },
     {
+        "word": "FEET",
+        "hex": "#FEE7",
+        "score": 0.961875,
+        "color": "black",
+        "background": "rgb(255, 247.06666666666666, 247.06666666666666)"
+    },
+    {
         "word": "BEIGES",
         "hex": "#BE16E5",
         "score": 0.960846560846561,
@@ -2268,6 +4284,13 @@
         "background": "#D05A6E"
     },
     {
+        "word": "DATE",
+        "hex": "#DA7E",
+        "score": 0.9575892857142858,
+        "color": "black",
+        "background": "rgb(223.26666666666668, 175.66666666666666, 128.06666666666666)"
+    },
+    {
         "word": "BOASTS",
         "hex": "#B0A575",
         "score": 0.9572751322751324,
@@ -2275,11 +4298,32 @@
         "background": "#B0A575"
     },
     {
+        "word": "TEAS",
+        "hex": "#7EA5",
+        "score": 0.9511607142857144,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 249.33333333333337, 226.66666666666669)"
+    },
+    {
+        "word": "BOAT",
+        "hex": "#B0A7",
+        "score": 0.9500892857142856,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 136, 215.33333333333331)"
+    },
+    {
         "word": "ABBOTS",
         "hex": "#ABB075",
         "score": 0.9477513227513229,
         "color": "black",
         "background": "#ABB075"
+    },
+    {
+        "word": "SEAT",
+        "hex": "#5EA7",
+        "score": 0.9468750000000001,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 247.06666666666666, 215.33333333333331)"
     },
     {
         "word": "FIESTA",
@@ -2296,11 +4340,39 @@
         "background": "#5AD157"
     },
     {
+        "word": "CATS",
+        "hex": "#CA75",
+        "score": 0.939375,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "FOOT",
+        "hex": "#F007",
+        "score": 0.9383035714285715,
+        "color": "black",
+        "background": "rgb(255, 136, 136)"
+    },
+    {
+        "word": "DOGS",
+        "hex": "#D065",
+        "score": 0.9350892857142856,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 170.00000000000003, 204.00000000000003)"
+    },
+    {
         "word": "COATED",
         "hex": "#C0A7ED",
         "score": 0.9346560846560847,
         "color": "black",
         "background": "#C0A7ED"
+    },
+    {
+        "word": "FITS",
+        "hex": "#F175",
+        "score": 0.9308035714285714,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 175.66666666666669, 209.66666666666669)"
     },
     {
         "word": "CASTOFFS",
@@ -2324,6 +4396,13 @@
         "background": "#71D1ED"
     },
     {
+        "word": "COST",
+        "hex": "#C057",
+        "score": 0.9286607142857143,
+        "color": "black",
+        "background": "rgb(231.2, 136, 175.66666666666666)"
+    },
+    {
         "word": "BASTES",
         "hex": "#BA57E5",
         "score": 0.9275132275132277,
@@ -2336,6 +4415,20 @@
         "score": 0.9275132275132277,
         "color": "black",
         "background": "#57EAD5"
+    },
+    {
+        "word": "GOS",
+        "hex": "#605",
+        "score": 0.9267724867724869,
+        "color": "white",
+        "background": "#605"
+    },
+    {
+        "word": "EAST",
+        "hex": "#EA57",
+        "score": 0.9265178571428572,
+        "color": "black",
+        "background": "rgb(247.06666666666666, 215.33333333333331, 175.66666666666666)"
     },
     {
         "word": "FOOTED",
@@ -2359,6 +4452,13 @@
         "background": "rgb(212.79215686274512, 125.68235294117648, 180.46274509803922)"
     },
     {
+        "word": "SIZE",
+        "hex": "#512E",
+        "score": 0.9233035714285714,
+        "color": "white",
+        "background": "rgb(96.33333333333333, 32.86666666666666, 48.733333333333334)"
+    },
+    {
         "word": "OFFSET",
         "hex": "#0FF5E7",
         "score": 0.9215608465608466,
@@ -2373,11 +4473,25 @@
         "background": "#5EDA7E"
     },
     {
+        "word": "BEGS",
+        "hex": "#BE65",
+        "score": 0.9200892857142857,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 249.33333333333337, 204.00000000000003)"
+    },
+    {
         "word": "TOFFEE",
         "hex": "#70FFEE",
         "score": 0.9179894179894181,
         "color": "black",
         "background": "#70FFEE"
+    },
+    {
+        "word": "BITE",
+        "hex": "#B17E",
+        "score": 0.9179464285714286,
+        "color": "white",
+        "background": "rgb(191.53333333333333, 32.86666666666666, 128.06666666666666)"
     },
     {
         "word": "DISTAFFS",
@@ -2394,6 +4508,20 @@
         "background": "rgb(210.9019607843137, 226.50588235294117, 167.48235294117646)"
     },
     {
+        "word": "FATE",
+        "hex": "#FA7E",
+        "score": 0.9136607142857143,
+        "color": "black",
+        "background": "rgb(255, 175.66666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "TIES",
+        "hex": "#71E5",
+        "score": 0.9125892857142858,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 175.66666666666669, 249.33333333333337)"
+    },
+    {
         "word": "BOOTED",
         "hex": "#B007ED",
         "score": 0.9120370370370372,
@@ -2408,11 +4536,25 @@
         "background": "#71B1A5"
     },
     {
+        "word": "SOFT",
+        "hex": "#50F7",
+        "score": 0.9115178571428573,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 136, 255)"
+    },
+    {
         "word": "SIESTA",
         "hex": "#51E57A",
         "score": 0.9096560846560847,
         "color": "black",
         "background": "#51E57A"
+    },
+    {
+        "word": "ATES",
+        "hex": "#A7E5",
+        "score": 0.9093749999999999,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 209.66666666666669, 249.33333333333337)"
     },
     {
         "word": "DESIST",
@@ -2443,11 +4585,32 @@
         "background": "rgb(250.82352941176472, 208.2235294117647, 42.83529411764705)"
     },
     {
+        "word": "SITE",
+        "hex": "#517E",
+        "score": 0.9050892857142856,
+        "color": "white",
+        "background": "rgb(96.33333333333333, 32.86666666666666, 128.06666666666666)"
+    },
+    {
         "word": "DEBITS",
         "hex": "#DEB175",
         "score": 0.9037037037037038,
         "color": "black",
         "background": "#DEB175"
+    },
+    {
+        "word": "COAT",
+        "hex": "#C0A7",
+        "score": 0.8997321428571428,
+        "color": "black",
+        "background": "rgb(231.2, 136, 215.33333333333331)"
+    },
+    {
+        "word": "DEBT",
+        "hex": "#DEB7",
+        "score": 0.8997321428571428,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 247.06666666666666, 223.26666666666665)"
     },
     {
         "word": "BIDETS",
@@ -2469,6 +4632,34 @@
         "score": 0.898941798941799,
         "color": "black",
         "background": "#50F71E"
+    },
+    {
+        "word": "BAGS",
+        "hex": "#BA65",
+        "score": 0.8986607142857143,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 226.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "CAST",
+        "hex": "#CA57",
+        "score": 0.8922321428571429,
+        "color": "black",
+        "background": "rgb(231.2, 215.33333333333331, 175.66666666666666)"
+    },
+    {
+        "word": "EDGE",
+        "hex": "#ED6E",
+        "score": 0.8911607142857143,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 223.26666666666668, 112.2)"
+    },
+    {
+        "word": "TIED",
+        "hex": "#71ED",
+        "score": 0.8911607142857143,
+        "color": "white",
+        "background": "rgb(137.13333333333333, 48.73333333333333, 240.26666666666668)"
     },
     {
         "word": "DAGOES",
@@ -2506,6 +4697,20 @@
         "background": "rgb(239.078431372549, 228.42745098039217, 252.1450980392157)"
     },
     {
+        "word": "DATA",
+        "hex": "#DA7A",
+        "score": 0.8847321428571429,
+        "color": "black",
+        "background": "rgb(232.33333333333331, 198.33333333333334, 164.33333333333334)"
+    },
+    {
+        "word": "TOO",
+        "hex": "#700",
+        "score": 0.883915343915344,
+        "color": "white",
+        "background": "#700"
+    },
+    {
         "word": "STAFFS",
         "hex": "#57AFF5",
         "score": 0.8834656084656086,
@@ -2534,6 +4739,20 @@
         "background": "#ADA6E5"
     },
     {
+        "word": "TEDS",
+        "hex": "#7ED5",
+        "score": 0.8793749999999999,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 249.33333333333337, 243.66666666666669)"
+    },
+    {
+        "word": "DIET",
+        "hex": "#D1E7",
+        "score": 0.8708035714285716,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 143.93333333333334, 247.06666666666666)"
+    },
+    {
         "word": "BESETS",
         "hex": "#BE5E75",
         "score": 0.8703703703703705,
@@ -2555,6 +4774,34 @@
         "background": "rgb(98.85882352941175, 235.4823529411765, 212.24705882352941)"
     },
     {
+        "word": "ACTS",
+        "hex": "#AC75",
+        "score": 0.8686607142857142,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 238.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "CAGE",
+        "hex": "#CA6E",
+        "score": 0.8654464285714285,
+        "color": "black",
+        "background": "rgb(207.4, 175.66666666666666, 112.2)"
+    },
+    {
+        "word": "EATS",
+        "hex": "#EA75",
+        "score": 0.8654464285714285,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "GOD",
+        "hex": "#60D",
+        "score": 0.864867724867725,
+        "color": "white",
+        "background": "#60D"
+    },
+    {
         "word": "COOTIE",
         "hex": "#C0071E",
         "score": 0.8644179894179895,
@@ -2567,6 +4814,13 @@
         "score": 0.8644179894179895,
         "color": "black",
         "background": "#DAC017"
+    },
+    {
+        "word": "GEES",
+        "hex": "#6EE5",
+        "score": 0.8643749999999999,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 249.33333333333337, 249.33333333333337)"
     },
     {
         "word": "ABATES",
@@ -2604,6 +4858,34 @@
         "background": "#5C071A"
     },
     {
+        "word": "FAGS",
+        "hex": "#FA65",
+        "score": 0.859017857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 226.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "ZOOS",
+        "hex": "#2005",
+        "score": 0.8558035714285714,
+        "color": "black",
+        "background": "rgb(181.33333333333337, 170.00000000000003, 170.00000000000003)"
+    },
+    {
+        "word": "STAB",
+        "hex": "#57AB",
+        "score": 0.8547321428571428,
+        "color": "black",
+        "background": "rgb(130.33333333333334, 155.26666666666668, 192.66666666666669)"
+    },
+    {
+        "word": "FIST",
+        "hex": "#F157",
+        "score": 0.8525892857142857,
+        "color": "black",
+        "background": "rgb(255, 143.93333333333334, 175.66666666666666)"
+    },
+    {
         "word": "BASSET",
         "hex": "#BA55E7",
         "score": 0.8525132275132277,
@@ -2625,6 +4907,27 @@
         "background": "#B0071E"
     },
     {
+        "word": "TOES",
+        "hex": "#70E5",
+        "score": 0.8515178571428572,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 170.00000000000003, 249.33333333333337)"
+    },
+    {
+        "word": "BAIT",
+        "hex": "#BA17",
+        "score": 0.849375,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 215.33333333333331, 143.93333333333334)"
+    },
+    {
+        "word": "BOOT",
+        "hex": "#B007",
+        "score": 0.849375,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 136, 136)"
+    },
+    {
         "word": "FOOTAGES",
         "hex": "#F007A6E5",
         "score": 0.8483035714285714,
@@ -2632,11 +4935,25 @@
         "background": "rgb(241.52941176470588, 32.28627450980392, 175.0745098039216)"
     },
     {
+        "word": "BIG",
+        "hex": "#B16",
+        "score": 0.846772486772487,
+        "color": "white",
+        "background": "#B16"
+    },
+    {
         "word": "ADAGIO",
         "hex": "#ADA610",
         "score": 0.8453703703703704,
         "color": "black",
         "background": "#ADA610"
+    },
+    {
+        "word": "TOSS",
+        "hex": "#7055",
+        "score": 0.8450892857142858,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 170.00000000000003, 198.33333333333337)"
     },
     {
         "word": "SCOTTIES",
@@ -2653,11 +4970,39 @@
         "background": "#5ED6E5"
     },
     {
+        "word": "DOTS",
+        "hex": "#D075",
+        "score": 0.8386607142857142,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 170.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "FOGS",
+        "hex": "#F065",
+        "score": 0.8375892857142857,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 170.00000000000003, 204.00000000000003)"
+    },
+    {
         "word": "GAFFES",
         "hex": "#6AFFE5",
         "score": 0.8370370370370371,
         "color": "black",
         "background": "#6AFFE5"
+    },
+    {
+        "word": "AGED",
+        "hex": "#A6ED",
+        "score": 0.8365178571428572,
+        "color": "black",
+        "background": "rgb(181.33333333333334, 122.4, 240.26666666666668)"
+    },
+    {
+        "word": "TIDE",
+        "hex": "#71DE",
+        "score": 0.8365178571428572,
+        "color": "white",
+        "background": "rgb(128.06666666666666, 32.86666666666666, 223.26666666666668)"
     },
     {
         "word": "ABATED",
@@ -2702,11 +5047,67 @@
         "background": "#5AB075"
     },
     {
+        "word": "BIT",
+        "hex": "#B17",
+        "score": 0.823915343915344,
+        "color": "white",
+        "background": "#B17"
+    },
+    {
+        "word": "EAT",
+        "hex": "#EA7",
+        "score": 0.823915343915344,
+        "color": "black",
+        "background": "#EA7"
+    },
+    {
+        "word": "GOAS",
+        "hex": "#60A5",
+        "score": 0.8215178571428572,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 170.00000000000003, 226.66666666666669)"
+    },
+    {
         "word": "FOISTS",
         "hex": "#F01575",
         "score": 0.8203703703703704,
         "color": "black",
         "background": "#F01575"
+    },
+    {
+        "word": "SIT",
+        "hex": "#517",
+        "score": 0.8191534391534393,
+        "color": "white",
+        "background": "#517"
+    },
+    {
+        "word": "TABS",
+        "hex": "#7AB5",
+        "score": 0.8183035714285714,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 226.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "AGO",
+        "hex": "#A60",
+        "score": 0.8172486772486772,
+        "color": "black",
+        "background": "#A60"
+    },
+    {
+        "word": "BATS",
+        "hex": "#BA75",
+        "score": 0.8150892857142857,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "BETA",
+        "hex": "#BE7A",
+        "score": 0.8150892857142857,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 243.66666666666669, 164.33333333333334)"
     },
     {
         "word": "BIOTIC",
@@ -2730,6 +5131,20 @@
         "background": "#60B1E5"
     },
     {
+        "word": "ITS",
+        "hex": "#175",
+        "score": 0.8124867724867725,
+        "color": "white",
+        "background": "#175"
+    },
+    {
+        "word": "TOAD",
+        "hex": "#70AD",
+        "score": 0.8108035714285715,
+        "color": "white",
+        "background": "rgb(137.13333333333333, 33.99999999999999, 181.33333333333334)"
+    },
+    {
         "word": "FOGIES",
         "hex": "#F061E5",
         "score": 0.80489417989418,
@@ -2751,11 +5166,53 @@
         "background": "#2EBEC5"
     },
     {
+        "word": "DOG",
+        "hex": "#D06",
+        "score": 0.8048677248677248,
+        "color": "white",
+        "background": "#D06"
+    },
+    {
         "word": "DETECTED",
         "hex": "#DE7EC7ED",
         "score": 0.8033035714285713,
         "color": "black",
         "background": "rgb(224.3294117647059, 135.10588235294117, 202.9529411764706)"
+    },
+    {
+        "word": "SET",
+        "hex": "#5E7",
+        "score": 0.802962962962963,
+        "color": "black",
+        "background": "#5E7"
+    },
+    {
+        "word": "EDIT",
+        "hex": "#ED17",
+        "score": 0.8022321428571428,
+        "color": "black",
+        "background": "rgb(247.06666666666666, 239.13333333333333, 143.93333333333334)"
+    },
+    {
+        "word": "TADS",
+        "hex": "#7AD5",
+        "score": 0.8022321428571428,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 226.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "GOOS",
+        "hex": "#6005",
+        "score": 0.7979464285714285,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 170.00000000000003, 170.00000000000003)"
+    },
+    {
+        "word": "TACO",
+        "hex": "#7AC0",
+        "score": 0.796875,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
     },
     {
         "word": "ACCOST",
@@ -2800,6 +5257,27 @@
         "background": "rgb(183.8235294117647, 220.921568627451, 197.62745098039215)"
     },
     {
+        "word": "DIGS",
+        "hex": "#D165",
+        "score": 0.7883035714285713,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 175.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "SAGE",
+        "hex": "#5A6E",
+        "score": 0.7861607142857143,
+        "color": "black",
+        "background": "rgb(96.33333333333333, 175.66666666666666, 112.2)"
+    },
+    {
+        "word": "SCOT",
+        "hex": "#5C07",
+        "score": 0.7850892857142858,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 231.2, 136)"
+    },
+    {
         "word": "BEDSIT",
         "hex": "#BED517",
         "score": 0.7846560846560847,
@@ -2814,11 +5292,88 @@
         "background": "#57ADE5"
     },
     {
+        "word": "DAFT",
+        "hex": "#DAF7",
+        "score": 0.7840178571428571,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 215.33333333333331, 255)"
+    },
+    {
+        "word": "TICS",
+        "hex": "#71C5",
+        "score": 0.7829464285714285,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 175.66666666666669, 238.00000000000003)"
+    },
+    {
+        "word": "BET",
+        "hex": "#BE7",
+        "score": 0.7810582010582011,
+        "color": "black",
+        "background": "#BE7"
+    },
+    {
+        "word": "COTS",
+        "hex": "#C075",
+        "score": 0.7808035714285715,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 170.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "TODS",
+        "hex": "#70D5",
+        "score": 0.7797321428571429,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 170.00000000000003, 243.66666666666669)"
+    },
+    {
+        "word": "AGE",
+        "hex": "#A6E",
+        "score": 0.7782010582010581,
+        "color": "black",
+        "background": "#A6E"
+    },
+    {
         "word": "DICTATES",
         "hex": "#D1C7A7E5",
         "score": 0.7765178571428571,
         "color": "black",
         "background": "rgb(213.69019607843137, 204.70980392156864, 175.97254901960784)"
+    },
+    {
+        "word": "BOGS",
+        "hex": "#B065",
+        "score": 0.7765178571428571,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 204.00000000000003)"
+    },
+    {
+        "word": "ACT",
+        "hex": "#AC7",
+        "score": 0.7743915343915344,
+        "color": "black",
+        "background": "#AC7"
+    },
+    {
+        "word": "BAG",
+        "hex": "#BA6",
+        "score": 0.7743915343915344,
+        "color": "black",
+        "background": "#BA6"
+    },
+    {
+        "word": "SECT",
+        "hex": "#5EC7",
+        "score": 0.774375,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 247.06666666666666, 231.2)"
+    },
+    {
+        "word": "FEST",
+        "hex": "#FE57",
+        "score": 0.7722321428571428,
+        "color": "black",
+        "background": "rgb(255, 247.06666666666666, 175.66666666666666)"
     },
     {
         "word": "BAIZES",
@@ -2856,6 +5411,13 @@
         "background": "#7A55E5"
     },
     {
+        "word": "GOOF",
+        "hex": "#600F",
+        "score": 0.7690178571428572,
+        "color": "white",
+        "background": "rgb(102, 0, 0)"
+    },
+    {
         "word": "ECSTATIC",
         "hex": "#EC57A71C",
         "score": 0.7679464285714285,
@@ -2863,11 +5425,81 @@
         "background": "rgb(252.91372549019607, 236.5529411764706, 245.3372549019608)"
     },
     {
+        "word": "TEA",
+        "hex": "#7EA",
+        "score": 0.7667724867724869,
+        "color": "black",
+        "background": "#7EA"
+    },
+    {
+        "word": "SAGA",
+        "hex": "#5A6A",
+        "score": 0.764732142857143,
+        "color": "black",
+        "background": "rgb(141.66666666666669, 198.33333333333334, 153)"
+    },
+    {
         "word": "BIGFOOTS",
         "hex": "#B16F0075",
         "score": 0.7636607142857144,
         "color": "black",
         "background": "rgb(219.2117647058824, 188.92941176470592, 138.00000000000003)"
+    },
+    {
+        "word": "FIGS",
+        "hex": "#F165",
+        "score": 0.7636607142857144,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 175.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "FEAT",
+        "hex": "#FEA7",
+        "score": 0.7625892857142856,
+        "color": "black",
+        "background": "rgb(255, 247.06666666666666, 215.33333333333331)"
+    },
+    {
+        "word": "FAT",
+        "hex": "#FA7",
+        "score": 0.7620105820105821,
+        "color": "black",
+        "background": "#FA7"
+    },
+    {
+        "word": "TIFF",
+        "hex": "#71FF",
+        "score": 0.7593749999999999,
+        "color": "white",
+        "background": "rgb(119, 17, 255)"
+    },
+    {
+        "word": "FATS",
+        "hex": "#FA75",
+        "score": 0.7572321428571428,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "CAT",
+        "hex": "#CA7",
+        "score": 0.7562962962962965,
+        "color": "black",
+        "background": "#CA7"
+    },
+    {
+        "word": "BOZO",
+        "hex": "#B020",
+        "score": 0.7561607142857143,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "ZEES",
+        "hex": "#2EE5",
+        "score": 0.7550892857142858,
+        "color": "black",
+        "background": "rgb(181.33333333333337, 249.33333333333337, 249.33333333333337)"
     },
     {
         "word": "DICTATED",
@@ -2884,11 +5516,39 @@
         "background": "#7A57E5"
     },
     {
+        "word": "GAS",
+        "hex": "#6A5",
+        "score": 0.7505820105820106,
+        "color": "black",
+        "background": "#6A5"
+    },
+    {
         "word": "STAGES",
         "hex": "#57A6E5",
         "score": 0.7496296296296296,
         "color": "black",
         "background": "#57A6E5"
+    },
+    {
+        "word": "FIT",
+        "hex": "#F17",
+        "score": 0.7486772486772487,
+        "color": "black",
+        "background": "#F17"
+    },
+    {
+        "word": "FIAT",
+        "hex": "#F1A7",
+        "score": 0.7486607142857142,
+        "color": "black",
+        "background": "rgb(255, 143.93333333333334, 215.33333333333331)"
+    },
+    {
+        "word": "GEDS",
+        "hex": "#6ED5",
+        "score": 0.7454464285714286,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 249.33333333333337, 243.66666666666669)"
     },
     {
         "word": "STATES",
@@ -2898,11 +5558,193 @@
         "background": "#57A7E5"
     },
     {
+        "word": "DAGS",
+        "hex": "#DA65",
+        "score": 0.7422321428571429,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 226.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "DOZE",
+        "hex": "#D02E",
+        "score": 0.7411607142857143,
+        "color": "white",
+        "background": "rgb(223.26666666666668, 16.999999999999996, 48.733333333333334)"
+    },
+    {
+        "word": "DOST",
+        "hex": "#D057",
+        "score": 0.7400892857142858,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 136, 175.66666666666666)"
+    },
+    {
+        "word": "BEG",
+        "hex": "#BE6",
+        "score": 0.7391534391534392,
+        "color": "black",
+        "background": "#BE6"
+    },
+    {
+        "word": "ZEDS",
+        "hex": "#2ED5",
+        "score": 0.7390178571428572,
+        "color": "black",
+        "background": "rgb(181.33333333333337, 249.33333333333337, 243.66666666666669)"
+    },
+    {
+        "word": "EGOS",
+        "hex": "#E605",
+        "score": 0.7347321428571428,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 204.00000000000003, 170.00000000000003)"
+    },
+    {
+        "word": "DAZE",
+        "hex": "#DA2E",
+        "score": 0.7336607142857143,
+        "color": "black",
+        "background": "rgb(223.26666666666668, 175.66666666666666, 48.733333333333334)"
+    },
+    {
+        "word": "TIE",
+        "hex": "#71E",
+        "score": 0.7324867724867724,
+        "color": "white",
+        "background": "#71E"
+    },
+    {
+        "word": "CATE",
+        "hex": "#CA7E",
+        "score": 0.7315178571428571,
+        "color": "black",
+        "background": "rgb(207.4, 175.66666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "CITE",
+        "hex": "#C17E",
+        "score": 0.7315178571428571,
+        "color": "white",
+        "background": "rgb(207.4, 32.86666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "SCAT",
+        "hex": "#5CA7",
+        "score": 0.7315178571428571,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 231.2, 215.33333333333331)"
+    },
+    {
+        "word": "ATE",
+        "hex": "#A7E",
+        "score": 0.7296296296296297,
+        "color": "black",
+        "background": "#A7E"
+    },
+    {
+        "word": "SOOT",
+        "hex": "#5007",
+        "score": 0.729375,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 136, 136)"
+    },
+    {
+        "word": "DIG",
+        "hex": "#D16",
+        "score": 0.7286772486772487,
+        "color": "white",
+        "background": "#D16"
+    },
+    {
+        "word": "BEET",
+        "hex": "#BEE7",
+        "score": 0.7261607142857143,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 247.06666666666666, 247.06666666666666)"
+    },
+    {
+        "word": "COGS",
+        "hex": "#C065",
+        "score": 0.7250892857142858,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 170.00000000000003, 204.00000000000003)"
+    },
+    {
+        "word": "SAGS",
+        "hex": "#5A65",
+        "score": 0.7250892857142858,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 226.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "SAT",
+        "hex": "#5A7",
+        "score": 0.7229629629629629,
+        "color": "black",
+        "background": "#5A7"
+    },
+    {
+        "word": "GAFF",
+        "hex": "#6AFF",
+        "score": 0.7208035714285714,
+        "color": "black",
+        "background": "rgb(102, 170, 255)"
+    },
+    {
         "word": "TOASTS",
         "hex": "#70A575",
         "score": 0.7162962962962964,
         "color": "black",
         "background": "#70A575"
+    },
+    {
+        "word": "DOGE",
+        "hex": "#D06E",
+        "score": 0.7133035714285714,
+        "color": "white",
+        "background": "rgb(223.26666666666668, 16.999999999999996, 112.2)"
+    },
+    {
+        "word": "IOTA",
+        "hex": "#107A",
+        "score": 0.7090178571428571,
+        "color": "white",
+        "background": "rgb(96.33333333333334, 85.00000000000001, 164.33333333333334)"
+    },
+    {
+        "word": "OOZE",
+        "hex": "#002E",
+        "score": 0.7090178571428571,
+        "color": "white",
+        "background": "rgb(16.999999999999996, 16.999999999999996, 48.733333333333334)"
+    },
+    {
+        "word": "CIGS",
+        "hex": "#C165",
+        "score": 0.7079464285714285,
+        "color": "black",
+        "background": "rgb(238.00000000000003, 175.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "TOED",
+        "hex": "#70ED",
+        "score": 0.706875,
+        "color": "white",
+        "background": "rgb(137.13333333333333, 33.99999999999999, 240.26666666666668)"
+    },
+    {
+        "word": "GIBS",
+        "hex": "#61B5",
+        "score": 0.7047321428571429,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 175.66666666666669, 232.33333333333337)"
+    },
+    {
+        "word": "SIFT",
+        "hex": "#51F7",
+        "score": 0.7036607142857143,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 143.93333333333334, 255)"
     },
     {
         "word": "ESTATE",
@@ -2912,11 +5754,46 @@
         "background": "#E57A7E"
     },
     {
+        "word": "TED",
+        "hex": "#7ED",
+        "score": 0.7029629629629631,
+        "color": "black",
+        "background": "#7ED"
+    },
+    {
         "word": "BABBITTS",
         "hex": "#BABB1775",
         "score": 0.7025892857142857,
         "color": "black",
         "background": "rgb(223.34117647058827, 223.8, 148.55294117647063)"
+    },
+    {
+        "word": "COOT",
+        "hex": "#C007",
+        "score": 0.7004464285714286,
+        "color": "black",
+        "background": "rgb(231.2, 136, 136)"
+    },
+    {
+        "word": "DITS",
+        "hex": "#D175",
+        "score": 0.7004464285714286,
+        "color": "black",
+        "background": "rgb(243.66666666666669, 175.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "DAGO",
+        "hex": "#DA60",
+        "score": 0.699375,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "BAT",
+        "hex": "#BA7",
+        "score": 0.6991534391534392,
+        "color": "black",
+        "background": "#BA7"
     },
     {
         "word": "BESOTTED",
@@ -2926,11 +5803,67 @@
         "background": "rgb(194.58823529411765, 92.35294117647058, 128.6)"
     },
     {
+        "word": "DOTE",
+        "hex": "#D07E",
+        "score": 0.6972321428571429,
+        "color": "white",
+        "background": "rgb(223.26666666666668, 16.999999999999996, 128.06666666666666)"
+    },
+    {
+        "word": "FETE",
+        "hex": "#FE7E",
+        "score": 0.6972321428571429,
+        "color": "black",
+        "background": "rgb(255, 239.13333333333333, 128.06666666666666)"
+    },
+    {
+        "word": "GABS",
+        "hex": "#6AB5",
+        "score": 0.6972321428571429,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 226.66666666666669, 232.33333333333337)"
+    },
+    {
         "word": "OFFSTAGE",
         "hex": "#0FF57A6E",
         "score": 0.6961607142857142,
         "color": "black",
         "background": "rgb(151.47058823529412, 250.68627450980392, 197.62745098039215)"
+    },
+    {
+        "word": "BOTS",
+        "hex": "#B075",
+        "score": 0.691875,
+        "color": "black",
+        "background": "rgb(232.33333333333337, 170.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "TAOS",
+        "hex": "#7A05",
+        "score": 0.6897321428571429,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 226.66666666666669, 170.00000000000003)"
+    },
+    {
+        "word": "GEE",
+        "hex": "#6EE",
+        "score": 0.6896296296296297,
+        "color": "black",
+        "background": "#6EE"
+    },
+    {
+        "word": "FAG",
+        "hex": "#FA6",
+        "score": 0.684867724867725,
+        "color": "black",
+        "background": "#FA6"
+    },
+    {
+        "word": "TAE",
+        "hex": "#7AE",
+        "score": 0.6839153439153441,
+        "color": "black",
+        "background": "#7AE"
     },
     {
         "word": "EGOISTIC",
@@ -2947,6 +5880,27 @@
         "background": "rgb(121.1921568627451, 52.94117647058823, 127.47843137254901)"
     },
     {
+        "word": "GADS",
+        "hex": "#6AD5",
+        "score": 0.682232142857143,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 226.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "OATS",
+        "hex": "#0A75",
+        "score": 0.682232142857143,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "ZOO",
+        "hex": "#200",
+        "score": 0.6820105820105821,
+        "color": "white",
+        "background": "#200"
+    },
+    {
         "word": "TAFFETAS",
         "hex": "#7AFFE7A5",
         "score": 0.6790178571428571,
@@ -2954,11 +5908,25 @@
         "background": "rgb(168.94117647058823, 255, 239.4705882352941)"
     },
     {
+        "word": "TOE",
+        "hex": "#70E",
+        "score": 0.6782010582010581,
+        "color": "white",
+        "background": "#70E"
+    },
+    {
         "word": "TESTED",
         "hex": "#7E57ED",
         "score": 0.6772486772486773,
         "color": "white",
         "background": "#7E57ED"
+    },
+    {
+        "word": "ADIT",
+        "hex": "#AD17",
+        "score": 0.676875,
+        "color": "black",
+        "background": "rgb(215.33333333333331, 239.13333333333333, 143.93333333333334)"
     },
     {
         "word": "DETESTED",
@@ -2973,6 +5941,34 @@
         "score": 0.6747321428571429,
         "color": "black",
         "background": "rgb(232.27058823529413, 171.98823529411766, 210.52941176470588)"
+    },
+    {
+        "word": "BAST",
+        "hex": "#BA57",
+        "score": 0.6747321428571429,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 215.33333333333331, 175.66666666666666)"
+    },
+    {
+        "word": "GOBS",
+        "hex": "#60B5",
+        "score": 0.6715178571428572,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 170.00000000000003, 232.33333333333337)"
+    },
+    {
+        "word": "SATE",
+        "hex": "#5A7E",
+        "score": 0.6715178571428572,
+        "color": "black",
+        "background": "rgb(96.33333333333333, 175.66666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "EGO",
+        "hex": "#E60",
+        "score": 0.6705820105820107,
+        "color": "black",
+        "background": "#E60"
     },
     {
         "word": "ASSAGAIS",
@@ -3493,11 +6489,60 @@
         "background": "rgb(104.12941176470588, 236.14117647058825, 213.69019607843137)"
     },
     {
+        "word": "FAZE",
+        "hex": "#FA2E",
+        "score": 0.6683035714285714,
+        "color": "black",
+        "background": "rgb(255, 175.66666666666666, 48.733333333333334)"
+    },
+    {
+        "word": "TOFF",
+        "hex": "#70FF",
+        "score": 0.6683035714285714,
+        "color": "white",
+        "background": "rgb(119, 0, 255)"
+    },
+    {
+        "word": "DOT",
+        "hex": "#D07",
+        "score": 0.6667724867724869,
+        "color": "white",
+        "background": "#D07"
+    },
+    {
+        "word": "FOG",
+        "hex": "#F06",
+        "score": 0.6658201058201059,
+        "color": "black",
+        "background": "#F06"
+    },
+    {
         "word": "STACCATO",
         "hex": "#57ACCA70",
         "score": 0.6650892857142857,
         "color": "black",
         "background": "rgb(181.21176470588236, 218.5450980392157, 231.72156862745098)"
+    },
+    {
+        "word": "AITS",
+        "hex": "#A175",
+        "score": 0.6650892857142857,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 175.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "FETA",
+        "hex": "#FE7A",
+        "score": 0.6650892857142857,
+        "color": "black",
+        "background": "rgb(255, 243.66666666666669, 164.33333333333334)"
+    },
+    {
+        "word": "DEFT",
+        "hex": "#DEF7",
+        "score": 0.661875,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 247.06666666666666, 255)"
     },
     {
         "word": "STATIC",
@@ -3521,11 +6566,53 @@
         "background": "#61F7ED"
     },
     {
+        "word": "BATE",
+        "hex": "#BA7E",
+        "score": 0.654375,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 175.66666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "COTE",
+        "hex": "#C07E",
+        "score": 0.654375,
+        "color": "white",
+        "background": "rgb(207.4, 16.999999999999996, 128.06666666666666)"
+    },
+    {
+        "word": "GOAD",
+        "hex": "#60AD",
+        "score": 0.654375,
+        "color": "white",
+        "background": "rgb(122.4, 33.99999999999999, 181.33333333333334)"
+    },
+    {
+        "word": "GOA",
+        "hex": "#60A",
+        "score": 0.6515343915343915,
+        "color": "white",
+        "background": "#60A"
+    },
+    {
         "word": "ATTICS",
         "hex": "#A771C5",
         "score": 0.6505820105820107,
         "color": "black",
         "background": "#A771C5"
+    },
+    {
+        "word": "GIES",
+        "hex": "#61E5",
+        "score": 0.6490178571428572,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 175.66666666666669, 249.33333333333337)"
+    },
+    {
+        "word": "TAB",
+        "hex": "#7AB",
+        "score": 0.6486772486772487,
+        "color": "black",
+        "background": "#7AB"
     },
     {
         "word": "SATIATED",
@@ -3535,11 +6622,39 @@
         "background": "rgb(101.64705882352942, 123.02352941176471, 173.21176470588236)"
     },
     {
+        "word": "DITA",
+        "hex": "#D17A",
+        "score": 0.6447321428571429,
+        "color": "black",
+        "background": "rgb(232.33333333333331, 96.33333333333334, 164.33333333333334)"
+    },
+    {
         "word": "DETECT",
         "hex": "#DE7EC7",
         "score": 0.643915343915344,
         "color": "black",
         "background": "#DE7EC7"
+    },
+    {
+        "word": "TIS",
+        "hex": "#715",
+        "score": 0.642010582010582,
+        "color": "white",
+        "background": "#715"
+    },
+    {
+        "word": "OBIT",
+        "hex": "#0B17",
+        "score": 0.639375,
+        "color": "black",
+        "background": "rgb(136, 223.26666666666665, 143.93333333333334)"
+    },
+    {
+        "word": "TEES",
+        "hex": "#7EE5",
+        "score": 0.639375,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 249.33333333333337, 249.33333333333337)"
     },
     {
         "word": "STATED",
@@ -3549,11 +6664,67 @@
         "background": "#57A7ED"
     },
     {
+        "word": "TAO",
+        "hex": "#7A0",
+        "score": 0.6353439153439154,
+        "color": "black",
+        "background": "#7A0"
+    },
+    {
+        "word": "COZ",
+        "hex": "#C02",
+        "score": 0.6343915343915344,
+        "color": "white",
+        "background": "#C02"
+    },
+    {
+        "word": "TAD",
+        "hex": "#7AD",
+        "score": 0.6343915343915344,
+        "color": "black",
+        "background": "#7AD"
+    },
+    {
+        "word": "ABET",
+        "hex": "#ABE7",
+        "score": 0.6329464285714286,
+        "color": "black",
+        "background": "rgb(215.33333333333331, 223.26666666666665, 247.06666666666666)"
+    },
+    {
+        "word": "SCAG",
+        "hex": "#5CA6",
+        "score": 0.6329464285714286,
+        "color": "black",
+        "background": "rgb(187, 234.60000000000002, 221)"
+    },
+    {
+        "word": "SOTS",
+        "hex": "#5075",
+        "score": 0.6329464285714286,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 170.00000000000003, 209.66666666666669)"
+    },
+    {
         "word": "DOGGIE",
         "hex": "#D0661E",
         "score": 0.6324867724867725,
         "color": "black",
         "background": "#D0661E"
+    },
+    {
+        "word": "ETA",
+        "hex": "#E7A",
+        "score": 0.6315343915343916,
+        "color": "black",
+        "background": "#E7A"
+    },
+    {
+        "word": "GOO",
+        "hex": "#600",
+        "score": 0.6305820105820107,
+        "color": "white",
+        "background": "#600"
     },
     {
         "word": "STAGED",
@@ -3584,6 +6755,13 @@
         "background": "rgb(106.8235294117647, 127.47843137254901, 175.97254901960784)"
     },
     {
+        "word": "TEE",
+        "hex": "#7EE",
+        "score": 0.622962962962963,
+        "color": "black",
+        "background": "#7EE"
+    },
+    {
         "word": "BIGGIE",
         "hex": "#B1661E",
         "score": 0.6201058201058202,
@@ -3591,11 +6769,46 @@
         "background": "#B1661E"
     },
     {
+        "word": "TIC",
+        "hex": "#71C",
+        "score": 0.6172486772486773,
+        "color": "white",
+        "background": "#71C"
+    },
+    {
         "word": "TOCCATAS",
         "hex": "#70CCA7A5",
         "score": 0.6168750000000001,
         "color": "black",
         "background": "rgb(162.4705882352941, 222, 198.05882352941177)"
+    },
+    {
+        "word": "AGEE",
+        "hex": "#A6EE",
+        "score": 0.6168750000000001,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 112.2, 239.13333333333333)"
+    },
+    {
+        "word": "CIST",
+        "hex": "#C157",
+        "score": 0.6168750000000001,
+        "color": "black",
+        "background": "rgb(231.2, 143.93333333333334, 175.66666666666666)"
+    },
+    {
+        "word": "SAGO",
+        "hex": "#5A60",
+        "score": 0.6168750000000001,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "COT",
+        "hex": "#C07",
+        "score": 0.6153439153439154,
+        "color": "white",
+        "background": "#C07"
     },
     {
         "word": "DIGEST",
@@ -3617,6 +6830,55 @@
         "score": 0.6143915343915344,
         "color": "black",
         "background": "#7AC71C"
+    },
+    {
+        "word": "TOD",
+        "hex": "#70D",
+        "score": 0.6143915343915344,
+        "color": "white",
+        "background": "#70D"
+    },
+    {
+        "word": "BIZ",
+        "hex": "#B12",
+        "score": 0.6124867724867725,
+        "color": "white",
+        "background": "#B12"
+    },
+    {
+        "word": "BOG",
+        "hex": "#B06",
+        "score": 0.6115343915343916,
+        "color": "white",
+        "background": "#B06"
+    },
+    {
+        "word": "BOTA",
+        "hex": "#B07A",
+        "score": 0.6072321428571428,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 85.00000000000001, 164.33333333333334)"
+    },
+    {
+        "word": "EFTS",
+        "hex": "#EF75",
+        "score": 0.6072321428571428,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 255.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "FIG",
+        "hex": "#F16",
+        "score": 0.6001058201058201,
+        "color": "black",
+        "background": "#F16"
+    },
+    {
+        "word": "GETS",
+        "hex": "#6E75",
+        "score": 0.5957142857142856,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 249.33333333333337, 209.66666666666669)"
     },
     {
         "word": "BEFITTED",
@@ -3654,6 +6916,48 @@
         "background": "rgb(249.94901960784313, 252.36470588235295, 252.36470588235295)"
     },
     {
+        "word": "FETS",
+        "hex": "#FE75",
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(255.00000000000003, 249.33333333333337, 209.66666666666669)"
+    },
+    {
+        "word": "GIBE",
+        "hex": "#61BE",
+        "score": 0.5933035714285715,
+        "color": "white",
+        "background": "rgb(112.2, 32.86666666666666, 191.53333333333333)"
+    },
+    {
+        "word": "GOBO",
+        "hex": "#60B0",
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "SETA",
+        "hex": "#5E7A",
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(141.66666666666669, 243.66666666666669, 164.33333333333334)"
+    },
+    {
+        "word": "TASS",
+        "hex": "#7A55",
+        "score": 0.5933035714285715,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 226.66666666666669, 198.33333333333337)"
+    },
+    {
+        "word": "ZEE",
+        "hex": "#2EE",
+        "score": 0.5924867724867725,
+        "color": "black",
+        "background": "#2EE"
+    },
+    {
         "word": "DIGITS",
         "hex": "#D16175",
         "score": 0.5915343915343916,
@@ -3661,11 +6965,46 @@
         "background": "#D16175"
     },
     {
+        "word": "AFT",
+        "hex": "#AF7",
+        "score": 0.5915343915343916,
+        "color": "black",
+        "background": "#AF7"
+    },
+    {
+        "word": "GED",
+        "hex": "#6ED",
+        "score": 0.583915343915344,
+        "color": "black",
+        "background": "#6ED"
+    },
+    {
         "word": "DETEST",
         "hex": "#DE7E57",
         "score": 0.582962962962963,
         "color": "black",
         "background": "#DE7E57"
+    },
+    {
+        "word": "BOT",
+        "hex": "#B07",
+        "score": 0.5820105820105821,
+        "color": "white",
+        "background": "#B07"
+    },
+    {
+        "word": "DAG",
+        "hex": "#DA6",
+        "score": 0.5810582010582012,
+        "color": "black",
+        "background": "#DA6"
+    },
+    {
+        "word": "GOB",
+        "hex": "#60B",
+        "score": 0.5810582010582012,
+        "color": "white",
+        "background": "#60B"
     },
     {
         "word": "ABATIS",
@@ -4571,6 +7910,13 @@
         "background": "#2001D5"
     },
     {
+        "word": "ZED",
+        "hex": "#2ED",
+        "score": 0.5782010582010583,
+        "color": "black",
+        "background": "#2ED"
+    },
+    {
         "word": "COTTAGES",
         "hex": "#C077A6E5",
         "score": 0.5771763392857142,
@@ -4599,11 +7945,39 @@
         "background": "#F122E5"
     },
     {
+        "word": "FEZ",
+        "hex": "#FE2",
+        "score": 0.5724867724867725,
+        "color": "black",
+        "background": "#FE2"
+    },
+    {
         "word": "DOTTED",
         "hex": "#D077ED",
         "score": 0.5715343915343916,
         "color": "black",
         "background": "#D077ED"
+    },
+    {
+        "word": "AGA",
+        "hex": "#A6A",
+        "score": 0.5715343915343916,
+        "color": "black",
+        "background": "#A6A"
+    },
+    {
+        "word": "GAB",
+        "hex": "#6AB",
+        "score": 0.5715343915343916,
+        "color": "black",
+        "background": "#6AB"
+    },
+    {
+        "word": "AGS",
+        "hex": "#A65",
+        "score": 0.5686772486772488,
+        "color": "black",
+        "background": "#A65"
     },
     {
         "word": "BAGGAGES",
@@ -4618,6 +7992,27 @@
         "score": 0.5677248677248677,
         "color": "black",
         "background": "#60A7EE"
+    },
+    {
+        "word": "COG",
+        "hex": "#C06",
+        "score": 0.5658201058201059,
+        "color": "white",
+        "background": "#C06"
+    },
+    {
+        "word": "SAG",
+        "hex": "#5A6",
+        "score": 0.5658201058201059,
+        "color": "black",
+        "background": "#5A6"
+    },
+    {
+        "word": "OFT",
+        "hex": "#0F7",
+        "score": 0.5620105820105821,
+        "color": "black",
+        "background": "#0F7"
     },
     {
         "word": "STOOGE",
@@ -4641,11 +8036,25 @@
         "background": "#7E57E5"
     },
     {
+        "word": "CIG",
+        "hex": "#C16",
+        "score": 0.5505820105820106,
+        "color": "white",
+        "background": "#C16"
+    },
+    {
         "word": "TATTOOED",
         "hex": "#7A7700ED",
         "score": 0.5486049107142856,
         "color": "black",
         "background": "rgb(131.38823529411764, 128.6, 17.999999999999993)"
+    },
+    {
+        "word": "GIB",
+        "hex": "#61B",
+        "score": 0.5477248677248678,
+        "color": "white",
+        "background": "#61B"
     },
     {
         "word": "AGITATED",
@@ -4669,6 +8078,20 @@
         "background": "#D066ED"
     },
     {
+        "word": "DIT",
+        "hex": "#D17",
+        "score": 0.543915343915344,
+        "color": "white",
+        "background": "#D17"
+    },
+    {
+        "word": "TAS",
+        "hex": "#7A5",
+        "score": 0.5410582010582011,
+        "color": "black",
+        "background": "#7A5"
+    },
+    {
         "word": "FAGOTS",
         "hex": "#FA6075",
         "score": 0.5382010582010582,
@@ -4688,6 +8111,20 @@
         "score": 0.5296296296296298,
         "color": "black",
         "background": "#BE77A5"
+    },
+    {
+        "word": "GAD",
+        "hex": "#6AD",
+        "score": 0.5277248677248678,
+        "color": "black",
+        "background": "#6AD"
+    },
+    {
+        "word": "OAT",
+        "hex": "#0A7",
+        "score": 0.5277248677248678,
+        "color": "black",
+        "background": "#0A7"
     },
     {
         "word": "TSETSE",
@@ -4730,6 +8167,13 @@
         "score": 0.5124867724867725,
         "color": "black",
         "background": "#D166ED"
+    },
+    {
+        "word": "AIT",
+        "hex": "#A17",
+        "score": 0.5124867724867725,
+        "color": "white",
+        "background": "#A17"
     },
     {
         "word": "TIDBIT",
@@ -4795,6 +8239,13 @@
         "background": "#A6A7E5"
     },
     {
+        "word": "SOT",
+        "hex": "#507",
+        "score": 0.4839153439153439,
+        "color": "white",
+        "background": "#507"
+    },
+    {
         "word": "STOATS",
         "hex": "#570A75",
         "score": 0.47724867724867726,
@@ -4809,11 +8260,46 @@
         "background": "#57061E"
     },
     {
+        "word": "TEST",
+        "hex": "#7E57",
+        "score": 0.47500000000000003,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 247.06666666666666, 175.66666666666666)"
+    },
+    {
+        "word": "GIFT",
+        "hex": "#61F7",
+        "score": 0.4714285714285714,
+        "color": "black",
+        "background": "rgb(183.6, 143.93333333333334, 255)"
+    },
+    {
         "word": "FOGGIEST",
         "hex": "#F0661E57",
         "score": 0.4664620535714286,
         "color": "black",
         "background": "rgb(249.88235294117646, 202.8, 178.23529411764707)"
+    },
+    {
+        "word": "EFT",
+        "hex": "#EF7",
+        "score": 0.46105820105820106,
+        "color": "black",
+        "background": "#EF7"
+    },
+    {
+        "word": "GIE",
+        "hex": "#61E",
+        "score": 0.46105820105820106,
+        "color": "white",
+        "background": "#61E"
+    },
+    {
+        "word": "GATE",
+        "hex": "#6A7E",
+        "score": 0.45,
+        "color": "black",
+        "background": "rgb(112.2, 175.66666666666666, 128.06666666666666)"
     },
     {
         "word": "COGITO",
@@ -4835,6 +8321,20 @@
         "score": 0.4486772486772488,
         "color": "black",
         "background": "#71C7AC"
+    },
+    {
+        "word": "FET",
+        "hex": "#FE7",
+        "score": 0.4486772486772488,
+        "color": "black",
+        "background": "#FE7"
+    },
+    {
+        "word": "EGGS",
+        "hex": "#E665",
+        "score": 0.44857142857142857,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 204.00000000000003, 204.00000000000003)"
     },
     {
         "word": "BASSETTS",
@@ -5264,6 +8764,272 @@
         "background": "rgb(54.73725490196078, 44.85882352941176, 46.65490196078431)"
     },
     {
+        "word": "ACTA",
+        "hex": "#AC7A",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(198.33333333333334, 221, 164.33333333333334)"
+    },
+    {
+        "word": "ADZE",
+        "hex": "#AD2E",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 223.26666666666668, 48.733333333333334)"
+    },
+    {
+        "word": "AGAS",
+        "hex": "#A6A5",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(226.66666666666669, 204.00000000000003, 226.66666666666669)"
+    },
+    {
+        "word": "AGIO",
+        "hex": "#A610",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "BIOG",
+        "hex": "#B106",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(227.8, 159.8, 153)"
+    },
+    {
+        "word": "BIZE",
+        "hex": "#B12E",
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(191.53333333333333, 32.86666666666666, 48.733333333333334)"
+    },
+    {
+        "word": "CETE",
+        "hex": "#CE7E",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(207.4, 239.13333333333333, 128.06666666666666)"
+    },
+    {
+        "word": "COFT",
+        "hex": "#C0F7",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(231.2, 136, 255)"
+    },
+    {
+        "word": "DATO",
+        "hex": "#DA70",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "DEET",
+        "hex": "#DEE7",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 247.06666666666666, 247.06666666666666)"
+    },
+    {
+        "word": "DITE",
+        "hex": "#D17E",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(223.26666666666668, 32.86666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "DOAT",
+        "hex": "#D0A7",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 136, 215.33333333333331)"
+    },
+    {
+        "word": "DOIT",
+        "hex": "#D017",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(239.13333333333333, 136, 143.93333333333334)"
+    },
+    {
+        "word": "EGAD",
+        "hex": "#E6AD",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(240.26666666666668, 122.4, 181.33333333333334)"
+    },
+    {
+        "word": "EGIS",
+        "hex": "#E615",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 204.00000000000003, 175.66666666666669)"
+    },
+    {
+        "word": "ETAS",
+        "hex": "#E7A5",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(249.33333333333337, 209.66666666666669, 226.66666666666669)"
+    },
+    {
+        "word": "ETIC",
+        "hex": "#E71C",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(241.39999999999998, 146.2, 64.6)"
+    },
+    {
+        "word": "GADI",
+        "hex": "#6AD1",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(244.8, 249.33333333333334, 252.73333333333332)"
+    },
+    {
+        "word": "GAED",
+        "hex": "#6AED",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(122.4, 181.33333333333334, 240.26666666666668)"
+    },
+    {
+        "word": "GAES",
+        "hex": "#6AE5",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 226.66666666666669, 249.33333333333337)"
+    },
+    {
+        "word": "GEED",
+        "hex": "#6EED",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(122.4, 240.26666666666668, 240.26666666666668)"
+    },
+    {
+        "word": "GIDS",
+        "hex": "#61D5",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 175.66666666666669, 243.66666666666669)"
+    },
+    {
+        "word": "GIED",
+        "hex": "#61ED",
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(122.4, 48.73333333333333, 240.26666666666668)"
+    },
+    {
+        "word": "OAST",
+        "hex": "#0A57",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(136, 215.33333333333331, 175.66666666666666)"
+    },
+    {
+        "word": "OGEE",
+        "hex": "#06EE",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(16.999999999999996, 112.2, 239.13333333333333)"
+    },
+    {
+        "word": "OOTS",
+        "hex": "#0075",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(170.00000000000003, 170.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "OTIC",
+        "hex": "#071C",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(50.999999999999986, 146.2, 64.6)"
+    },
+    {
+        "word": "SATI",
+        "hex": "#5A71",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(243.66666666666666, 249.33333333333334, 245.93333333333334)"
+    },
+    {
+        "word": "SEGO",
+        "hex": "#5E60",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "SEGS",
+        "hex": "#5E65",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(198.33333333333337, 249.33333333333337, 204.00000000000003)"
+    },
+    {
+        "word": "STOA",
+        "hex": "#570A",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(141.66666666666669, 164.33333333333334, 85.00000000000001)"
+    },
+    {
+        "word": "STOB",
+        "hex": "#570B",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(130.33333333333334, 155.26666666666668, 68.00000000000001)"
+    },
+    {
+        "word": "TACE",
+        "hex": "#7ACE",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(128.06666666666666, 175.66666666666666, 207.4)"
+    },
+    {
+        "word": "TEED",
+        "hex": "#7EED",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(137.13333333333333, 240.26666666666668, 240.26666666666668)"
+    },
+    {
+        "word": "TEFF",
+        "hex": "#7EFF",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(119, 238, 255)"
+    },
+    {
+        "word": "TOEA",
+        "hex": "#70EA",
+        "score": 0.421875,
+        "color": "black",
+        "background": "rgb(164.33333333333334, 85.00000000000001, 243.66666666666669)"
+    },
+    {
+        "word": "ZOEA",
+        "hex": "#20EA",
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(107.66666666666669, 85.00000000000001, 243.66666666666669)"
+    },
+    {
+        "word": "ZOIC",
+        "hex": "#201C",
+        "score": 0.421875,
+        "color": "white",
+        "background": "rgb(78.19999999999999, 50.999999999999986, 64.6)"
+    },
+    {
         "word": "TATTOO",
         "hex": "#7A7700",
         "score": 0.4207142857142857,
@@ -5285,11 +9051,25 @@
         "background": "rgb(246.7019607843137, 226.49803921568628, 229.3843137254902)"
     },
     {
+        "word": "GOAT",
+        "hex": "#60A7",
+        "score": 0.4185714285714286,
+        "color": "black",
+        "background": "rgb(183.6, 136, 215.33333333333331)"
+    },
+    {
         "word": "FAGGOT",
         "hex": "#FA6607",
         "score": 0.41714285714285715,
         "color": "black",
         "background": "#FA6607"
+    },
+    {
+        "word": "GIGS",
+        "hex": "#6165",
+        "score": 0.4164285714285714,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 175.66666666666669, 204.00000000000003)"
     },
     {
         "word": "EGOTISTS",
@@ -5299,11 +9079,39 @@
         "background": "rgb(243.5294117647059, 141.2117647058824, 147.63529411764708)"
     },
     {
+        "word": "TAGS",
+        "hex": "#7A65",
+        "score": 0.4135714285714286,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 226.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "GEEZ",
+        "hex": "#6EE2",
+        "score": 0.4,
+        "color": "black",
+        "background": "rgb(234.6, 252.73333333333335, 252.73333333333335)"
+    },
+    {
         "word": "COGITATE",
         "hex": "#C0617A7E",
         "score": 0.3986049107142857,
         "color": "black",
         "background": "rgb(223.87058823529412, 176.9294117647059, 189.28235294117647)"
+    },
+    {
+        "word": "OTTO",
+        "hex": "#0770",
+        "score": 0.39785714285714285,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "GAZE",
+        "hex": "#6A2E",
+        "score": 0.3921428571428572,
+        "color": "black",
+        "background": "rgb(112.2, 175.66666666666666, 48.733333333333334)"
     },
     {
         "word": "GESTATES",
@@ -5313,11 +9121,39 @@
         "background": "rgb(124.7843137254902, 104.12941176470588, 175.97254901960784)"
     },
     {
+        "word": "TITS",
+        "hex": "#7175",
+        "score": 0.3821428571428572,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 175.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "GAGS",
+        "hex": "#6A65",
+        "score": 0.37785714285714284,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 226.66666666666669, 204.00000000000003)"
+    },
+    {
         "word": "GADGET",
         "hex": "#6AD6E7",
         "score": 0.375,
         "color": "black",
         "background": "#6AD6E7"
+    },
+    {
+        "word": "TATE",
+        "hex": "#7A7E",
+        "score": 0.36357142857142855,
+        "color": "black",
+        "background": "rgb(128.06666666666666, 175.66666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "STAG",
+        "hex": "#57A6",
+        "score": 0.35928571428571426,
+        "color": "black",
+        "background": "rgb(187, 200.6, 221)"
     },
     {
         "word": "TAGGED",
@@ -5327,6 +9163,139 @@
         "background": "#7A66ED"
     },
     {
+        "word": "GITS",
+        "hex": "#6175",
+        "score": 0.3557142857142857,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 175.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "GET",
+        "hex": "#6E7",
+        "score": 0.35084656084656085,
+        "color": "black",
+        "background": "#6E7"
+    },
+    {
+        "word": "STAT",
+        "hex": "#57A7",
+        "score": 0.35,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 191.53333333333333, 215.33333333333331)"
+    },
+    {
+        "word": "ZETA",
+        "hex": "#2E7A",
+        "score": 0.3492857142857143,
+        "color": "black",
+        "background": "rgb(107.66666666666669, 243.66666666666669, 164.33333333333334)"
+    },
+    {
+        "word": "TOOT",
+        "hex": "#7007",
+        "score": 0.34714285714285714,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 136, 136)"
+    },
+    {
+        "word": "GAGE",
+        "hex": "#6A6E",
+        "score": 0.34285714285714286,
+        "color": "black",
+        "background": "rgb(112.2, 175.66666666666666, 112.2)"
+    },
+    {
+        "word": "TATS",
+        "hex": "#7A75",
+        "score": 0.34285714285714286,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "GOT",
+        "hex": "#607",
+        "score": 0.34132275132275136,
+        "color": "white",
+        "background": "#607"
+    },
+    {
+        "word": "ZIGS",
+        "hex": "#2165",
+        "score": 0.3385714285714286,
+        "color": "black",
+        "background": "rgb(181.33333333333337, 175.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "TACT",
+        "hex": "#7AC7",
+        "score": 0.33785714285714286,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 215.33333333333331, 231.2)"
+    },
+    {
+        "word": "TOTS",
+        "hex": "#7075",
+        "score": 0.33285714285714285,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 170.00000000000003, 209.66666666666669)"
+    },
+    {
+        "word": "FIZZ",
+        "hex": "#F122",
+        "score": 0.33214285714285713,
+        "color": "black",
+        "background": "rgb(255, 223.26666666666668, 225.53333333333333)"
+    },
+    {
+        "word": "TITI",
+        "hex": "#7171",
+        "score": 0.33214285714285713,
+        "color": "black",
+        "background": "rgb(245.93333333333334, 239.13333333333333, 245.93333333333334)"
+    },
+    {
+        "word": "GAIT",
+        "hex": "#6A17",
+        "score": 0.33,
+        "color": "black",
+        "background": "rgb(183.6, 215.33333333333331, 143.93333333333334)"
+    },
+    {
+        "word": "GATS",
+        "hex": "#6A75",
+        "score": 0.32785714285714285,
+        "color": "black",
+        "background": "rgb(204.00000000000003, 226.66666666666669, 209.66666666666669)"
+    },
+    {
+        "word": "ZEST",
+        "hex": "#2E57",
+        "score": 0.32571428571428573,
+        "color": "black",
+        "background": "rgb(151.86666666666667, 247.06666666666666, 175.66666666666666)"
+    },
+    {
+        "word": "GAGA",
+        "hex": "#6A6A",
+        "score": 0.3242857142857143,
+        "color": "black",
+        "background": "rgb(153, 198.33333333333334, 153)"
+    },
+    {
+        "word": "GIST",
+        "hex": "#6157",
+        "score": 0.32357142857142857,
+        "color": "black",
+        "background": "rgb(183.6, 143.93333333333334, 175.66666666666666)"
+    },
+    {
+        "word": "ZITS",
+        "hex": "#2175",
+        "score": 0.3221428571428571,
+        "color": "black",
+        "background": "rgb(181.33333333333337, 175.66666666666669, 209.66666666666669)"
+    },
+    {
         "word": "GAZETTES",
         "hex": "#6A2E77E5",
         "score": 0.3214285714285714,
@@ -5334,11 +9303,53 @@
         "background": "rgb(121.1921568627451, 67.30980392156863, 132.86666666666667)"
     },
     {
+        "word": "GOGO",
+        "hex": "#6060",
+        "score": 0.32071428571428573,
+        "color": "black",
+        "background": "rgb(255, 255, 255)"
+    },
+    {
+        "word": "TOTE",
+        "hex": "#707E",
+        "score": 0.3192857142857143,
+        "color": "white",
+        "background": "rgb(128.06666666666666, 16.999999999999996, 128.06666666666666)"
+    },
+    {
+        "word": "TOGA",
+        "hex": "#706A",
+        "score": 0.31642857142857145,
+        "color": "white",
+        "background": "rgb(164.33333333333334, 85.00000000000001, 153)"
+    },
+    {
+        "word": "ZAGS",
+        "hex": "#2A65",
+        "score": 0.31642857142857145,
+        "color": "black",
+        "background": "rgb(181.33333333333337, 226.66666666666669, 204.00000000000003)"
+    },
+    {
+        "word": "TEAT",
+        "hex": "#7EA7",
+        "score": 0.3107142857142857,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 247.06666666666666, 215.33333333333331)"
+    },
+    {
         "word": "ATTEST",
         "hex": "#A77E57",
         "score": 0.30785714285714283,
         "color": "black",
         "background": "#A77E57"
+    },
+    {
+        "word": "TETS",
+        "hex": "#7E75",
+        "score": 0.30000000000000004,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 249.33333333333337, 209.66666666666669)"
     },
     {
         "word": "AGEIST",
@@ -5831,11 +9842,109 @@
         "background": "#21BE75"
     },
     {
+        "word": "ADZ",
+        "hex": "#AD2",
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#AD2"
+    },
+    {
+        "word": "AZO",
+        "hex": "#A20",
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#A20"
+    },
+    {
+        "word": "FIZ",
+        "hex": "#F12",
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#F12"
+    },
+    {
+        "word": "GAE",
+        "hex": "#6AE",
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#6AE"
+    },
+    {
+        "word": "GID",
+        "hex": "#61D",
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#61D"
+    },
+    {
+        "word": "OOT",
+        "hex": "#007",
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#007"
+    },
+    {
+        "word": "SEG",
+        "hex": "#5E6",
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#5E6"
+    },
+    {
+        "word": "ZAS",
+        "hex": "#2A5",
+        "score": 0.29629629629629634,
+        "color": "black",
+        "background": "#2A5"
+    },
+    {
+        "word": "ZOA",
+        "hex": "#20A",
+        "score": 0.29629629629629634,
+        "color": "white",
+        "background": "#20A"
+    },
+    {
+        "word": "AGOG",
+        "hex": "#A606",
+        "score": 0.27642857142857147,
+        "color": "black",
+        "background": "rgb(221, 193.8, 153)"
+    },
+    {
+        "word": "ZITI",
+        "hex": "#2171",
+        "score": 0.2735714285714286,
+        "color": "black",
+        "background": "rgb(240.26666666666668, 239.13333333333333, 245.93333333333334)"
+    },
+    {
         "word": "TITBIT",
         "hex": "#717B17",
         "score": 0.27,
         "color": "white",
         "background": "#717B17"
+    },
+    {
+        "word": "TEGS",
+        "hex": "#7E65",
+        "score": 0.27,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 249.33333333333337, 204.00000000000003)"
+    },
+    {
+        "word": "GEST",
+        "hex": "#6E57",
+        "score": 0.2607142857142857,
+        "color": "black",
+        "background": "rgb(183.6, 247.06666666666666, 175.66666666666666)"
+    },
+    {
+        "word": "GETA",
+        "hex": "#6E7A",
+        "score": 0.2607142857142857,
+        "color": "black",
+        "background": "rgb(153, 243.66666666666669, 164.33333333333334)"
     },
     {
         "word": "TATTED",
@@ -5850,6 +9959,34 @@
         "score": 0.255,
         "color": "black",
         "background": "#2AF716"
+    },
+    {
+        "word": "BATT",
+        "hex": "#BA77",
+        "score": 0.255,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 215.33333333333331, 191.53333333333333)"
+    },
+    {
+        "word": "BOTT",
+        "hex": "#B077",
+        "score": 0.255,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 136, 191.53333333333333)"
+    },
+    {
+        "word": "TOGS",
+        "hex": "#7065",
+        "score": 0.255,
+        "color": "black",
+        "background": "rgb(209.66666666666669, 170.00000000000003, 204.00000000000003)"
+    },
+    {
+        "word": "EGG",
+        "hex": "#E66",
+        "score": 0.2465608465608466,
+        "color": "black",
+        "background": "#E66"
     },
     {
         "word": "ATTICIST",
@@ -6132,11 +10269,130 @@
         "background": "#7077ED"
     },
     {
+        "word": "BITT",
+        "hex": "#B177",
+        "score": 0.2392857142857143,
+        "color": "black",
+        "background": "rgb(223.26666666666665, 143.93333333333334, 191.53333333333333)"
+    },
+    {
+        "word": "TOST",
+        "hex": "#7057",
+        "score": 0.2392857142857143,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 136, 175.66666666666666)"
+    },
+    {
+        "word": "GIG",
+        "hex": "#616",
+        "score": 0.23132275132275132,
+        "color": "white",
+        "background": "#616"
+    },
+    {
+        "word": "TAG",
+        "hex": "#7A6",
+        "score": 0.22941798941798947,
+        "color": "black",
+        "background": "#7A6"
+    },
+    {
+        "word": "TIT",
+        "hex": "#717",
+        "score": 0.2084656084656085,
+        "color": "white",
+        "background": "#717"
+    },
+    {
+        "word": "GAG",
+        "hex": "#6A6",
+        "score": 0.2056084656084656,
+        "color": "black",
+        "background": "#6A6"
+    },
+    {
+        "word": "GIT",
+        "hex": "#617",
+        "score": 0.19084656084656085,
+        "color": "white",
+        "background": "#617"
+    },
+    {
+        "word": "TAT",
+        "hex": "#7A7",
+        "score": 0.18227513227513228,
+        "color": "black",
+        "background": "#7A7"
+    },
+    {
+        "word": "ZIG",
+        "hex": "#216",
+        "score": 0.17941798941798942,
+        "color": "white",
+        "background": "#216"
+    },
+    {
+        "word": "TOT",
+        "hex": "#707",
+        "score": 0.17560846560846563,
+        "color": "white",
+        "background": "#707"
+    },
+    {
+        "word": "GAT",
+        "hex": "#6A7",
+        "score": 0.1722751322751323,
+        "color": "black",
+        "background": "#6A7"
+    },
+    {
+        "word": "ZIT",
+        "hex": "#217",
+        "score": 0.16846560846560846,
+        "color": "white",
+        "background": "#217"
+    },
+    {
+        "word": "ZAG",
+        "hex": "#2A6",
+        "score": 0.1646560846560847,
+        "color": "black",
+        "background": "#2A6"
+    },
+    {
         "word": "ZIGZAG",
         "hex": "#2162A6",
         "score": 0.16084656084656088,
         "color": "white",
         "background": "#2162A6"
+    },
+    {
+        "word": "TET",
+        "hex": "#7E7",
+        "score": 0.15370370370370373,
+        "color": "black",
+        "background": "#7E7"
+    },
+    {
+        "word": "ATT",
+        "hex": "#A77",
+        "score": 0.1360846560846561,
+        "color": "black",
+        "background": "#A77"
+    },
+    {
+        "word": "TEG",
+        "hex": "#7E6",
+        "score": 0.1337037037037037,
+        "color": "black",
+        "background": "#7E6"
+    },
+    {
+        "word": "TOG",
+        "hex": "#706",
+        "score": 0.13084656084656085,
+        "color": "white",
+        "background": "#706"
     },
     {
         "word": "GAZETTED",
@@ -6258,10 +10514,101 @@
         "background": "#20F716"
     },
     {
+        "word": "DITZ",
+        "hex": "#D172",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(250.46666666666667, 223.26666666666668, 236.86666666666667)"
+    },
+    {
+        "word": "GAST",
+        "hex": "#6A57",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(183.6, 215.33333333333331, 175.66666666666666)"
+    },
+    {
+        "word": "GIGA",
+        "hex": "#616A",
+        "score": 0.125,
+        "color": "white",
+        "background": "rgb(153, 96.33333333333334, 153)"
+    },
+    {
+        "word": "GITE",
+        "hex": "#617E",
+        "score": 0.125,
+        "color": "white",
+        "background": "rgb(112.2, 32.86666666666666, 128.06666666666666)"
+    },
+    {
+        "word": "IGGS",
+        "hex": "#1665",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(175.66666666666669, 204.00000000000003, 204.00000000000003)"
+    },
+    {
+        "word": "SETT",
+        "hex": "#5E77",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 247.06666666666666, 191.53333333333333)"
+    },
+    {
+        "word": "STET",
+        "hex": "#57E7",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 191.53333333333333, 247.06666666666666)"
+    },
+    {
+        "word": "STOT",
+        "hex": "#5707",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(175.66666666666666, 191.53333333333333, 136)"
+    },
+    {
+        "word": "TOFT",
+        "hex": "#70F7",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 136, 255)"
+    },
+    {
+        "word": "TOIT",
+        "hex": "#7017",
+        "score": 0.125,
+        "color": "black",
+        "background": "rgb(191.53333333333333, 136, 143.93333333333334)"
+    },
+    {
         "word": "TZETZE",
         "hex": "#72E72E",
         "score": 0.03703703703703704,
         "color": "black",
         "background": "#72E72E"
+    },
+    {
+        "word": "IGG",
+        "hex": "#166",
+        "score": 0.03703703703703704,
+        "color": "white",
+        "background": "#166"
+    },
+    {
+        "word": "TEGG",
+        "hex": "#7E66",
+        "score": 0.015625,
+        "color": "black",
+        "background": "rgb(200.6, 248.2, 193.8)"
+    },
+    {
+        "word": "ZZZ",
+        "hex": "#222",
+        "score": 0,
+        "color": "white",
+        "background": "#222"
     }
 ]

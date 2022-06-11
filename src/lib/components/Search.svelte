@@ -1,8 +1,5 @@
 <script lang="ts">
     import type { IHexWord } from "$lib/types";
-
-    import { hexToRgb, mixAlpha } from "../utils";
-
     import ColorPicker from "./ColorPicker.svelte";
     import Switch from "./Switch.svelte";
 

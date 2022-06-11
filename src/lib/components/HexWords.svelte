@@ -28,7 +28,7 @@
 
     $: filteredWords = orderedWords.map(
         (word) =>
-            (word.word.length !== 8 || alpha) &&
+            ((word.word.length !== 8 && word.word.length !== 4) || alpha) &&
             word.word.toLowerCase().includes(query.toLowerCase())
     );
 </script>
